@@ -1,0 +1,1436 @@
+﻿Area,Activity,Sex ,Age,Injury,Fatal(Y/N),Time,Species 
+California,Paddling,F,57,Non_Fatal,N,Evening,White shark
+Pernambuco,Swimming,M,18,FATAL,Y,Evening,Tiger shark
+Florida,Walking,M,15,Non_Fatal,N,Evening,"Bull shark, 6'"
+Queensland,Feeding sharks,M,32,Non_Fatal,N,Morning,Grey reef shark
+Cornwall,Fishing,M,21,Non_Fatal,N,Morning,Invalid incident
+Cocos Island,Scuba diving,M,30,Non_Fatal,N,Morning,Tiger shark
+Western Australia,Surfing,M,60,Non_Fatal,N,Morning,3 m shark
+Alifu Alifu Atoll,Fishing,M,32,Non_Fatal,N,Evening,Tiger shark
+Western Cape Province,Paddle-skiing,M,33,Non_Fatal,N,Morning,"White shark, 2.5 m"
+Eastern Cape Province,Surfing,M,19,Non_Fatal,N,Afternoon,White shark
+Hawaii,Stand-Up Paddleboarding,M,25,Non_Fatal,N,Morning,"Tiger shark, 12'"
+Western Australia,Wading,M,10,Non_Fatal,N,Evening,Wobbegong shark
+Victoria,Swimming,M,69,Non_Fatal,N,Afternoon,3.5 m shark
+Victoria,Surfing,M,18,Non_Fatal,N,Morning,1.8 m shark
+New South Wales,Swimming,F,55,Non_Fatal,N,Evening,"Juvenile white shark,  2.7 to 3.2 m"
+New South Wales,Walking,M,35,Non_Fatal,N,Afternoon,"Bull shark, 2 m"
+Fernando de Noronha,Surfing,M,20,Non_Fatal,N,Evening,small shark
+Hawaii,Surfing,F,54,Non_Fatal,N,Evening,Tiger shark
+California,Spearfishing,M,25,Non_Fatal,N,Afternoon,"White shark, 4.6 m"
+New South Wales,Surfing,M,25,Non_Fatal,N,Afternoon,2 m shark
+Holquin Province,Night bathing,M,22,FATAL,Y,Evening,Tiger shark
+New South Wales,Surfing,M,31,Non_Fatal,N,Morning,"Wobbegong shark, 1 m"
+South Australia,Kayaking / Fishing,F,15,Non_Fatal,N,Afternoon,"White shark, 4.5 m"
+Hawaii,Surfing,M,54,Non_Fatal,N,Evening,"Tiger shark, 8 to 10 feet"
+Hawaii,Snorkeling,F,40,Non_Fatal,N,Afternoon,8' shark
+Florida,Surfing,M,18,Non_Fatal,N,Evening,5' to 6' shark
+New South Wales,Surfing,M,35,Non_Fatal,N,Morning,"White shark, 3 to 3.5m "
+Victoria,Surfing,M,37,Non_Fatal,N,Morning,"White shark, 3 m"
+Massachusetts,SUP,M,69,Non_Fatal,N,Morning,"White shark, 5' to 7'"
+South Carolina,Swimming,M,13,Non_Fatal,N,Afternoon,Possibly a juvenile blacktip shark
+Massachusetts,Fishing,M,34,Non_Fatal,N,Evening,4' shark
+California,Kayaking,M,40,Non_Fatal,N,Morning,"White shark, 11' to 13'"
+California,SUP,M,50,Non_Fatal,N,Morning,"White shark, 8' to 10'"
+Florida,Swimming,M,46,Non_Fatal,N,Afternoon,"Bull shark, 4' to 5'"
+Eastern Cape Province,Surfing,F,13,Non_Fatal,N,Afternoon,"White shark, 2.5 m"
+Western Australia,Body boarding,M,48,Non_Fatal,N,Morning,"White shark, 4 m"
+New Providence ,Snorkeling,F,32,Non_Fatal,N,Morning,Tiger shark
+Western Australia,Surfing,F,17,FATAL,Y,Afternoon,White shark
+Hawaii,Surfing,M,28,Non_Fatal,N,Morning,"Tiger shark, 12'"
+Florida,Swimming,F,17,Non_Fatal,N,Afternoon,"Bull shark, 5' to 7'"
+Queensland,Scuba Diving,M,55,Non_Fatal,N,Afternoon,"Bull shark, 4 m"
+Bali,Surfing,M,48,Non_Fatal,N,Morning,"Bull shark, 1 m"
+Western Cape Province,Surf skiing ,M,55,Non_Fatal,N,Morning,"White shark, 4 m"
+New South Wales,Surf fishing,M,20,Non_Fatal,N,Morning,"Wobbegong shark, 2m"
+New South Wales,Surfing,M,65,Non_Fatal,N,Morning,White shark
+Victoria,Fishing,M,73,Non_Fatal,N,Morning,"Broadnose sevengill shark, 1.5 m"
+Hawaii,Floating,F,58,Non_Fatal,N,Morning,Tiger shark
+Hawaii,Surfing,M,36,Non_Fatal,N,Evening, 6' to 8' shark
+New South Wales,Surfing,M,17,Non_Fatal,N,Afternoon,"White shark, 3.5 m"
+Florida,Wading,M,60,Non_Fatal,N,Afternoon,3' to 4' shark
+Hawaii,Swimming,F,51,Non_Fatal,N,Afternoon,"Tiger shark, 10'"
+Florida,Surfing,M,25,Non_Fatal,N,Afternoon,"Bull shark, 6'"
+Hawaii,SUP Foil boarding,M,21,Non_Fatal,N,Afternoon,"Tiger shark, 10' "
+Alicante Province,Swimming,M,40,Non_Fatal,N,Morning,Blue shark
+Queensland,Fishing,M,31,Non_Fatal,N,Afternoon,"reef shark, 1m"
+California,Kite surfing,M,61,Non_Fatal,N,Evening,"White shark, 10' to 12'"
+Massachusetts,Fishing,M,59,Non_Fatal,N,Morning,dogfish shark
+Queensland,Fishing,M,34,Non_Fatal,N,Evening,Tawny nurse shark
+Isla Provedencia,Scuba Diving,M,59,Non_Fatal,N,Morning,"Caribbean reef shark, 4.5'"
+South Carolina,Floating,M,42,Non_Fatal,N,Afternoon,3' to 5' shark
+Texas,Floating in tube,F,6,Non_Fatal,N,Evening,3' to 4' shark
+North Carolina,Standing,M,19,Non_Fatal,N,Afternoon,3' shark
+Western Australia,Diving,F,60,FATAL,Y,Morning,3+ m shark
+Suez,Swimming,M,23,Non_Fatal,N,Morning,Mako shark
+Western Australia,Surfing,M,29,FATAL,Y,Afternoon,White shark
+Florida,Swimming,M,13,Non_Fatal,N,Afternoon,5' shark
+Florida,Swimming,F,22,Non_Fatal,N,Evening,"Bull shark, 4' to 5'"
+Florida,Swimming,M,48,Non_Fatal,N,Morning,"Blacktip shark, 4'"
+Florida,Teasing a shark,F,23,Non_Fatal,N,Afternoon,"Nurse shark, 2'"
+North Island,Fishing,M,39,Non_Fatal,N,Afternoon,"Mako shark, 1.5 m [5'] "
+Bali,Surfing,M,24,Non_Fatal,N,Morning,"Bull shark, 6'"
+New South Wales,Swimming,M,12,Non_Fatal,N,Afternoon,Wobbegong shark
+Tuamotos,Spearfishing,M,22,Non_Fatal,N,Morning,"Grey reef shark, 2 m"
+Tuamotos,Spearfishing,M,26,Non_Fatal,N,Morning,"Grey reef shark, 2 m"
+Grand Terre,Walking,F,69,FATAL,Y,Morning,"Tiger shark, 2.5 m"
+Hawaii,Paddle boarding,M,48,Non_Fatal,N,Morning,"Tiger shark, 14'"
+Queensland,Wading,M,11,Non_Fatal,N,Afternoon,Blacktip shark
+Queensland,Spearfishing,M,31,Non_Fatal,N,Morning,3 m shark
+Hawaii,Paddle boarding,M,71,Non_Fatal,N,Morning,9' shark
+New South Wales,Surfing,M,43,Non_Fatal,N,Morning,"Bronze whaler shark, 6'"
+Galapagos Islands,Snorkeling,M,55,Non_Fatal,N,Morning,Galapagos shark
+New South Wales,Surfing,M,20,Non_Fatal,N,Evening,"Bull shark, 2.8 to 3.1 m"
+Florida,Wading,F,28,Non_Fatal,N,Afternoon,3' to 5' shark
+Western Cape Province,Surfing,M,42,Non_Fatal,N,Afternoon,"White shark, 3 to 3.5m "
+Florida,Surfing,M,21,Non_Fatal,N,Afternoon,5' shark
+Florida,Surfing,M,21,Non_Fatal,N,Afternoon,"Spinner shark, 5'"
+Hawaii,Swimming,M,44,Non_Fatal,N,Morning,"Tiger shark, 7'"
+Hawaii,Surfing,M,25,Non_Fatal,N,Morning,"Tiger shark, 13' "
+Texas,Wading,M,13,Non_Fatal,N,Morning,4' to 5' shark
+Florida,Surfing,M,14,Non_Fatal,N,Morning,"Blacktip shark, 4' to 5'"
+Florida,Surfing,M,22,Non_Fatal,N,Afternoon,"Blacktip shark, 5' to 6'"
+Florida,Surfing,M,14,Non_Fatal,N,Afternoon,juvenile shark
+Hawaii,Spearfishing,M,27,Non_Fatal,N,Afternoon,"Tiger shark, 13'"
+Florida,Wading,M,12,Non_Fatal,N,Afternoon,4' shark
+New South Wales,Surfing,M,42,Non_Fatal,N,Morning,6' shark
+California,Stand-Up Paddleboarding,F,50,Non_Fatal,N,Evening,"White shark, 11' to 12'"
+California,Kayak Fishing,M,29,Non_Fatal,N,Afternoon,Hammerhead shark.
+New South Wales,Surf-skiing,M,62,Non_Fatal,N,Morning,"White shark, 2.5 m"
+Phuket,Wading,F,37,Non_Fatal,N,Morning,small shark
+California,Surfing,F,54,Non_Fatal,N,Morning,"White shark, 11' to 12'"
+California,Surfing,M,21,Non_Fatal,N,Morning,"White shark, 10' to 12' "
+South Carolina,Surfing,M,15,Non_Fatal,N,Afternoon,4' shark
+Florida,Walking,F,10,Non_Fatal,N,Afternoon,3' shark
+California,Kayak Fishing,M,22,Non_Fatal,N,Morning,"White shark, 13'"
+California,Spearfishing,M,57,Non_Fatal,N,Morning,Hammerhead shark. 6' to 7'
+New South Wales,Surfing,M,52,Non_Fatal,N,Morning,White shark
+Florida,Surfing,M,25,Non_Fatal,N,Evening,"Blacktip or spinner shark, 4'"
+Tasmania,Scallop diving on hookah,M,46,FATAL,Y,Morning,"White shark, 3.9 to 4.2 m"
+California,Surfing,M,38,Non_Fatal,N,Morning,"White shark, 7'"
+New South Wales,Surfing,M,52,Non_Fatal,N,Morning,White shark
+New South Wales,Body boarding ,M,32,Non_Fatal,N,Morning,White shark
+North Carolina,Swimming,M,68,Non_Fatal,N,Afternoon,6' to 7' shark
+South Carolina,Playing in the water,M,12,Non_Fatal,N,Evening,4' to 5' shark
+North Carolina,Swimming,M,18,Non_Fatal,N,Afternoon,Bull shark
+Western Cape Province,Body Boarding,M,19,Non_Fatal,N,Afternoon,White shark
+Western Cape Province,Surfing,M,23,Non_Fatal,N,Afternoon,"White shark, 2m to 3 m"
+South Carolina,Standing,M,43,Non_Fatal,N,Morning,4' shark
+North Carolina,Swimming,M,6,Non_Fatal,N,Afternoon,Sandtiger shark
+Western Australia,Surfing,F,37,Non_Fatal,N,Morning,White shark
+North Carolina,Wading,M,16,Non_Fatal,N,Evening,Bull shark
+North Carolina,Wading,F,12,Non_Fatal,N,Afternoon,Bull shark
+North Carolina,Boogie boarding,F,13,Non_Fatal,N,Afternoon,4' shark
+Florida,Playing,M,11,Non_Fatal,N,Morning,"Bull shark, 5'"
+Le Port,Surfing,M,47,Non_Fatal,N,Afternoon,"Bull shark, 2.5 m"
+Rangiroa,Spearfishing,M,19,Non_Fatal,N,Morning,1m to 1.2 m shark
+Florida,Surfing,M,18,Non_Fatal,N,Morning,5' shark
+Eastern Cape Province,Diving,M,29,Non_Fatal,N,Afternoon,"White shark, 3.5 m"
+Florida,Wading,M,63,Non_Fatal,N,Afternoon,3- to 4-foot shark
+South Australia,Surfing,M,26,Non_Fatal,N,Morning,"White shark, 6 m"
+New South Wales,Surf skiing ,M,71,Non_Fatal,N,Morning,"White shark, 3 m"
+Saint-Gilles-les-Bains,Surfing,M,13,FATAL,Y,Morning,Bull shark
+Florida,Spearfishing,M,70,Non_Fatal,N,Afternoon,Bull shark
+Hawaii,Standing / Snorkeling,M,58,Non_Fatal,N,Morning,"Tiger shark, 8 to 12 feet"
+Bora Bora,Hand feeding sharks,M,9,Non_Fatal,N,Morning,Blacktip shark
+dâ€™Ã‰tang-SalÃ©,Swimming,F,22,FATAL,Y,Evening,"Tiger shark, 3.5 m"
+New South Wales,Surfing,M,41,FATAL,Y,Morning,3.5 to 4 m shark
+New South Wales,Surfing,M,35,Non_Fatal,N,Morning,2 m to  3 m shark
+Queensland,Rowing,M,57,Non_Fatal,N,Morning,"Bull shark, 1.3 m"
+Hawaii,Shark fishing,M,20,Non_Fatal,N,Morning,4' shark
+Abaco Islands,Snorkeling,F,34,Non_Fatal,N,Afternoon,White shark or oceanic whitetip shark
+Eastern Cape Province,Surfing,M,15,Non_Fatal,N,Morning,"Raggedtooth shark, 1.3 m"
+Western Australia,Spearfishing,M,17,FATAL,Y,Morning,"White shark, 4 to 5 m"
+California,Surfing,M,50,Non_Fatal,N,Morning,"White shark, 8' to 10'"
+Victoria,Fishing,M,40,Non_Fatal,N,Morning,1.5 m shark
+Queensland,Spearfishing,M,17,FATAL,Y,Morning,Tiger shark
+Florida,Surfing,M,44,Non_Fatal,N,Afternoon,2' shark
+Hawaii,Snorkeling,M,53,Non_Fatal,N,Afternoon,1.5 m shark
+Hawaii,Surfing,F,34,Non_Fatal,N,Morning,"Tiger shark, 12'"
+New South Wales,Surfing,F,13,Non_Fatal,N,Morning,1 m shark
+Florida,Surfing,M,29,Non_Fatal,N,Morning,Blacktip shark
+Florida,Surfing,M,15,Non_Fatal,N,Morning,Blacktip shark
+California,Surfing,M,28,Non_Fatal,N,Evening,8' to 10' shark
+Western Australia,Surfing,M,23,Non_Fatal,N,Morning,"2 white shark: 13' & 9""8"""
+New South Wales,Swimming,M,50,FATAL,Y,Morning,7' shark
+Alabama,Fishing ,M,43,Non_Fatal,N,Afternoon,Bull shark
+Massachusetts,Kayaking ,F,20,Non_Fatal,N,Evening,"White shark, 12' to 14'"
+Florida,Fishing,M,52,Non_Fatal,N,Evening,3' to 4' shark
+Florida,Body surfing,F,13,Non_Fatal,N,Afternoon,Spinner shark
+Louisiana,Swimming,M,7,Non_Fatal,N,Afternoon," Bull shark, 5'"
+South Carolina,Boogie boarding,M,10,Non_Fatal,N,Afternoon,4' tp 5' shark
+Western Cape Province,Surfing,M,20,Non_Fatal,N,Afternoon,White shark
+Saint-Leu,Surfing,M,51,Non_Fatal,N,Afternoon,1.8 metre shark
+Hawaii,Swimming,M,61,Non_Fatal,N,Evening,6' to 8' shark
+Florida,Swimming,M,39,Non_Fatal,N,Afternoon,4' shark
+South Carolina,Body surfing,M,19,Non_Fatal,N,Evening,4' to 5' shark
+Abaco Islands,Spearfishing,M,42,Non_Fatal,N,Afternoon,"Caribbean reef shark, 7' to 8'"
+Delaware,Standing,M,16,Non_Fatal,N,Evening," Sandbar shark, 3' to 4'"
+South Australia,Body boarding,M,39,Non_Fatal,N,Morning,"Bronze whaler shark, 1.5m"
+Florida,Swimming,F,22,Non_Fatal,N,Afternoon,Bull shark
+South Australia,Surfing,M,35,Non_Fatal,N,Morning," white shark, 15' "
+South Carolina,Swimming,F,40,Non_Fatal,N,Afternoon,4' to 5' shark
+Florida,Surfing,M,23,Non_Fatal,N,Afternoon,3' shark
+New South Wales,Swimming,F,63,FATAL,Y,Morning,3 m to 4 m white shark
+Eastern Cape Province,Swimming,M,66,FATAL,Y,Afternoon,2 m shark
+Society Islands,Kitesurfing,M,21,Non_Fatal,N,Afternoon,Blacktip reef shark 
+South Island,Surfing,M,28,Non_Fatal,N,Evening,7-gill shark?
+North Province,Snorkeling,M,37,Non_Fatal,N,Morning,Reported to involve a bull shark
+Western Cape Province,Surfing,M,19,Non_Fatal,N,Morning,"White shark, 3m "
+Hawaii,Boogie boarding,M,29,Non_Fatal,N,Morning,"Tiger shark, 10' to 12'"
+Florida,Surfing,M,30,Non_Fatal,N,Afternoon,4' to 6' shark
+New South Wales,Surfing,M,26,Non_Fatal,N,Evening," Wobbegong shark, 1.6 to 1.8m "
+New South Wales,Body boarding,M,19,FATAL,Y,Afternoon,"Tiger shark, 3m "
+Western Australia,Surfing,M,35,FATAL,Y,Morning,Thought to involve a white shark
+Oregon,Surfing,M,25,Non_Fatal,N,Morning,"White shark, 10 '"
+Hawaii,Kiteboarding,M,46,Non_Fatal,N,Afternoon,Tiger shark
+Western Australia,Snorkeling,F,60,Non_Fatal,N,Afternoon,"Blacktip reef shark, 1m"
+dâ€™Ã‰tang-SalÃ©,Body boarding,M,24,Non_Fatal,N,Afternoon,Thought to involve a bull shark
+New South Wales,Surfing,M,41,Non_Fatal,N,Evening,Wobbegong shark
+Hawaii,Diving ,M,45,Non_Fatal,N,Afternoon,"Whitetip reef shark, 4' to 6'"
+Hawaii,Surfing,M,25,Non_Fatal,N,Morning,Tiger shark
+Florida,Wading,M,6,Non_Fatal,N,Evening,Nurse shark?
+Eastern Cape Province,Swimming / snorkeling,M,74,FATAL,Y,Morning,White shark
+Western Australia,Diving for Abalone,M,55,Non_Fatal,N,Morning,White shark
+California,Surfing,M,45,Non_Fatal,N,Morning,"White shark, 8' to 10'"
+Florida,Wading,M,12,Non_Fatal,N,Afternoon,Small bull shark
+Florida,Swimming,M,21,Non_Fatal,N,Afternoon,Bull shark
+Florida,Surfing,F,13,Non_Fatal,N,Afternoon,3' shark
+Florida,Surfing,M,43,Non_Fatal,N,Afternoon,3' shark
+Florida,Standing,M,25,Non_Fatal,N,Afternoon,3' shark
+Florida,Casting a net,M,9,Non_Fatal,N,Afternoon,4' shark
+Bay of Biscay,Longline fishing for sharks,M,50,Non_Fatal,N,Evening,"Mako shark, 5'"
+Hawaii,Snorkeling,F,20,FATAL,Y,Afternoon,Tiger shark?
+South Carolina,Surfing,M,10,Non_Fatal,N,Evening,"Bull shark, 8'"
+Florida,Fishing,M,17,Non_Fatal,N,Afternoon,"Bull shark, 6' to 8'"
+Abaco Islands,Spearfishing,M,40,Non_Fatal,N,Afternoon,6' shark
+Hawaii,Surfing,M,18,Non_Fatal,N,Afternoon,"Tiger shark, 8' to 10' "
+Exuma Islands,Cleaning fish,M,64,Non_Fatal,N,Afternoon,Nurse shark
+South Carolina,Swimming,M,14,Non_Fatal,N,Afternoon,4' to 5' shark
+Hawaii,Swimming,M,28,Non_Fatal,N,Afternoon,"Tiger shark, 14'"
+South Carolina,Boogie Boarding,F,10,Non_Fatal,N,Afternoon,4' to 5' shark
+Santa Cruz Island,Surfing,M,29,Non_Fatal,N,Afternoon,Galapagos shark
+Saint-Gilles,Body boarding,M,36,FATAL,Y,Morning,Bull shark
+Florida,Surfing,M,16,Non_Fatal,N,Morning,a small shark
+Quintana Roo,Swimming,F,34,Non_Fatal,N,Afternoon,Tiger shark
+New South Wales,Fishing,M,51,Non_Fatal,N,Afternoon,"Grey nurse shark, 3m"
+Florida,Playing in the surf,M,9,Non_Fatal,N,Morning,3' shark
+Florida,Surfing,M,21,Non_Fatal,N,Afternoon,Bull shark
+Tuamotus,Kite boarding,M,53,Non_Fatal,N,Afternoon,Possibly a blacktip reef shark
+Hawaii,Surfing,M,58,Non_Fatal,N,Morning,4' shark
+Western Cape Province,Fishing - 'tag & release',M,30,Non_Fatal,N,Morning,"Raggedtooth shark, 1.5 m"
+St. Catherine,Spearfishing,M,68,FATAL,Y,Morning,"Tiger shark, 4.8 m"
+Western Australia,Spearfishing,M,28,Non_Fatal,N,Morning,"Bronze whaler shark, 2.5m"
+North Island,Swimming,M,46,FATAL,Y,Afternoon,"White shark, 4m"
+Florida,Surfing,M,16,Non_Fatal,N,Afternoon,"Blacktip shark, 4' to 5'"
+Society Islands,Scuba diving,M,48,Non_Fatal,N,Morning,Lemon shark
+Hawaii,Surfing,M,43,Non_Fatal,N,Afternoon,"Tiger shark, 15'"
+New South Wales,Surfing,M,23,Non_Fatal,N,Afternoon,2.5 m shark
+New South Wales,Paddle boarding,M,29,Non_Fatal,N,Morning,"Bull shark, 2m "
+Western Australia,Surfing,M,32,Non_Fatal,N,Morning,"Tiger shark, 6'"
+Hawaii,Surfing,M,60,Non_Fatal,N,Afternoon,10' shark
+New South Wales,Spearfishing,M,31,Non_Fatal,N,Afternoon,Sandtiger shark
+Hawaii,Snorkeling,M,61,Non_Fatal,N,Morning,"Tiger shark, 10'"
+Sinaloa,Swimming,M,32,FATAL,Y,Morning,2.5 m shark
+Florida,Surfing,M,14,Non_Fatal,N,Evening,2' to 3' shark
+Hawaii,Diving,M,30,Non_Fatal,N,Morning,"Tiger shark, 15'"
+Hawaii,Surfing,M,43,Non_Fatal,N,Morning,"Tiger shark, 8'"
+California,Surfing,M,25,Non_Fatal,N,Afternoon,White shark
+Hawaii,Swimming,F,51,Non_Fatal,N,Afternoon,"Tiger shark, 10' to 12' "
+California,Surfing,M,39,FATAL,Y,Morning,"White shark, 15' to 16' "
+Hawaii,Paddle boarding,M,55,Non_Fatal,N,Morning,6' to 8' shark
+Western Australia,Bodyboarding,M,11,Non_Fatal,N,Afternoon,2m shark
+Florida,Surfing,M,21,Non_Fatal,N,Afternoon,5' shark
+Florida,Surfing,M,22,Non_Fatal,N,Afternoon,4' shark
+Florida,Boogie boarding,F,8,Non_Fatal,N,Evening,3.5' to 4' shark
+Florida,Swimming or boogie boarding,F,56,Non_Fatal,N,Afternoon,3.5' to 4' shark
+Florida,Free diving ,M,56,Non_Fatal,N,Afternoon,"Lemon shark, 4' to 5' "
+Saint Leu,Surfing,M,39,Non_Fatal,N,Evening,Bull shark
+South Australia,Surfing,M,48,Non_Fatal,N,Afternoon,White shark or bronze whaler
+Massachusetts,Body surfing,M,50,Non_Fatal,N,Afternoon,Thought to involve a white shark
+Western Australia,Surfing,M,24,FATAL,Y,Morning,"White shark, 5m"
+California,Kayaking,M,52,Non_Fatal,N,Morning,14' to 18'shark
+Western Cape Province,Surfing,M,29,Non_Fatal,N,Afternoon,15' shark
+Florida,Swimming,M,6,Non_Fatal,N,Evening,possibly a bull shark
+Hawaii,Sitting in the water,F,16,Non_Fatal,N,Morning,a small reef shark
+Western Australia,Surf skiing ,M,62,Non_Fatal,N,Morning,3 m shark
+Florida,Fishing,M,23,Non_Fatal,N,Afternoon,Nurse shark
+South Carolina,Swimming,F,18,Non_Fatal,N,Afternoon,small blacktip shark?
+South Carolina,Swimming,M,16,Non_Fatal,N,Afternoon,Blacktip shark 
+Victoria,Surfing,M,42,Non_Fatal,N,Morning,1.5 m shark
+Sardinia,Attempting to rescue an injured & beached shark,M,57,Non_Fatal,N,Morning,"Blue shark, 2.5m"
+New South Wales,Surf skiing ,M,30,Non_Fatal,N,Afternoon,"White shark, 2 m"
+North Carolina,Wading,F,33,Non_Fatal,N,Afternoon,"18"" to 24"" shark"
+Guerrero,Free diving / spearfishing,M,46,Non_Fatal,N,Morning,"Bull shark, 3m"
+Florida,Surfing,M,22,Non_Fatal,N,Afternoon,4' to 5' shark
+California,Kayaking / Fishing,M,30,Non_Fatal,N,Afternoon,White shark
+California,Paddle boarding,F,15,Non_Fatal,N,Morning,White shark
+Florida,Surfing,M,28,Non_Fatal,N,Evening,5' shark
+Western Cape Province,Body boarding,M,20,FATAL,Y,Afternoon,"White shark, 4 m to 5m "
+Hawaii,Surfing,M,28,Non_Fatal,N,Afternoon,"Tiger shark, 10'  "
+Western Australia,Scuba diving,M,33,FATAL,Y,Morning,"White shark, 4m "
+Queensland,Surfing,M,20,Non_Fatal,N,Evening,Possibly a bull shark
+Florida,Surfing,M,61,Non_Fatal,N,Afternoon,Possibly a 5' to 6' bull shark
+Florida,Surfing,F,15,Non_Fatal,N,Afternoon,4' to 5' shark
+Florida,Surfing,M,17,Non_Fatal,N,Afternoon,4' to 5' shark
+Victoria,"Diving, feeding sharks",F,34,Non_Fatal,N,Morning,"Tawny nurse shark, 40cm"
+Florida,Kite Surfing,M,19,Non_Fatal,N,Afternoon,4' shark
+Western Australia,Snorkeling,M,26,Non_Fatal,N,Afternoon,"Tiger shark, 3m"
+New South Wales,Surfing,M,44,Non_Fatal,N,Afternoon,"White shark, 2.7 m"
+Eastern Cape Province,Swimming,M,25,FATAL,Y,Afternoon,Thought to involve a bull shark
+New South Wales,Surfing,M,28,Non_Fatal,N,Evening,2 m shark
+Queensland,Spearfishing,M,34,Non_Fatal,N,Morning,Allegedly a 4 m tiger shark
+New South Wales,Surfing,M,51,Non_Fatal,N,Morning,"White shark, 2.5m"
+Queensland,Swimming,M,10,Non_Fatal,N,Afternoon,Wobbegong shark?
+Western Australia,Diving,M,32,FATAL,Y,Afternoon,"White shark, 10'"
+Victoria,Diving,M,50,Non_Fatal,N,Afternoon,"Port Jackson shark, 1m"
+Western Cape Province,Swimming,M,43,Non_Fatal,N,Afternoon,White shark
+Florida,Spearfishing,M,21,Non_Fatal,N,Afternoon,"Bull shark, 6'"
+Florida,Surfing,M,25,Non_Fatal,N,Morning,4' to 6' shark
+Central Province,Kite Surfing,M,30,Non_Fatal,N,Afternoon,"Tiger shark, 2m"
+Western Australia,Body boarding,M,21,FATAL,Y,Afternoon,White shark
+Florida,Surfing,M,19,Non_Fatal,N,Morning,"6' shark, possibly a blactip or spinner shark"
+Florida,Surfing,M,19,Non_Fatal,N,Morning,6' shark
+Western Cape Province,Surfing,M,49,FATAL,Y,Morning,"White shark, >6'"
+North Carolina,Wading,F,20,Non_Fatal,N,Evening,Possibly a 5' to 6' sandtiger shark
+"Telyakovsky Bay, Khasan,  Primorsky Krai (Far East)",Swimming,M,25,Non_Fatal,N,Evening,4 m shark
+Society Islands,Surfing,M,32,Non_Fatal,N,Afternoon,Grey reef shark 
+Praslin,Swimming or Snorkeling,M,30,FATAL,Y,Afternoon,"Bull shark, 6'"
+Eastern Cape Province,Surfing,M,29,Non_Fatal,N,Morning,"White shark, 3m to 4m"
+KwaZulu-Natal,Scuba diving,M,22,Non_Fatal,N,Afternoon,"Bull shark, 3m female"
+North Carolina,Playing in the surf,F,10,Non_Fatal,N,Afternoon,"Bull shark, 6'"
+Florida,Scuba diving,M,28,Non_Fatal,N,Afternoon,"Blacktip shark, 4'"
+Florida,Wading,M,19,Non_Fatal,N,Afternoon,3' to 4' shark
+KwaZulu-Natal,Spearfishing,M,28,FATAL,Y,Afternoon,Zambesi shark
+North Province,Kite Boarding,M,15,FATAL,Y,Morning," Tiger shark, 2.8m"
+Western Australia,Washing sand off a speared fish,M,17,Non_Fatal,N,Afternoon,"reef shark, 1.5m"
+Florida,Surfing ,M,49,Non_Fatal,N,Afternoon,1' to 2' shark
+South Island,Surfing,M,41,Non_Fatal,N,Afternoon,possibly a bronze whaler shark
+New South Wales,Surfing,M,48,Non_Fatal,N,Evening,"Bull shark, 2.5m"
+New South Wales,Wakeboarding,F,24,Non_Fatal,N,Afternoon,3 m to 4 m shark
+Queensland,Fishing,M,36,Non_Fatal,N,Morning,"Bull shark, 2m"
+ Loyalty Islands,Spearfishing,M,21,Non_Fatal,N,Afternoon,1.5 m shark
+South Australia,Diving for abalone,M,49,FATAL,Y,Evening,White shark x 2
+Quintana Roo,Swimming,F,38,Non_Fatal,N,Afternoon,6' shark
+West End,Scuba diving,M,55,Non_Fatal,N,Afternoon,Caribbean reef shark
+Hawaii,Body boarding,M,16,Non_Fatal,N,Afternoon,6' shark
+South Sinai Peninsula,Snorkeling,F,70,FATAL,Y,Afternoon,"Oceanic whitetip shark, 2.5m "
+South Sinai Peninsula,Snorkeling,M,54,Non_Fatal,N,Morning,Mako shark 
+South Sinai Peninsula,Snorkeling,M,46,Non_Fatal,N,Morning,Mako shark
+South Sinai Peninsula,Snorkeling,F,70,Non_Fatal,N,Afternoon,"Oceanic whitetip shark, 2.5m, female"
+South Sinai Peninsula,Snorkeling,F,48,Non_Fatal,N,Afternoon,"Oceanic whitetip shark, 2.5m, female"
+Western Australia,Snorkeling,F,20,Non_Fatal,N,Afternoon,White shark
+Maine,Scuba diving,M,30,Non_Fatal,N,Afternoon,"Porbeagle shark, 8' "
+California,Body boarding,M,19,FATAL,Y,Morning,"White shark, 14' to 18' "
+New South Wales,Surfing,M,22,Non_Fatal,N,Afternoon,"Bull shark, 1.4m "
+Oregon,Surfing,M,29,Non_Fatal,N,Afternoon,White shark
+New South Wales,Surfing,M,15,Non_Fatal,N,Evening,2m shark
+Western Australia,Surfing,M,31,FATAL,Y,Morning,White shark
+Florida,Standing,F,37,Non_Fatal,N,Morning,3' to 4' shark
+South Carolina,Swimming,M,10,Non_Fatal,N,Morning,Possibly a small blacktip shark
+North Carolina,Swimming,F,13,Non_Fatal,N,Afternoon,"Sandtiger shark, 4' to 5'"
+Grand Canary Island,Swimming,M,9,Non_Fatal,N,Evening,Angel shark
+New York,Fishing,M,20,Non_Fatal,N,Afternoon,"Blue shark, 7'"
+California,Surfing,M,19,Non_Fatal,N,Evening,4' shark
+California,Stand-Up Paddleboarding,M,48,Non_Fatal,N,Afternoon,8' shark
+Binh Dinh Province,Swimming,M,17,Non_Fatal,N,Evening,1 m shark
+Florida,Boogie Boarding,F,18,Non_Fatal,N,Afternoon,4' shark
+Florida,Fishing,M,49,Non_Fatal,N,Morning,"Lemon shark, 4'"
+Binh Dinh Province,Rescuing,F,58,Non_Fatal,N,Evening,20 to 30kg shark
+Binh Dinh Province,Swimming,F,60,Non_Fatal,N,Evening,20 to 30kg shark
+Florida,Wading,F,10,Non_Fatal,N,Morning,4' shark
+Florida,Measuring sharks,M,29,Non_Fatal,N,Afternoon,"Lemon shark, 6'"
+Hawaii,Surfing,M,68,Non_Fatal,N,Afternoon,14' shark
+Eastern Cape Province,Surfing,M,35,Non_Fatal,N,Morning,2 m shark
+Sinai Peninsula,Swimming / treading water,M,24,Non_Fatal,N,Afternoon,"Oceanic whitetip shark, 6'"
+Saint-Benoit,Surfing,M,34,Non_Fatal,N,Morning,1.5 m shark
+Queensland,Snorkeling,F,60,Non_Fatal,N,Afternoon,2 m shark
+New South Wales,Surfing,M,46,Non_Fatal,N,Morning,"Wobbegong shark, 1.6m"
+New South Wales,Body boarding,M,18,Non_Fatal,N,Afternoon,"White shark, 2.5m"
+South Island,Boogie Boarding,F,14,Non_Fatal,N,Evening,1.5 m shark
+Western Province,Standing,M,37,FATAL,Y,Afternoon,White shark
+Maputo Province,Swimming,M,27,Non_Fatal,N,Afternoon,"Zambesi shark, 2m "
+Queensland,Spearfishing,M,18,Non_Fatal,N,Morning,"Bull shark, 3m"
+New Jersey,Diving,M,58,Non_Fatal,N,Afternoon,"Sandtiger shark, 8'"
+Florida,Wading,M,10,Non_Fatal,N,Morning,6' shark
+California,Fishing,M,31,Non_Fatal,N,Afternoon,Thresher shark
+Florida,Surfing,M,18,Non_Fatal,N,Afternoon,4' shark
+South Australia,Kayaking,M,25,Non_Fatal,N,Morning,2 m shark
+Victoria,Kayaking,M,27,Non_Fatal,N,Morning,"White shark, 4m"
+Hawaii,Surfing,M,54,Non_Fatal,N,Morning,6' to 8' shark
+Fife,Diving,M,23,Non_Fatal,N,Afternoon,Angel shark
+Devon,Fishing,M,39,Non_Fatal,N,Afternoon,Spurdog
+North Carolina,Swimming,M,60,FATAL,Y,Evening,Shark involvement prior to death not confirmed
+Western Cape Province,Surfing,M,25,FATAL,Y,Afternoon,White shark
+California,Swimming,F,22,Non_Fatal,N,Afternoon,"White shark, 5' to 6' juvenile "
+Louisiana,Wade Fishing,M,56,Non_Fatal,N,Morning,Bull shark?
+Florida,Swimming,F,43,Non_Fatal,N,Afternoon,"Nurse shark, 6'"
+New South Wales,Surfing,M,52,Non_Fatal,N,Morning,"Thought to involve a Bronze whale shark, 2m"
+St. Johns Reef,Snorkeling,F,50,FATAL,Y,Morning,"Oceanic whitetip shark, 2.5 to 3m"
+Off Green Island,Fishing,M,46,Non_Fatal,N,Evening,80 kg shark
+Florida,Surfing,M,31,Non_Fatal,N,Morning,blacktip or spinner shark
+Florida,Surfing,M,49,Non_Fatal,N,Morning,blacktip or spinner shark
+Florida,Surfing,M,55,Non_Fatal,N,Morning,blacktip or spinner shark
+North Region,Spearfishing,M,27,Non_Fatal,N,Afternoon,"Blacktip shark, 4'"
+Florida,Surfing,M,31,Non_Fatal,N,Afternoon,2' to 3' shark
+New South Wales,Surf skiing ,M,40,Non_Fatal,N,Morning,2' to 3' shark
+New South Wales,Surfing,M,17,Non_Fatal,N,Evening,Bronze whaler shark?
+Florida,Surfing,F,17,Non_Fatal,N,Evening,3' to 4' shark
+Hawaii,Swimming,M,61,Non_Fatal,N,Evening,Thought to involve a cookie cutter shark
+Western Cape Province,Fishing,M,40,Non_Fatal,N,Afternoon,"Blue shark, 1m"
+New South Wales,Surfing,M,15,Non_Fatal,N,Morning,2.6 m shark
+New South Wales,Surfing,M,33,Non_Fatal,N,Evening,"White shark, 2.5m "
+New South Wales,"Diving, but on the surface when bitten by the shark",M,31,Non_Fatal,N,Morning,"Bull shark, 2.7 m "
+New South Wales,Surfing,M,41,Non_Fatal,N,Morning,"White shark, 12' "
+Guantanamo Province,Spearfishing,M,15,Non_Fatal,N,Morning,Bull shark
+Eastern Cape Province,Swimming,M,25,FATAL,Y,Afternoon,Tiger shark
+New South Wales,Snorkeling,M,24,Non_Fatal,N,Morning,"Dusky shark, 2m"
+Tasmania,Surfing,F,13,Non_Fatal,N,Afternoon,"White shark, 5m"
+New South Wales,Surfing,M,31,Non_Fatal,N,Morning,"White shark, 3.5m"
+North Island,Swimming,M,49,Non_Fatal,N,Evening,Broadnose sevengill shark
+New South Wales,Kayaking,M,29,Non_Fatal,N,Morning,"White shark, 4m to 5m "
+Western Australia,Snorkeling,M,51,FATAL,Y,Morning,4 to 5m white shark
+Western Cape Province,Fishing,M,15,Non_Fatal,N,Evening,"Raggedtooth shark, 2m"
+New South Wales,Scuba diving,M,34,Non_Fatal,N,Evening,"Grey nurse shark, 3m"
+" Split-Dalmatia Count,",Spearfishing,M,43,Non_Fatal,N,Afternoon,5 m white shark
+Florida,Surfing,M,40,Non_Fatal,N,Morning,+3' shark
+Northern Territory,Swimming,M,43,Non_Fatal,N,Afternoon,Bronze whaler shark
+Florida,Swimming,M,32,Non_Fatal,N,Afternoon,2' to 3' juvenile shark
+Hawaii,Surfing,M,40,Non_Fatal,N,Afternoon,Tiger shark
+New South Wales,Surfing,M,51,Non_Fatal,N,Afternoon,3 m shark
+Florida,Surfing,M,52,Non_Fatal,N,Morning,4' shark
+Florida,Surfing,M,26,Non_Fatal,N,Morning,6' shark
+US Virgin Islands,Treading water,F,38,Non_Fatal,N,Evening,8' bull shark or Caribbean reef shark
+Victoria,Surfing,M,31,Non_Fatal,N,Morning,8' white shark or 7-gill shark
+North Carolina,Wading,F,8,Non_Fatal,N,Afternoon,3' to 4' shark
+Florida,Wading,M,16,Non_Fatal,N,Afternoon,4' shark
+Abaco Islands,Spearfishing,M,42,Non_Fatal,N,Morning,"Bull shark, 6' to 7'"
+Western Cape Province,Surf skiing ,M,46,Non_Fatal,N,Afternoon,"White shark, 2m"
+South Carolina,Swimming,M,37,Non_Fatal,N,Morning,4.5 to 5' shark
+California,Kayaking,F,40,Non_Fatal,N,Morning,"White shark, 15'"
+South Carolina,Body surfing,F,15,Non_Fatal,N,Evening,5' shark
+Pernambuco,Swimming,M,14,Non_Fatal,N,Afternoon,Bull shark
+Guerro,Surfing,M,49,Non_Fatal,N,Morning,3 m shark
+Western Australia,Swimming,M,37,Non_Fatal,N,Morning,"White shark, 4m"
+North Province,Fishing,M,40,Non_Fatal,N,Afternoon,2 small bull sharks
+Guerro,Surfing,M,24,FATAL,Y,Afternoon,Tiger shark
+Florida,Surfing,M,18,Non_Fatal,N,Morning,4' shark
+North Province,Swimming,M,32,Non_Fatal,N,Morning,"Bull shark, 1.8m"
+California,Swimming,M,66,FATAL,Y,Morning,"White shark, 12' to 15'"
+Florida,Surfing,M,30,Non_Fatal,N,Afternoon,1.5' to 2' shark
+New South Wales,Body boarding,M,16,FATAL,Y,Morning,Bull shark
+Florida,Surfing,M,52,Non_Fatal,N,Evening,4' to 5' shark
+Florida,Walking out of the water after surfing,M,13,Non_Fatal,N,Morning,2.5' shark
+Florida,Jet skiing,M,8,Non_Fatal,N,Afternoon,Shark involvement not confirmed
+California,Surfing,M,27,Non_Fatal,N,Morning,White shark
+Northern Bahamas,Diving,M,49,FATAL,Y,Morning,"A bull shark, according to some of the divers on the boat"
+Queensland,Accidentally stood on hooked shark's tail before attempting to gut it ,M,20,Non_Fatal,N,Morning,"Mako shark, 90kg"
+New South Wales,Surfing,M,31,Non_Fatal,N,Morning,2 m shark
+Hawaii,Surfing,M,52,Non_Fatal,N,Morning,Tiger shark
+Western Cape Province,Surfing,M,14,Non_Fatal,N,Evening,1.5 to 2 m shark
+Florida,Surfing,M,21,Non_Fatal,N,Morning,4' to 5' shark
+Florida,Surfing,M,42,Non_Fatal,N,Morning,5' shark
+Eastern Cape Province,Surfing,M,37,Non_Fatal,N,Morning,"White shark, 3m to 4m"
+Hawaii,Floating,M,32,Non_Fatal,N,Afternoon,Tiger shark
+New South Wales,Surf-skiing,F,52,Non_Fatal,N,Morning,"White shark, 2.5m "
+Queensland,Spearfishing,M,31,Non_Fatal,N,Afternoon,Bronze whaler shark
+California,Surfing,M,22,Non_Fatal,N,Evening,3' to 4' shark
+Florida,Surfing,M,16,Non_Fatal,N,Morning,"Blacktip shark, 5'"
+Loyalty Islands,Swimming,F,23,FATAL,Y,Morning,Tiger shark
+Grand Bahama Island,Spearfishing,F,48,Non_Fatal,N,Afternoon,Caribbean reef shark
+Red Sea,Swimming,F,19,Non_Fatal,N,Morning,Oceanic whitetip sharks were in the vicinity
+Florida,Surfing,M,23,Non_Fatal,N,Evening,3' shark
+Florida,Surfing,F,15,Non_Fatal,N,Morning,9.5' shark?
+Florida,Snorkeling,M,14,Non_Fatal,N,Afternoon,"Nurse shark, 2' to 3' "
+Florida,Jumping,F,12,Non_Fatal,N,Morning,"18"" to 24"" shark"
+Florida,Swimming,M,58,Non_Fatal,N,Morning,Possibly a spinner shark
+Hawaii,Body boarding,M,15,Non_Fatal,N,Afternoon,"Tiger shark, 10' to 12' "
+California,Surfing,M,24,Non_Fatal,N,Morning,"White shark, 12'"
+Florida,Surfing,M,54,Non_Fatal,N,Afternoon,3' shark
+Florida,Surfing,M,27,Non_Fatal,N,Morning,3' shark
+Florida,Surfing,M,16,Non_Fatal,N,Afternoon,4' to 5' shark
+Florida,Floating near boat & observing bioluminesce,M,20,Non_Fatal,N,Evening,Possibly a 6' bull shark
+Florida,Swimming,F,15,Non_Fatal,N,Evening, 
+Florida,Jumped into the water,F,19,Non_Fatal,N,Afternoon,Possibly a 10' bull shark
+Hawaii,Snorkeling,M,36,Non_Fatal,N,Afternoon, 
+Territory of Cocos (Keeling) Islands,Wading,M,15,Non_Fatal,N,Morning,"Bronze whaler shark, 1.5 m "
+North Carolina,Swimming,M,14,Non_Fatal,N,Afternoon,2' to 3' shark
+North Carolina,Wading,F,30,Non_Fatal,N,Afternoon,5' shark
+Abaco Islands,Spearfishing,F,48,Non_Fatal,N,Morning,"Bull shark, 5' "
+Florida,Surfing,M,20,Non_Fatal,N,Evening,4' shark
+Virginia,Reviving a sedated shark,F,40,Non_Fatal,N,Morning,A 10-year-old 94-pound pregnant blacktip reef shark
+Kent,Fishing,M,38,Non_Fatal,N,Afternoon,"Lesser spotted dogfish, Scyliorhinus canicula, less than 80 cm in length"
+Western Australia,Wading,F,38,Non_Fatal,N,Afternoon,2.5 m shark
+Victoria,Surfing,M,19,Non_Fatal,N,Evening,10' shark
+Florida,Surfing,F,21,Non_Fatal,N,Afternoon,4' to 5' shark
+Hawaii,Snorkeling,F,63,Non_Fatal,N,Morning,"Tiger shark, 14' "
+Florida,Swimming,M,68,Non_Fatal,N,Morning,6' to 8' shark
+Queensland,Swimming / jumping off a jetty,F,13,Non_Fatal,N,Evening,"""a small shark"""
+Florida,Body boarding,M,12,Non_Fatal,N,Afternoon,blacktip or spinner shark
+Florida,Surfing,M,24,Non_Fatal,N,Evening,3' to 4' shark
+South Province,Surfing,M,26,Non_Fatal,N,Afternoon,Tiger shark
+Florida,Surfing,M,27,Non_Fatal,N,Afternoon,3' shark
+Florida,Surfing,M,11,Non_Fatal,N,Evening,4' to 5' shark
+New South Wales,Surfing,F,42,Non_Fatal,N,Morning,1.5 m shark
+Queensland,Swimming,F,59,Non_Fatal,N,Afternoon,2 to 2.5 m shark
+North Province,Spearfishing (free diving),M,30,Non_Fatal,N,Afternoon,Tiger shark
+New South Wales,Diving,M,41,Non_Fatal,N,Morning,"White shark, 3m"
+Eastern Cape Province,Swimming / Body Surfing,M,24,FATAL,Y,Afternoon,Tiger shark
+Hawaii,Surfing,M,24,Non_Fatal,N,Morning,"6' to 8' shark, possibly a tiger shark"
+Victoria,Surfing,M,25,Non_Fatal,N,Evening,2.5 to 3 m shark
+North Island,Surfing,M,10,Non_Fatal,N,Morning,2 to 3 m shark
+California,Surfing,M,43,Non_Fatal,N,Morning,"White shark, 12' to 15' "
+KwaZulu-Natal,Fishing,M,25,Non_Fatal,N,Evening,"Raggedtooth shark, 150-kg"
+Western Australia,Body boarding,M,15,Non_Fatal,N,Morning,"White shark, 5m "
+Hawaii,Swimming,M,29,Non_Fatal,N,Afternoon,2 m to 3 m shark
+Oregon,Surfing,M,22,Non_Fatal,N,Evening,"White shark, 16' "
+Florida,Playing soccer in the water,M,18,Non_Fatal,N,Afternoon,3' to 3.5' shark
+Florida,Swimming,M,55,Non_Fatal,N,Afternoon,Spinner shark
+Florida,Standing,M,33,Non_Fatal,N,Evening,3' shark
+Western Cape Province,Lifesaving drill,M,24,Non_Fatal,N,Morning,White shark
+Oregon,Surfing,M,41,Non_Fatal,N,Afternoon,White shark?
+Western Cape Province,Surf-skiing,M,19,Non_Fatal,N,Afternoon,"White shark, 3m to 4m"
+Florida,Surfing,M,14,Non_Fatal,N,Afternoon, 
+South Carolina,Standing,M,49,Non_Fatal,N,Morning,"Angel shark, 1.2m "
+South Carolina,Body boarding,F,14,Non_Fatal,N,Morning,5' to 6' spinner or bull shark
+Florida,Surfing,F,22,Non_Fatal,N,Afternoon,Possibly a 1' to 3' blacktip or spinner shark
+Florida,Surfing,M,24,Non_Fatal,N,Afternoon,2' to 3' shark
+South Carolina,Playing,F,7,Non_Fatal,N,Afternoon,3' to 4' shark
+South Australia,Surfing,M,40,Non_Fatal,N,Morning,14' white shark
+Hawaii,Spearfishing,M,26,Non_Fatal,N,Afternoon,"Tiger shark, 8' to 12'"
+Hawaii,Spearfishing,M,15,Non_Fatal,N,Afternoon,"Grey reef shark, 5' to 8' "
+Guam,Scuba diving,F,30,Non_Fatal,N,Afternoon,"Tiger shark, 10' to 12'"
+Queensland,Snorkeling,M,46,Non_Fatal,N,Afternoon,"Wobbegong shark, 2 m "
+Florida,Fishing,M,35,Non_Fatal,N,Afternoon,"Bull shark, 4' to bull shark"
+New South Wales,Surfing,M,15,Non_Fatal,N,Afternoon,"Bronze whaler shark, a  juvenile "
+Eastern Cape Province,Body boarding,M,15,Non_Fatal,N,Evening,"Raggedtooth shark, 2.5 m to 3 m "
+Pernambuco,Swimming,M,35,Non_Fatal,N,Afternoon,Tiger shark
+Hawaii,Surfing,F,28,Non_Fatal,N,Morning,"Tiger shark, 10'  "
+Vitu Levu,Surfing,M,21,Non_Fatal,N,Evening,"Tiger shark, 5' "
+New South Wales,Surfing,M,15,Non_Fatal,N,Evening,"Bronze whaler shark, 2 m"
+Hawaii,Standing,F,15,Non_Fatal,N,Afternoon,5' to 7' shark
+Eastern Cape Province,Surfing,M,15,Non_Fatal,N,Evening,Raggedtooth shark
+Vava'u,Swimming,F,24,FATAL,Y,Evening,Tiger shark
+Hawaii,Kayaking,M,57,Non_Fatal,N,Afternoon,12' to 18' shark
+Western Australia,Scuba diving,M,52,Non_Fatal,N,Morning,3.5 m white shark
+Queensland,Swimming,F,21,FATAL,Y,Evening,Bull shark
+Florida,Surfing,M,21,Non_Fatal,N,Afternoon,4' shark
+Oregon,Surfing,M,30,Non_Fatal,N,Afternoon,White shark
+Hawaii,Swimming,M,29,Non_Fatal,N,Morning,Tiger shark
+Queensland,Spearfishing,M,44,Non_Fatal,N,Morning,Whitetip reef shark
+Florida,Surfing,M,23,Non_Fatal,N,Afternoon,4' shark
+Victoria,Surfing,M,18,Non_Fatal,N,Evening,1.8 m shark
+Florida,Surfing,M,30,Non_Fatal,N,Afternoon,4' shark
+Eastern Cape Province,Fishing for sharks,M,32,Non_Fatal,N,Afternoon,"Raggedtooth shark, 2.5m "
+Florida,Surfing,M,18,Non_Fatal,N,Afternoon,6' shark
+California,Surfing,M,26,Non_Fatal,N,Morning,12' to 14' white shark
+Simpson Bay,Standing,M,55,Non_Fatal,N,Morning,2' shark
+Western Cape Province,Standing / Surfing,M,20,Non_Fatal,N,Morning,3 m shark
+California,Surfing,M,36,Non_Fatal,N,Morning,White shark
+California,Surfing,F,20,Non_Fatal,N,Morning,18' white shark
+Hawaii,Surfing,M,22,Non_Fatal,N,Evening,"Tiger shark, less than 10'"
+East Wall,Scuba diving,F,57,Non_Fatal,N,Afternoon,Caribbean reef sharks
+Western Cape Province,Surf-skiing,M,52,Non_Fatal,N,Afternoon,White shark
+South Australia,Surfing,M,26,Non_Fatal,N,Afternoon,14' to 16' white shark
+Western Australia,Surfing,M,44,Non_Fatal,N,Morning,Bronze whaler shark
+South Carolina,Body surfing,F,68,Non_Fatal,N,Afternoon,3' to 4' shark
+North Carolina,Wading,F,18,Non_Fatal,N,Afternoon,Bull shark
+South Australia,Surfing,M,40,Non_Fatal,N,Afternoon,4 m [13'] white shark
+South Australia,Scuba diving,M,23,FATAL,Y,Afternoon,White shark
+California,Surfing,M,37,Non_Fatal,N,Morning,juvenile white shark
+South Carolina,Swimming,M,8,Non_Fatal,N,Morning,Possibly a sandbar shark or small blacktip shark
+North Carolina,Surfing,M,16,Non_Fatal,N,Morning,1.8 m [6'] shark
+North Carolina,Swimming,M,22,Non_Fatal,N,Afternoon,[4.5' to 5'] shark
+Texas,Holding onto an inflatable boat,F,14,Non_Fatal,N,Afternoon,[4' to 5']
+Florida,Fishing,M,16,Non_Fatal,N,Morning,Bull shark
+Florida,Swimming with boogie board,F,14,FATAL,Y,Morning,1.8 m [6'] bull shark
+Malampa Province,Swimming,F,7,FATAL,Y,Afternoon,"On 8/13/2005 anglers from New Zealand caught a 2.8 m [9'3""], 140-kg [309-lb] shark at the same spot. It was believed this was the same shark that killed Alysha"
+Florida,Swimming,M,20,Non_Fatal,N,Afternoon,"Unknown, but it was reported that a shark tooth was recovered from the wound"
+Western Cape Province,Spearfishing (Free diving),M,22,FATAL,Y,Afternoon,White shark
+Florida,Swimming,M,33,Non_Fatal,N,Evening,"""small shark"""
+Eastern Cape Province,Surfing,M,32,Non_Fatal,N,Morning,Raggedtooth shark
+Hawaii,Surfing,M,47,Non_Fatal,N,Morning,"Tiger shark, 3 m [10']"
+New South Wales,Fishing,M,25,Non_Fatal,N,Evening,"Mako shark, 1.5 m [5'] "
+New South Wales,Surfing,M,40,Non_Fatal,N,Morning,Bronze whaler shark
+Western Cape Province,Surfing,M,32,Non_Fatal,N,Morning,4 m [13'] shark
+Western Australia,Snorkeling,M,26,FATAL,Y,Afternoon,6 m [20'] white shark
+New Mexico,Diving in aquarium display tank,M,45,Non_Fatal,N,Afternoon,"Sandtiger shark, 2.1 m [7'] "
+North Island,Fishing from a kayak,M,39,Non_Fatal,N,Afternoon,White shark
+South Australia,Scurfing (surfboard being  towed behind a boat),M,18,FATAL,Y,Afternoon,4.5 m & 5 m white shark 
+Queensland,Spearfishing,M,38,FATAL,Y,Afternoon,Bull shark
+Eastern Cape Province,Surfing,M,20,Non_Fatal,N,Evening,Raggedtooth shark
+Western Cape Province,Swimming,F,77,FATAL,Y,Morning,6 m [20'] white shark
+California,Surfing,lli,38,Non_Fatal,N,Afternoon,5.5 m [18'] white shark
+Camaguey Province,Diving,M,40,Non_Fatal,N,Afternoon,2.5 m [8.25'] bull shark
+Western Cape Province,Chumming for white sharks,M,52,Non_Fatal,N,Morning,2 m [6.75'] white shark
+New South Wales,Surfing,M,59,Non_Fatal,N,Afternoon,"Bronze whaler shark, 2.4 m [8'] "
+Hawaii,Spearfishing,M,34,Non_Fatal,N,Afternoon,"Tiger shark, 2.4 m to 3.7 m [8' to 12'] "
+Eastern Cape Province,Surfing,M,34,Non_Fatal,N,Morning,"Raggedtooth shark, 1.5 to 2 m [5' to 6.75']"
+ConservatÃ³ria District,Body boarding,M,15,Non_Fatal,N,Afternoon,Thought to involve a 2.5 m bull or tiger shark
+Oregon,Surfing,M,26,Non_Fatal,N,Morning,White shark
+South Carolina ,Jumping,F,17,Non_Fatal,N,Afternoon,2.4 m [8'] shark
+Pernambuco,Bathing,M,24,Non_Fatal,N,Afternoon,"Tiger shark, 1.5 m "
+California,Diving,M,50,FATAL,Y,Afternoon,4.9 m to 5.5 m [16' to 18'] white shark
+Florida,Swimming,M,47,Non_Fatal,N,Evening,1.2 m [4'] shark
+North Carolina,Swimming,F,13,Non_Fatal,N,Evening,1.8 m [6'] shark
+Texas,Swimming,F,19,Non_Fatal,N,Afternoon,1.2 m to 1.5 m [4' to 5'] shark
+Texas,Wading / fishing & carrying a bag of fish,M,11,Non_Fatal,N,Evening,Bull shark
+Western Australia,Surfing,M,30,FATAL,Y,Afternoon,"2 sharks, 4.5 m & 3 m "
+Alabama,Wading,M,7,Non_Fatal,N,Afternoon,4' to 5' shark
+California,Surfing,M,45,Non_Fatal,N,Morning,"9'2"" white shark"
+Western Australia,Body boarding,M,17,Non_Fatal,N,Evening,"Bronze whaler shark, 2.5 m [8.25'] "
+Florida,Swimming,M,8,Non_Fatal,N,Evening,1.2 m [4'] shark
+Western Cape Province,"Swimming, poaching perlemoen",M,21,FATAL,Y,Afternoon,White shark
+Texas,Wading,M,16,Non_Fatal,N,Evening,0.9 m to 1.5 m [3' to 5'] shark
+Pernambuco,Swimming,M,17,Non_Fatal,N,Afternoon,Bull shark
+California,Surfing,M,44,Non_Fatal,N,Morning,2.4 m to 3.7 m [8' to 12'] shark
+Abaco Islands,Free diving & spearfishing,M,63,Non_Fatal,N,Afternoon,"1,5 m [5'] Caribbean reef shark (Carcharhinus  perezi)"
+Texas,Tandem surfing,M,28,Non_Fatal,N,Afternoon,"Mako shark, 1.8 m [6']"
+Hawaii,Surfing,M,57,FATAL,Y,Morning,Tiger shark
+Western Cape Province,Surfing,M,16,Non_Fatal,N,Afternoon,5 m [16.5'] white shark
+Florida,Surfing,M,20,Non_Fatal,N,Morning,1.2 m [4'] bull shark
+Pernambuco,Body boarding,M,22,Non_Fatal,N,Morning,bull shark
+Saint-BenoÃ®t,Surfing,M,20,Non_Fatal,N,Evening,2.5 m shark
+Hawaii,Surfing,M,51,Non_Fatal,N,Morning,"Tiger shark, 2.4 m to 3 m [8' to 10'] "
+"South Island, near Karitane north of Dunedin",Surfing,M,15,Non_Fatal,N,Evening,2 m [6.75'] sevengill  shark
+Western Australia,Scuba diving,M,46,Non_Fatal,N,Morning,4 m to 5 m [13' to 16.5'] white shark
+Anzoategui,Spearfishing,M,40,Non_Fatal,N,Morning,"Bull shark, 132-kg [291-lb] "
+KwaZulu-Natal,Spearfishing,M,21,FATAL,Y,Morning,"Tiger shark, 4 m [13']  ?"
+Florida,Surfing,F,35,Non_Fatal,N,Afternoon,4' shark
+Florida,Surfing,M,18,Non_Fatal,N,Afternoon,1.2 m to 1.5 m [4' to 5'] shark
+New South Wales,Surfing,M,22,Non_Fatal,N,Evening,"1.5 m [5'] shark, either a bronze whaler or a grey nurse shark"
+Hawaii,Surfing,F,13,Non_Fatal,N,Morning,"Tiger shark, 14' "
+Florida,Surfing,M,19,Non_Fatal,N,Afternoon,1.2 m [4'] shark
+Hawaii,Wading near a fishing net,F,41,Non_Fatal,N,Afternoon,"1.2 m [4'] ""grey-colored shark"""
+Florida,Surfing,M,30,Non_Fatal,N,Afternoon,3' shark
+Florida,Body boarding,M,18,Non_Fatal,N,Evening,6' shark
+South Carolina,"Standing, stepped on shark",M,15,Non_Fatal,N,Afternoon,7' shark
+Western Cape Province,Body boarding,M,19,FATAL,Y,Afternoon,White shark
+California,"Swimming, wearing black wetsuit & swim fins",F,50,FATAL,Y,Morning,4.5 m to 5.5 m [15' to 18'] white shark
+Eastern Cape Province,Sitting on surfboard,M,16,Non_Fatal,N,Morning,3.5 m [11.5'] white shark
+Abaco Islands,Spearfishing,M,58,Non_Fatal,N,Afternoon,Unidentified species
+Florida,"Walking, carrying surfboard & stepped on shark",M,10,Non_Fatal,N,Morning,2' shark
+Abaco Islands,Spearfishing,M,39,Non_Fatal,N,Afternoon,2.1 m  [7'] bull shark
+Florida,Surfing,M,17,Non_Fatal,N,Afternoon,Unidentified species
+Florida,Surfing,M,15,Non_Fatal,N,Morning,106 cm [3.5']  shark
+Florida,Standing,F,12,Non_Fatal,N,Afternoon,â€œsmall brown sharkâ€
+Hawaii,Swimming with pod of dolphins,M,60,Non_Fatal,N,Morning,3.7 m to 4.3 m [12' to 14'] shark
+Johnston Atoll,Swimming,M,51,Non_Fatal,N,Afternoon,Unidentified species
+North Carolina,Surfing ,M,33,Non_Fatal,N,Evening,"""sand shark"""
+Florida,Wading,M,22,Non_Fatal,N,Afternoon,3' to 5' shark
+Hawaii,Swimming,M,20,Non_Fatal,N,Morning,1.8 m [6'] reef shark - or a 2.1 m to 2.4 m [7' to 8'] grey-colored shark
+Florida,Surfing,M,34,Non_Fatal,N,Morning,4' to 5' shark
+Pernambuco,Surfing,M,17,Non_Fatal,N,Evening,Bull shark
+Florida,Surfing,M,36,Non_Fatal,N,Afternoon,Unidentified species
+Florida,Surfing,M,17,Non_Fatal,N,Afternoon,Unidentified species
+Florida,Surfing,M,30,Non_Fatal,N,Afternoon,Unidentified species
+Florida,Surfing,M,23,Non_Fatal,N,Morning,0.9 m to 1.2 m [3' to 4'] shark
+Florida,Surfing,M,18,Non_Fatal,N,Afternoon,Unidentified species
+Florida,Jumping,M,11,Non_Fatal,N,Afternoon,A â€œsmallâ€ shark
+Florida,Surfing,M,12,Non_Fatal,N,Morning,Unidentified species
+Florida,Swimming (using a float),M,20,Non_Fatal,N,Afternoon,"15 cm to 20 cm [6"" to 8""] bite diameter just below left knee"
+Nueva Esparta,Surfing,M,28,Non_Fatal,N,Afternoon,"Mako shark, 3 m [10']"
+Florida,Surfing,M,50,Non_Fatal,N,Morning,4' to 5' shark
+Southland,Scuba diving,M,44,Non_Fatal,N,Morning,2.5 m [8.25'] white shark
+South Australia,Wading,M,37,Non_Fatal,N,Evening,"""a small shark"""
+Florida,Swimming,M,54,Non_Fatal,N,Afternoon,Species unidentified
+New South Wales,Swimming,M,24,Non_Fatal,N,Afternoon,Thought to involve a 2 m [6.75'] grey nurse shark
+Queensland,Swimming,M,84,FATAL,Y,Morning,Thought to involve a >2 m [6.75'] bull shark
+Western Cape Province,Snorkeling,M,25,Non_Fatal,N,Afternoon,"White shark, 4 m white shark"
+Queensland,Swimming,M,23,FATAL,Y,Morning,Bull shark
+California,Body boarding,M,48,Non_Fatal,N,Morning,3 m to 4.5 m [10' to 15'] white shark
+Hawaii,Swimming,F,34,Non_Fatal,N,Morning,2.4 m to 3 m [8' to 10'] grey colored shark
+Caicos Bank,Snorkeling,F,41,Non_Fatal,N,Morning,1.8 m to 2.1 m [6' to 7']Â  Caribbean Reef Shark 
+Florida,Surfing,M,21,Non_Fatal,N,Afternoon,6' shark
+Florida,Boogie boarding,M,16,Non_Fatal,N,Afternoon,3' to 4' shark
+Hawaii,Swimming,F,60,Non_Fatal,N,Morning,A â€œsmallâ€ shark
+Pernambuco,Swimming,M,36,FATAL,Y,Afternoon,Possibly a bull shark or tiger shark
+Florida,Surfing,M,14,Non_Fatal,N,Afternoon,Blacktip or spinner shark
+Florida,Surfing,M,35,Non_Fatal,N,Afternoon,3.5' to 4.5' shark
+Florida,Surfing,M,18,Non_Fatal,N,Afternoon,3.5' to 4' shark
+Florida,Surfing,M,47,Non_Fatal,N,Afternoon,4' to 5' shark
+Hawaii,Fishing from Surfboard,M,55,Non_Fatal,N,Afternoon,1.2 m [4'] blacktip shark
+Florida,Fishing,M,20,Non_Fatal,N,Afternoon,1.8 m [6'] blacktip shark
+Vava'u,Swimming,M,30,Non_Fatal,N,Afternoon,"Tiger shark, 1.5 m [5']k"
+Oregon,Boogie boarding or Surfing,M,24,Non_Fatal,N,Evening,2.4 m [8'] shark
+California,Surfing,M,35,Non_Fatal,N,Morning,3 m to 3.7 m [10' to 12'] shark
+Pernambuco,Swimming,M,19,Non_Fatal,N,Afternoon,Bull or tiger shark
+Western Cape Province,Surf skiing,M,47,Non_Fatal,N,Afternoon,White shark
+Florida,Boogie boarding,M,20,Non_Fatal,N,Afternoon,4' to 6' shark
+Florida,"Wading, when he stepped on the shark",M,36,Non_Fatal,N,Evening,1' to 2' hammerhead or bonnethed shark
+Hawaii,Surfing,M,16,Non_Fatal,N,Afternoon,"Tiger shark, 2.4 m to 3 m [8' to 10'] "
+Florida,Surfing,M,27,Non_Fatal,N,Afternoon,0.9 m  to 1.2 m [3' to 4'] shark
+Florida,Surfing,M,15,Non_Fatal,N,Afternoon,"Nurse shark, 1.5 m [5'] "
+North Carolina,Standing,M,14,Non_Fatal,N,Morning,1.2 m to 1.5 m [4' to 5'] shark
+South Carolina,Surfing,M,13,Non_Fatal,N,Evening,1.2 m [4'] blacktip or sandbar shark
+North Carolina,Swimming,F,15,Non_Fatal,N,Evening,"Bull shark, 1.8 m to 2.1 m [6' to 7'] "
+Maryland,Shark Fishing,M,41,FATAL,Y,Evening,"Mako shark, 400-lb "
+Pernambuco,Surfing,M,22,Non_Fatal,N,Afternoon,Bull or tiger shark
+North Carolina,Standing,F,9,Non_Fatal,N,Evening,"1.2 m to 1.5 m [4' to 5'] shark, possibly a bull shark"
+Florida,Surfing,M,28,Non_Fatal,N,Afternoon,0.9 m to 1.2 m [3' to 4'] shark; Tooth fragment recovered from hand
+Florida,Surfing,M,50,Non_Fatal,N,Morning,Â  
+KwaZulu-Natal between Port Edward and Port St Johns,Snorkeling (filming the sardine run),M,50,Non_Fatal,N,Afternoon,1.5 to 2.5 m [5' to 8.25'] copper shark
+California,Surfing,M,24,Non_Fatal,N,Afternoon,3.7 m to 4.3 m [12' to 14'] white shark
+Florida,Floating on a raft,M,16,Non_Fatal,N,Afternoon,1 m  shark
+Florida,"Fishing, removing the shark from his line",M,55,Non_Fatal,N,Evening,3' blacktip shark
+South Australia,Scallop diving (using surface-supplied air & a POD) ,M,23,FATAL,Y,Afternoon,"White shark, 6m [20']"
+Florida,"Surfing, but standing in water alongside board",M,34,Non_Fatal,N,Morning,1.2 m [4'] shark
+Abaco Islands,Standing,M,43,Non_Fatal,N,Morning,"Bull shark, 400-lb "
+Florida,Wading,M,41,Non_Fatal,N,Afternoon,3'  shark
+Florida,Swimming / Wading,M,29,Non_Fatal,N,Morning,0.9 m [3'] shark
+Hawaii,Body-boarding,M,17,Non_Fatal,N,Afternoon,Tiger shark
+Florida,Wading,F,11,Non_Fatal,N,Morning,Â  
+Florida,Swimming /  boogie boarding,M,20,Non_Fatal,N,Afternoon,4' shark
+Florida,Snorkeling,M,39,Non_Fatal,N,Morning,"Nurse shark, 1m "
+Florida,Surfing,M,31,Non_Fatal,N,Morning,"Spinner shark, 3' to 4' "
+Queensland,Surfing,M,33,Non_Fatal,N,Morning,"1.5 m [5'] ""whaler shark"""
+New South Wales,Kayaking,M,35,Non_Fatal,N,Evening,C. leucas tooth fragment recovered from kayak
+New South Wales,Surfing,M,20,Non_Fatal,N,Evening,"Tiger shark, 3 m [10']"
+KwaZulu-Natal,Fishing,M,16,Non_Fatal,N,Morning,Zambesi shark?
+KwaZulu-Natal,Surf skiing,M,26,Non_Fatal,N,Evening,Unidentified
+Hawaii,Snorkeling,M,35,Non_Fatal,N,Afternoon,"Tiger shark, 1.8 m [6'] "
+Queensland,Snorkeling,F,20,Non_Fatal,N,Afternoon,Bronze whaler shark?
+Guerrero,Body surfing,M,26,Non_Fatal,N,Morning,"Tiger shark, 1.8 m [6']"
+Florida,"Surfing, fell off surfboard & stepped on the shark.",M,21,Non_Fatal,N,Afternoon,4' shark
+Florida,Wreck / Technical diving,M,42,FATAL,Y,Afternoon,Questionable incident - shark bite may have precipitated drowning
+Florida,Boogie boarding,M,60,Non_Fatal,N,Afternoon,2' to 3.5' shark
+North Carolina,Swimming ,M,28,FATAL,Y,Evening,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.
+North Carolina,Swimming,F,23,Non_Fatal,N,Evening,A large white shark was filmed by divers on a local wreck 2 days prior to the incident.
+Florida,Wading,M,20,Non_Fatal,N,Afternoon,1.5 m [5'] shark
+Virginia,Swimming ,M,10,FATAL,Y,Evening,bull shark
+Abaco Islands,Spearfishing,M,44,Non_Fatal,N,Afternoon,3 m [10'] bull shark
+Florida,Surfing,M,17,Non_Fatal,N,Afternoon,a small shark
+Florida,Surfing,M,20,Non_Fatal,N,Afternoon,Possibly  a blacktip or spinner shark
+Florida,Surfing,M,19,Non_Fatal,N,Afternoon,"3' shark, possibly  a blacktip or spinner shark"
+Florida,Surfing,M,19,Non_Fatal,N,Morning,"Blacktip shark, 5' to 6' "
+Grand Bahama Island,Spearfishing,M,43,Non_Fatal,N,Afternoon,1.9 m [6.5'] bull shark
+Florida,Boogie boarding,M,18,Non_Fatal,N,Afternoon,0.9 m  [3'] shark
+Florida,Swimming,M,8,Non_Fatal,N,Evening,"Bull shark, 2.3 m [7.5'] "
+California,Spearfishing,M,52,Non_Fatal,N,Morning,"White shark, 2.4 m to 3 m [8' to 10'] "
+South Carolina,Wading,F,29,Non_Fatal,N,Afternoon,2' shark
+Florida,Surfing,M,45,Non_Fatal,N,Evening,1.2 m to 1.5 m [4' to 5'] shark
+Florida,Surfing,M,12,Non_Fatal,N,Morning,Possibly a juvenile blacktip or spinner shark
+Florida,Surfing,M,21,Non_Fatal,N,Afternoon,Possibly a juvenile blacktip or spinner shark
+Florida,Body boarding,M,12,Non_Fatal,N,Afternoon,Possibly a juvenile blacktip or spinner shark
+Florida,Surfing,M,22,Non_Fatal,N,Morning,Possibly a 1.5 m [5'] blacktip or spinner shark
+Florida,Surfing,M,19,Non_Fatal,N,Evening,Possibly a juvenile blacktip or spinner shark
+Eastern Cape Province,Surfing,M,46,Non_Fatal,N,Morning,"White shark, 2.7 m [9'] "
+Florida,Standing alongside surfboard,M,26,Non_Fatal,N,Afternoon,"""small shark"""
+New South Wales,Surfing,M,40,Non_Fatal,N,Morning,Bronze whaler shark
+New South Wales,Surfing,M,40,Non_Fatal,N,Afternoon,"Bronze whaler shark, 2.5 m [8.25']  k"
+Taveuni,Swimming back from anchored sailboat,M,47,FATAL,Y,Afternoon,6 m [20'] shark
+Queensland,Spearfishing,M,38,Non_Fatal,N,Morning,"Bronze whaler shark, 2.5 m [8.25'] "
+Florida,Swimming,M,73,Non_Fatal,N,Afternoon,1.2 m to 1.8 m [4' to 6'] shark
+Western Australia,Swimming,M,52,Non_Fatal,N,Morning,"White shark, 4.9 m [16'] "
+Western Australia,Swimming,M,49,FATAL,Y,Morning,"White shark, 5 m [16.5'] "
+California,Surfing,M,27,Non_Fatal,N,Afternoon,"White shark, 2.4 m to 3 m [8' to 10'] "
+Hawaii,Swimming / snorkeling,F,56,Non_Fatal,N,Morning,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] "
+Florida,Surfing,M,17,Non_Fatal,N,Morning,2.1 to 2.4 m [7' to 8'] shark
+Florida,Surfing,M,23,Non_Fatal,N,Afternoon,"Blacktip shark, 2' "
+South Australia,Surfing,M,17,FATAL,Y,Afternoon,White shark
+South Australia,Surfing,M,25,FATAL,Y,Morning,"White shark, 4 m to 5 m [13' to 16.5'] "
+Miyako Island,Surfing,M,31,FATAL,Y,Evening,"White shark, 2.5 m "
+Florida,Swimming / Body surfing,M,25,Non_Fatal,N,Afternoon,60 cm to 90 cm [2' to 3'] shark
+Western Cape Province,Free diving,M,48,Non_Fatal,N,Morning,"White shark, 3.5 m [11.5']  male "
+Florida,Wading,M,40,Non_Fatal,N,Morning,1.5 m [5'] shark
+Saint-Pierre,Surfing,M,27,Non_Fatal,N,Evening,"Tiger shark, 3 m [10'] "
+Florida,Swimming,M,47,Non_Fatal,N,Afternoon,A 2' shark was seen in the area by witnesses
+Florida,Jumped into the water,M,69,FATAL,Y,Afternoon,"Thought to involve a 2.7 m [9'], 400-lb bull shark"
+Hawaii,"Windsurfing, but sitting on his board",M,53,Non_Fatal,N,Morning,"Tiger shark, 3.7 m to 4.5 m [12' to 14'9""]  "
+Florida,Surfing / Wading,M,27,Non_Fatal,N,Afternoon,juvenile shark
+Florida,Standing,F,44,Non_Fatal,N,Afternoon,"Blacktip shark, 2.4 m to 3 m [8' to 10'] "
+North Carolina,Playing,F,12,Non_Fatal,N,Afternoon,"Tiger shark, 0.9 m to 1.5 m [3' to 5'] ?"
+Florida,"Spearfishing, holding mesh bag with speared fish",F,55,Non_Fatal,N,Afternoon,"Nurse shark, 1.2 m [4'] "
+Florida,Wading,F,13,Non_Fatal,N,Evening,0.9 m [3'] shark
+Florida,Standing,F,19,Non_Fatal,N,Afternoon,"0.9 m [3'] shark,  probably a blacktip or spinner shark"
+Texas,Surfing,M,17,Non_Fatal,N,Afternoon,"Blacktip shark, 1.2 m to 1.8 m [4' to 6'] "
+Alabama,Swimming,M,55,Non_Fatal,N,Morning,Bull shark?
+Alabama,Swimming ,M,44,Non_Fatal,N,Morning,Bull shark
+Queensland,Swimming,M,26,Non_Fatal,N,Afternoon,2.5 m shark
+Florida,Boogie boarding,F,14,Non_Fatal,N,Morning,1.8 m [6'] shark
+Florida,Surfing,M,37,Non_Fatal,N,Afternoon,1.2 m [4'] shark
+North Province,Spearfishing,M,35,FATAL,Y,Morning,Tiger shark?
+Louisiana,Spearfishing,M,39,Non_Fatal,N,Afternoon,"Shortfin mako shark, 3 m to 3.4 m [10' to 11'] "
+Rio de Janeiro,Spearfishing,M,39,Non_Fatal,N,Morning,Shark involvement not confirmed
+Hawaii,Swimming,F,51,Non_Fatal,N,Evening,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] "
+Rio de Janeiro,"Spearfishing, but swimming at surface",M,39,Non_Fatal,N,Morning,1.3 to 1.6 m shark
+Hawaii,"Surfing, lying on surfboard",M,16,Non_Fatal,N,Evening,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] "
+California,Kayaking,M,37,Non_Fatal,N,Evening,White shark
+Florida,Surfing,M,28,Non_Fatal,N,Afternoon,"""a small shark"""
+Ralik Chain,Fishing,M,23,Non_Fatal,N,Morning,7' shark
+South Carolina,Lying prone in 2' of water,M,10,Non_Fatal,N,Evening,1.8 m [6'] shark
+Florida,Body surfing,M,62,Non_Fatal,N,Morning,4' to 5' shark
+Abaco Islands,Spearfishing & holding catch,M,35,Non_Fatal,N,Evening,2.7 m [9']  bull shark or Caribbean reef shark
+Western Cape Province,Surfing,M,42,Non_Fatal,N,Afternoon,"White shark, 3 m to 5 m [10' to 16.5'] "
+Florida,Swimming with dolphins,M,43,Non_Fatal,N,Evening,"Bull shark, 2.1 m [7']"
+Hawaii,Surfing,M,43,Non_Fatal,N,Morning,"Tiger shark, 1.8 m to 2.4 m [6' to 8'] "
+Western Cape Province,Boogie boarding,M,14,FATAL,Y,Morning,White shark
+Florida,Wading in school of baitfish,F,30,Non_Fatal,N,Afternoon,"Blacktip shark, 1.8 m [6'] "
+Eastern Cape Province,Surfing,M,29,Non_Fatal,N,Morning,"White shark, 4 m [13'] "
+Florida,Surfing,M,21,Non_Fatal,N,Morning,3' to 4' shark
+Florida,Splashing / wading,M,5,Non_Fatal,N,Afternoon,Blacktip or spinner shark
+South Australia,Windsurfing,M,22,FATAL,Y,Afternoon,Thought to involve a white shark
+Pernambuco,Surfing,M,21,Non_Fatal,N,Afternoon,"Tiger shark, 2.5 m [8.25']"
+Grand Baie,Swimming,F,41,Non_Fatal,N,Morning,"Grey reef shark, 1.5 m "
+L' Etang SalÃ©-les-Bains,Swimming after being swept into sea by a large wave,M,52,FATAL,Y,Morning,3 bull sharks
+Hawaii,Swimming near pod of whales,F,29,Non_Fatal,N,Morning,3.7 m to 4.6 m [12' to 15'] shark seen in the vicinity
+New South Wales,Surfing,M,35,Non_Fatal,N,Evening,Bronze whaler or tiger shark
+Florida,Surfing,M,25,Non_Fatal,N,Afternoon,Spinner shark
+Western Cape Province,Spearfishing,M,30,Non_Fatal,N,Afternoon,"White shark, 4.6 m [15'] "
+Eastern Cape Province,Surfing,M,18,Non_Fatal,N,Evening,Possibly a white shark
+Florida,Swimming,M,9,FATAL,Y,Afternoon,Tiger shark
+Florida,Surfing,M,14,Non_Fatal,N,Morning,1.2 m [4'] shark
+Florida,Walking,M,13,Non_Fatal,N,Evening,"A ""small shark"""
+Pernambuco,Surfing,M,22,FATAL,Y,Evening,Though to involve a white shark
+Florida,Surfing,M,26,Non_Fatal,N,Evening,3' to 4' shark
+California,Boogie boarding,M,16,Non_Fatal,N,Afternoon,"White shark, 5 m to 6 m [16.5' to 20'] "
+Berry Islands,Spearfishing,M,28,Non_Fatal,N,Afternoon,"Caribbean reef shark, 1.2 m to 1.5 m [4' to 5'] "
+Western Cape Province,Spearfishing,M,24,Non_Fatal,N,Afternoon,"White shark, 4.9 m [16']"
+Eastern Cape Province,Surfing,M,16,Non_Fatal,N,Morning,5' to 6' shark
+South Australia,Free diving for abalone,M,26,FATAL,Y,Afternoon,Thought to involve a 5.5 m white shark named Kong
+Eastern Cape Province,Body Boarding,M,20,FATAL,Y,Morning,White shark
+Eastern Cape Province,Body boarding,M,15,Non_Fatal,N,Evening,3 m to 4 m [10' to 13'] white shark
+Eastern Cape Province,Body boarding,M,16,Non_Fatal,N,Afternoon,Unidentified
+Florida,Surfing,M,40,Non_Fatal,N,Morning,"Lemon shark, 1.5 m [5'], identified  by the surfer"
+Florida,Swimming,F,14,Non_Fatal,N,Afternoon,"1.8 m [6'] shark, possibly a blacktip"
+Western Cape Province,Body boarding,M,22,Non_Fatal,N,Afternoon,4 m [13'] white shark
+Gaza,Towing rubber dinghy,F,35,FATAL,Y,Afternoon,3 m [10'] shark
+Oregon,Surfing (lying prone on his board),M,50,Non_Fatal,N,Morning,5 m [16.5'] white shark
+Western Cape Province,Snorkeling â€“ hunting crayfish and abalone,M,33,Non_Fatal,N,Evening,3 m [10'] white shark
+Florida,Swimming or paddle boarding,M,32,Non_Fatal,N,Morning,5' spinner shark
+Maputo Province,Surfing,M,23,Non_Fatal,N,Afternoon,Small dusky shark or blackfin shark
+Western Cape Province,Spearfishing,M,39,FATAL,Y,Afternoon,White shark
+Western Australia,Scuba diving (submerged riding a scooter),M,42,Non_Fatal,N,Morning,White shark
+Hawaii,Body boarding or surfing,M,19,Non_Fatal,N,Morning,"Tiger shark, 4 m to 4.3 m [13' to 14'] "
+Florida,Surfing,M,23,Non_Fatal,N,Evening,Possibly a blacktip shark
+Florida,Surfing,M,12,Non_Fatal,N,Evening,1.2 m to 1.5 m [4' to 5'] shark
+California,Surfing (sitting on his board),M,29,Non_Fatal,N,Afternoon,5 m [16.5'] white shark
+Florida,Body surfing,M,17,Non_Fatal,N,Afternoon,juvenile shark
+Florida,Wading / Surfing,M,19,Non_Fatal,N,Morning,"""juvenile shark"""
+Eastern Cape Province,Surfing,M,25,FATAL,Y,Afternoon,4.5 m white shark
+South Carolina,Standing,M,50,Non_Fatal,N,Evening,Blacktip shark
+Taveuni,Snorkeling,F,47,Non_Fatal,N,Afternoon,"Tiger shark, 2.7m  [9']"
+Florida,Surfing,M,18,Non_Fatal,N,Evening,Possibly a spinner shark
+Florida,"Body surfing, stood up on sandbar",M,33,Non_Fatal,N,Morning,1.2 m [4'] shark (spinner shark?)
+Florida,Spearfishing,M,35,Non_Fatal,N,Morning,4' shark
+Florida,Surfing,M,34,Non_Fatal,N,Morning,Possibly a sand shark
+Florida,Surfing,M,12,Non_Fatal,N,Morning,Possibly a sand shark
+Queensland,Scuba diving,M,30,Non_Fatal,N,Afternoon,"Tiger shark, 2m to 3m "
+Queensland,Snorkeling,M,27,Non_Fatal,N,Morning,1.8 m to 2.1 m [6' to 7'] shark
+Western Australia,Windsurfing,M,41,FATAL,Y,Evening,"Tiger shark, 4.5 m [14'9""]"
+California,Surfing,M,45,Non_Fatal,N,Morning,3 m to 5 m [10' to 16.5'] white shark
+California,Surfing,M,22,Non_Fatal,N,Afternoon,5.5 m to 6 m [18' to 20'] white shark
+Florida,Surfing,M,21,Non_Fatal,N,Morning,1.2 m [4'] shark
+California,Surfing,M,31,Non_Fatal,N,Morning,5 m [16.5'] white shark
+Chatham Islands ,Diving for abalone,M,23,Non_Fatal,N,Morning,White shark
+Florida,Surfing / Swimming,M,19,Non_Fatal,N,Afternoon,"""a young shark"""
+KwaZulu-Natal,Spearfishing,M,29,Non_Fatal,N,Morning,White shark
+Hawaii,Body Boarding,M,19,Non_Fatal,N,Afternoon,"Tiger shark, 2.4 m [8'] "
+California,Free diving for abalone,M,36,Non_Fatal,N,Morning,6 m [20'] white shark
+Florida,Wade fishing,M,21,Non_Fatal,N,Afternoon,1.8 m to 2.1 m [6' to 7'] hammerhead shark
+Florida,Standing,F,63,Non_Fatal,N,Afternoon,5' to 6' shark
+Western Cape Province,Surfing,M,17,Non_Fatal,N,Afternoon,2.5 m [8.25'] white shark 
+Florida,Surfing,M,22,Non_Fatal,N,Afternoon,1.2 m [4'] shark
+Florida,Surfing,M,27,Non_Fatal,N,Morning,60 cm to 90 cm [2' to 3'] blacktip or spinner shark
+Queensland,Swimming breast stoke,F,47,Non_Fatal,N,Morning,Tiger shark
+New South Wales,Dived naked into the water on a bet,M,24,Non_Fatal,N,Evening,Bronze whaler shark
+New South Wales,Swimming,M,7,Non_Fatal,N,Afternoon,"""reef shark"""
+Hawaii,Swimming with mask & snorkel,M,53,Non_Fatal,N,Afternoon,Possibly a tiger shark
+Saint-Paul ,Surfing,M,25,FATAL,Y,Afternoon,"Tiger shark, 300-kg [662-lb] "
+Queensland,Playing / standing,F,15,Non_Fatal,N,Afternoon,4 m shark
+Florida,Surfing,M,39,Non_Fatal,N,Morning,1.2 m to 1.5 m [4' to 5']   shark
+Florida,Surfing,M,14,Non_Fatal,N,Morning,1.5 to 1.8 m [5' to 6'] shark
+California,Windsurfing,M,25,Non_Fatal,N,Evening,4 m [13'] white shark
+Western Australia,Abalone diving using Hookah (near calving whales),M,29,FATAL,Y,Afternoon,White shark
+California,Abalone diving using Hookah (resting on the surface),M,32,Non_Fatal,N,Afternoon,3 m to 4 m [10' to 13'] white shark
+Florida,Surfing,M,16,Non_Fatal,N,Evening,5' shark
+Florida,Surfing,M,18,Non_Fatal,N,Afternoon,"""a small shark"""
+North Carolina,Swimming,M,16,Non_Fatal,N,Evening,1.2 m to 1.5 m [4' to 5'] shark
+North Carolina,Swimming ,M,23,Non_Fatal,N,Afternoon,"""sand"" shark"
+Florida,Surfing,M,19,Non_Fatal,N,Evening,"""small shark"""
+Vavaâ€™u,Fishing,M,18,Non_Fatal,N,Afternoon,"""small shark"""
+Florida,Wading,M,20,Non_Fatal,N,Morning,1.8 m [6'] shark
+Florida,Body boarding,M,12,Non_Fatal,N,Afternoon,1.2 m to 1.5 m [4' to 5'] shark
+California,Scuba diving (ascending using scooter),M,31,Non_Fatal,N,Evening,6 m [20'] white shark
+Florida,Swimming,M,45,Non_Fatal,N,Evening,1.8 m [6'] shark
+Florida,Swimming,F,10,Non_Fatal,N,Afternoon,6' shark
+Hawaii,Swimming,M,38,Non_Fatal,N,Morning,"Tiger shark, 3.7 m [12'] "
+New Territories,Swimming,M,29,FATAL,Y,Afternoon,1.8 m to 2.1 m [6' to 7'] shark
+Aichi Prefecture,Scuba diving for bivalves,M,47,FATAL,Y,Morning,6 m [20'] white shark
+South Australia,Surfing,M,35,Non_Fatal,N,Morning,"Bronze whaler shark, 2 m "
+Eastern Cape Province,Swimming,M,22,Non_Fatal,N,Evening,Raggedtooth shark
+KwaZulu-Natal,Swimming,M,14,FATAL,Y,Evening,"Tiger shark, 1.8 m [6'] "
+Western Cape Province,Body boarding,M,26,Non_Fatal,N,Afternoon,5.5 m [18'] white shark
+California,Commercial diver (submerged or treading water),M,42,FATAL,Y,Morning,5 m to 5.5 m [16.5' to 18'] white shark
+Hawaii,"Surfing, paddling seawards",F,34,Non_Fatal,N,Morning,2.7 m [9'] shark
+Florida,Wading,F,9,Non_Fatal,N,Afternoon,Thought to involve a small sand shark
+Oregon,Surfing,M,43,Non_Fatal,N,Afternoon,5 m [16.5'] white shark
+Hawaii,Jumped off rocks into white water,F,12,Non_Fatal,N,Morning,Small shark
+Saint-Denis,Windsurfing,M,24,FATAL,Y,Afternoon,3 to 3.5 m [10' to 11.5'] bull shark
+Eastern Cape Province,Surfing,M,22,FATAL,Y,Afternoon,4 m [13'] white shark
+Eastern Cape Province,Surfing,M,31,Non_Fatal,N,Afternoon,4 m [13'] white shark
+Florida,Surfing,M,15,Non_Fatal,N,Afternoon,"""small shark"""
+Grand Bahama Island,Spearfishing,M,30,Non_Fatal,N,Afternoon,1.8 m [6'] shark
+Florida,Surfing,M,28,Non_Fatal,N,Morning,1.2 m [4'] spinner shark
+Florida,Surfing,M,22,Non_Fatal,N,Morning,>1.8 m [6'] shark
+Florida,Surfing,M,23,Non_Fatal,N,Afternoon,1.2 m [4'] shark
+Eastern Cape Province,Surfing,M,15,Non_Fatal,N,Afternoon,3 m [10'] white shark
+KwaZulu-Natal,Swimming ,M,33,Non_Fatal,N,Afternoon,"1.3 m [4'3""] shark"
+Western Australia,Hookah diving,M,27,FATAL,Y,Afternoon,Tiger shark caught 6 days later with diverâ€™s remains in its gut
+California,Surfing,M,26,Non_Fatal,N,Afternoon,4 m to 5 m [13' to 16.5'] white shark
+Florida,Swimming,F,26,Non_Fatal,N,Morning,3 m [10'] bull shark
+California,Kayaking,F,34,Non_Fatal,N,Afternoon,>6 m [20'] white shark
+Western Cape Province,Spearfishing,M,36,Non_Fatal,N,Morning,3 m [10'] white shark
+Costa Blanca,Swimming,M,69,Non_Fatal,N,Morning,1.2 m [4'] shark
+Walkers Cay,Spearfishing,M,51,Non_Fatal,N,Evening,1.8 m [6'] blacktip shark or Caribbean reef shark
+North Carolina,Riding floatation device,F,19,Non_Fatal,N,Morning,Bull shark
+California,Free diving for abalone (ascending),M,39,Non_Fatal,N,Afternoon,5.5 m to 6 m [18' to 20']  white shark
+Eastern Cape Province,Surfing,M,28,Non_Fatal,N,Afternoon,4 m [13'] white shark
+Florida,Playing,F,12,Non_Fatal,N,Evening,"1.8 m to 2.4 m [6' to 8'] shark, tooth fragments recovered "
+Hawaii,Paddling on surfboard or body board,M,22,Non_Fatal,N,Morning,Thought to involve a tiger shark
+New South Wales,Scuba diving,M,31,FATAL,Y,Morning,Remains recovered from 5.5 m [18'] white shark
+Tasmania,Scuba diving at seal colony,F,34,FATAL,Y,Morning,5 m [16.5'] white shark
+North Carolina,Swimming,F,60,Non_Fatal,N,Evening,6' shark
+Hawaii,Paddling on surfboard,M,35,Non_Fatal,N,Afternoon,"Tiger shark, 3.7 m [12'], (tooth fragment recovered from wound)"
+California,Free diving & spearfishing (ascending),M,55,Non_Fatal,N,Afternoon,White shark
+Queensland,Fishing,M,69,Non_Fatal,N,Afternoon,"Bronze whaler shark, 1.5 m "
+Queensland,Spearfishing,M,21,Non_Fatal,N,Morning,1.5 m shark
+Oregon,Surfing,M,29,Non_Fatal,N,Afternoon,6 m [20'] white shark
+Hawaii,"Standing in waist-deep water, helping his father tend a gill net containing dead fish",M,10,Non_Fatal,N,Morning,"Tiger shark, 2.4 m [8']"
+Hawaii,Lying on surfboard,M,30,Non_Fatal,N,Evening,"Tiger shark, 3 m to 4.9 m [10' to 16'] "
+California,Spearfishing / free diving,M,31,Non_Fatal,N,Afternoon,"Mako shark, 1.8 m [6']  "
+Florida,Surfing,M,19,Non_Fatal,N,Morning,6' to 7' blacktip shark
+Florida,Surfing,M,24,Non_Fatal,N,Afternoon,1.8 m [6'] shark
+California,Kayaking,M,46,Non_Fatal,N,Afternoon,5 m to 6 m white shark
+California,Scuba diving (submerged),M,40,Non_Fatal,N,Afternoon,Unidentified shark
+Hawaii,Body boarding,M,18,FATAL,Y,Morning,"Tiger shark, 3 m to 3.7 m [10' to 12'] "
+California,Hookah diving for sea urchins,M,40,Non_Fatal,N,Morning,2.5 m [8.25'] white shark
+Hawaii,Surfing,M,28,Non_Fatal,N,Morning,"Tiger shark, 4.3 m [14'] "
+Queensland,Surfing,M,28,FATAL,Y,Afternoon,4.2 m white shark
+Oregon,Surfing,M,20,Non_Fatal,N,Evening,4 m to 5 m [13' to 16.5']  white shark 
+South Australia,Surfing,M,17,Non_Fatal,N,Evening,4 m white shark
+California,Surfing,M,22,Non_Fatal,N,Evening,5.5 m to 6 m [18' to 20'] white shark
+Florida,Standing,F,42,Non_Fatal,N,Afternoon,"""a small shark"""
+Saint-Paul,Surfing,M,16,FATAL,Y,Afternoon,Bull shark or lemon shark
+Eastern Cape Province,Surfing,M,35,Non_Fatal,N,Afternoon,>2 m shark
+Hawaii,"Surfing, paddling seawards",F,36,Non_Fatal,N,Morning,Tiger shark
+Ehime Prefecture,Hookah diving for pen shells ,M,41,FATAL,Y,Afternoon,"5 m [16.5'] white shark, identification by K. Nakaya"
+Oregon,Surfing (sitting on his board),M,21,Non_Fatal,N,Morning,Said to involve a 6 m to 7 m [20' to 23'] white shark
+New South Wales,Boogie boarding,M,19,Non_Fatal,N,Evening,"Bronze whaler shark, 2.3 m [7.5'] "
+KwaZulu-Natal,Swimming ,M,19,Non_Fatal,N,Evening,"Zambesi shark, 1.7 m [5.5'] "
+KwaZulu-Natal,Spearfishing,M,36,Non_Fatal,N,Evening,Possibly a 1.5 m [5'] blacktip shark
+California,Hookah diving for sea urchins,M,25,Non_Fatal,N,Afternoon,6 m [20'] white shark
+Hawaii,Snorkeling,F,41,FATAL,Y,Morning,"Tiger shark, 2.4 m 3.4 m [8' to 11']  "
+Florida,Surfing,M,21,Non_Fatal,N,Morning,1.8 m [6'] shark
+California,Surfing,M,32,Non_Fatal,N,Morning,5 m to 6 m [16.5' to 20'] white shark
+South Australia,Scuba diving,M,19,FATAL,Y,Afternoon,4 m [13'] white shark
+Queensland,Finning the shark that bit him,M,36,Non_Fatal,N,Afternoon,"3 m [10'], 270- kg [595-lb] shark"
+South Carolina,Swimming,M,23,Non_Fatal,N,Afternoon,sand shark
+Florida,Wading,F,10,Non_Fatal,N,Afternoon,3' shark
+Ligurian Sea,Canoeing,F,40,Non_Fatal,N,Afternoon,4 m [13'] white shark
+L'Etang-SalÃ©,Surfing,M,30,Non_Fatal,N,Evening,"Tiger shark, 3 to 4 m [10' to 13'] "
+California,Surfing,M,32,Non_Fatal,N,Morning,5 m [16.5'] white shark
+Florida,Swimming behind sailboat,M,31,Non_Fatal,N,Morning,2.7 m [9'] bull or lemon shark
+Port Shelter,Swimming ,F,65,FATAL,Y,Morning,"Tiger shark, >3 m [10']"
+Hawaii,Sitting on surfboard,M,23,Non_Fatal,N,Afternoon,2.4 m [8'] shark
+Florida,"Surfing, collided with shark",M,22,Non_Fatal,N,Morning,1.2 m to 1.5 m [4' to 5'] shark
+Oregon,Surfing,M,38,Non_Fatal,N,Morning,5.5 m [18'] white shark
+Western Cape Province,Spearfishing,M,20,Non_Fatal,N,Afternoon,5.5 m [18'] white shark
+Florida,Surfing,M,24,Non_Fatal,N,Morning,5' shark
+Florida,Surfing,M,50,Non_Fatal,N,Afternoon,1.8 m [6'] shark 
+Florida,Surfing,M,25,Non_Fatal,N,Afternoon,4' spinner shark
+Hawaii,Surfing,M,43,Non_Fatal,N,Afternoon,"Tiger shark, 3.7 m [12'] "
+Florida,Surfing,M,19,Non_Fatal,N,Afternoon,1.8 m to 2.4 m [6' to 8'] shark
+Western Cape Province,Spearfishing,M,26,Non_Fatal,N,Afternoon,5 m  [16.5'] white shark
+California,"Free diving / spearfishing, from paddleboard & floating on the surface",M,49,Non_Fatal,N,Afternoon,White shark
+California,Kayaking,M,44,Non_Fatal,N,Evening,2.5 m to 3 m [8.25' to 10']  white shark
+California,Surfing,M,22,Non_Fatal,N,Afternoon,5 m to 6 m [16.5' to 20'] white shark
+Western Cape Province,Scuba diving (but on surface),F,21,FATAL,Y,Afternoon,"4.5 m [14'9""] white shark"
+Eastern Cape Province,Resting on surfboard,M,22,Non_Fatal,N,Afternoon,"5.5 m [18'] white shark, identified by witnesses & tooth marks"
+Eastern Cape Province,Lying on surfboard & paddling,M,23,Non_Fatal,N,Afternoon,"2.3 m [7.5'] white shark, identified by M. Smale"
+Queensland,Surfing,M,31,Non_Fatal,N,Morning,"Tiger shark, 3 m "
+Western Cape Province,Free diving & spearfishing,M,29,FATAL,Y,Afternoon,White shark
+Tasmania,Surfing,M,17,Non_Fatal,N,Afternoon,2.7 m [9'] white shark
+Texas,Surfing,M,12,Non_Fatal,N,Evening,4' shark
+Western Cape Province,Free diving,M,29,Non_Fatal,N,Afternoon,"White shark, identified by tooth pattern"
+Florida,"Fishing, stepped on hooked shark's head",M,51,Non_Fatal,N,Afternoon,150-lb shark
+California,Hookah diving for abalone (descending),M,38,Non_Fatal,N,Afternoon,4 m to 5 m [13' to 16.5']  white shark
+Queensland,Feeding fish,M,30,Non_Fatal,N,Afternoon,Grey nurse shark
+Western Cape Province,Surfing,M,21,Non_Fatal,N,Morning,>3.4 m [11'] white shark
+New South Wales,Surfing,M,17,Non_Fatal,N,Morning,"Bronze whaler shark, 3 m [10'] "
+Eastern Cape Province,Surfing,M,34,Non_Fatal,N,Morning,2.5 m [8.25'] white shark
+Eastern Cape Province,Surfing,M,16,Non_Fatal,N,Afternoon,3 m [10'] white shark
+Eastern Cape Province,Free diving,M,28,Non_Fatal,N,Afternoon,2.5 m [8.25'] white shark
+South Australia,Surfing,M,27,FATAL,Y,Evening,2 m [6.75'] white shark
+Tyrrhenian Sea,"Scuba diving, but swimming on surface",M,47,FATAL,Y,Morning,6 m [20'] white shark
+California,Kayaking,F,24,FATAL,Y,Morning,5 m [16.5'] white shark
+New South Wales,Surfing with dolphins,M,17,Non_Fatal,N,Evening,"Tiger shark, 4 m [13'] "
+Oregon,Surfing (sitting on his board),M,21,Non_Fatal,N,Evening,5.5 m to 6 m [18' to 20']  white shark
+Florida,Surfing,M,30,Non_Fatal,N,Morning,1.2 m to 1.5 m [4' to 5'] shark
+Florida,Surfing,M,23,Non_Fatal,N,Evening,1.2 m to 1.5 m [4' to 5'] shark
+Florida,Surfing,M,21,Non_Fatal,N,Afternoon,5' shark
+Florida,Snorkeling,M,38,FATAL,Y,Afternoon,3 m [10'] bull shark
+California,Surfing,M,27,Non_Fatal,N,Morning,2.4 m to 3 m [8' to 10'] white shark
+Western Cape Province,Spearfishing,M,36,Non_Fatal,N,Morning,White shark
+South Carolina,Sittting in water with his child,M,37,Non_Fatal,N,Afternoon,Sand shark?
+Florida,Surfing,M,25,Non_Fatal,N,Morning,1.8 m to 2.4 m [6' to 8'] shark
+KwaZulu-Natal,Surfing,M,17,Non_Fatal,N,Afternoon,1.5 m to 2 m [5' to 6.75'] shark
+Eastern Cape Province,Surfing,M,20,Non_Fatal,N,Evening,"1 m ""grey-colored"" shark"
+KwaZulu-Natal,Lying atop surfboard,F,15,Non_Fatal,N,Morning,Zambezi shark (tooth fragments recovered)
+Western Cape Province,Attempting to lasso shark's tail,M,33,Non_Fatal,N,Morning,1.5 m copper shark
+Florida,Surfing,M,16,Non_Fatal,N,Afternoon,1.8 m [6'] blacktip shark
+California,Surfing,M,20,Non_Fatal,N,Evening,2 m [6.75'] shark
+Western Cape Province,Spearfishing,M,21,Non_Fatal,N,Afternoon,White shark
+Western Cape Province,Surfing,M,24,Non_Fatal,N,Morning,3.5 m [11.5']  white shark
+Florida,Wading,M,12,Non_Fatal,N,Morning,1.2 m to 1.5 m [4' to 5'] shark
+California,Surfing (sitting on his board),M,40,Non_Fatal,N,Morning,5.7 m white shark
+Florida,Surfing,M,27,Non_Fatal,N,Morning,3' to 4' shark
+Texas,Body surfing,F,32,Non_Fatal,N,Evening,4' shark
+Texas,Wading,F,16,Non_Fatal,N,Afternoon,4' shark
+Malampa Province,Swimming,M,8,FATAL,Y,Afternoon,4.3 m shark
+Eastern Cape Province,Spearfishing,M,30,Non_Fatal,N,Afternoon,>2.5 m [8.25'] white shark
+Western Cape Province,Body boarding,M,21,FATAL,Y,Evening,3 m [10'] white shark
+Florida,Surfing,M,40,Non_Fatal,N,Afternoon,1.8 m to 2.1 m [6' to 7'] spinner or blacktip shark
+California,Free diving  & spearfishing (submerged),M,27,Non_Fatal,N,Morning,5 m to 6 m [16.5' to 20'] white shark
+Florida,Swimming,F,6,Non_Fatal,N,Evening,"Lemon shark, 1.8 m to 2.4 m [6' to 8'], tooth fragment recovered"
+KwaZulu-Natal,Racing ski,M,32,Non_Fatal,N,Morning,1.6 m shark
+KwaZulu-Natal,Spearfishing,M,26,Non_Fatal,N,Evening,1.2 m [4'] dusky shark
+KwaZulu-Natal,Treading water,M,26,Non_Fatal,N,Afternoon,>1 m shark
+Eastern Cape Province,Surfing,M,21,Non_Fatal,N,Afternoon,>2.4 m [8'] white shark
+Eastern Cape Province,Swimming,M,46,Non_Fatal,N,Evening,Raggedtooth shark
+Western Cape Province,Spearfishing,M,29,Non_Fatal,N,Afternoon,"Raggedtooth shark, 2 m [6.75'] "
+Victoria,Surfing,M,29,Non_Fatal,N,Morning,"Bronze whaler shark, 3.5 m "
+Florida,Surfing,M,22,Non_Fatal,N,Morning,Blacktip shark
+California,Surfing,M,16,Non_Fatal,N,Afternoon,1.5 m [5'] shark
+Eastern Cape Province,Body boarding,M,22,Non_Fatal,N,Morning,2.5 m [8.25'] white shark
+California,Hookah diving for abalone,M,46,Non_Fatal,N,Afternoon,2 m to 2.5 m [6.75'  to 8.25'] sixgill or sevengill shark
+Florida,Wading,F,13,Non_Fatal,N,Evening,Possibly a small hammerhead shark
+Sicily,Snorkeling,M,13,Non_Fatal,N,Afternoon,"3 m to 3.6 m  [10' to 11'9""] white shark"
+South Australia,Free diving for scallops,F,33,FATAL,Y,Afternoon,6 m [20'] white shark
+California,Scuba Diving for lobster (at surface),M,29,Non_Fatal,N,Afternoon,6 m [20'] white shark
+Western Cape Province,Swimming,M,15,Non_Fatal,N,Evening,Raggedtooth shark
+KwaZulu-Natal,Surfing,M,18,Non_Fatal,N,Evening,"3.5 m white shark, tooth fragments recovered"
+Western Cape Province,Spearfishing,M,34,Non_Fatal,N,Morning,3.5 m [11.5'] white shark
+KwaZulu-Natal,Spearfishing,M,20,Non_Fatal,N,Morning,1.5 m [5'] dusky shark
+Queensland,Sailing on catamaran & fell into the water,M,16,FATAL,Y,Afternoon,"Tiger shark, 4 m "
+Florida,Surfing or body surfing,F,23,Non_Fatal,N,Afternoon,1.5 m [5'] shark
+Florida,Surfing,M,15,Non_Fatal,N,Afternoon,1.2 m [4'] blacktip shark
+Oregon,Surfing (sitting on his board),M,25,Non_Fatal,N,Afternoon,3 m to 5 m [10' to 16.5'] white shark
+Florida,Surfing,M,16,Non_Fatal,N,Morning,Hammerhead shark?+O2356
+California,Skindiving,M,28,FATAL,Y,Morning,4.5 m to 5 m white shark
+Texas,Swimming,F,18,Non_Fatal,N,Afternoon,1.2 m [4'] shark
+Western Cape Province,Surfing,M,27,Non_Fatal,N,Evening,2.4 m [8'] white shark
+Hawaii,Towing her sister on plastic ski board,F,13,Non_Fatal,N,Evening,1.2 m to 1.5 m [4' to 5'] hammerhead shark
+KwaZulu-Natal,Scuba diving,M,33,Non_Fatal,N,Morning, 1.5 m [5'] dusky shark
+Eastern Cape Province,Swimming,M,14,Non_Fatal,N,Morning,"Raggedtooth shark, 1 m "
+Eastern Cape Province,Swimming,M,47,Non_Fatal,N,Morning,"Raggedtooth shark, >1 m "
+Western Cape Province,Spearfishing,M,29,Non_Fatal,N,Morning,5 m [16.5'] white shark
+Virginia,Swimming,F,14,Non_Fatal,N,Morning,Sand shark
+Florida,Diving,F,22,Non_Fatal,N,Morning,6' to 8' bull shark
+Queensland,Swimming from the New Venture ,F,21,FATAL,Y,Morning,"Tiger shark, 5 m [16.5']"
+Queensland,Swimming from the New Venture ,M,24,FATAL,Y,Evening,"Tiger shark, 5 m [16.5']"
+Queensland,14 m prawn trawler New Venture capsized  & sank in heavy seas Three people in the water,M,28,Non_Fatal,N,Evening,"Tiger shark, 5 m [16.5']"
+Florida,Windsurfing,F,39,Non_Fatal,N,Afternoon,3.5' hammerhead shark
+Florida,Water-skiing,M,21,Non_Fatal,N,Evening,6' shark
+Eastern Cape Province,Fishing,M,27,Non_Fatal,N,Evening,"Raggedtooth shark, 1.5 m [5'] (tooth fragment recovered)"
+KwaZulu-Natal,Spearfishing,M,17,Non_Fatal,N,Morning,1.8 m [6'] Zambezi shark
+KwaZulu-Natal,Paddleskiing,M,16,Non_Fatal,N,Afternoon,3 m [10'] shark
+Western Cape Province,Spearfishing,M,32,Non_Fatal,N,Afternoon,White shark
+Florida,Windsurfing,M,26,Non_Fatal,N,Morning,1.5 m [5'] shark
+Eastern Cape Province,Surfing,M,16,Non_Fatal,N,Afternoon,"Believed to involve a 2.8 m [9'3""] white shark"
+Florida,Surfing,M,20,Non_Fatal,N,Afternoon,1.5 m [5'] shark
+California,Diving,M,36,Non_Fatal,N,Morning,White shark
+California,Free diving for abalone from Zodiac (submerged),M,28,Non_Fatal,N,Afternoon,5 m to 6 m [16.5' to 20'] white shark
+Eastern Cape Province,Paddleskiing,M,38,Non_Fatal,N,Afternoon,"2.4 m [8'] white shark, species identity confirmed by tooth fragment"
+California,Paddle Boarding,M,26,Non_Fatal,N,Morning,4.5 m to 5.5 m [14.7' to 18'] white shark
+Florida,Swimming,M,17,Non_Fatal,N,Evening,0.9 m to 1.2 m [3' to 4'] shark
+Eastern Cape Province,Surfing,M,27,FATAL,Y,Morning,"2.4 m [8'] white shark, species identity confirmed by witnesses & tooth pattern in surfboard"
+South Carolina,Swimming,M,20,Non_Fatal,N,Afternoon,5' shark
+Eastern Cape Province,Swimming,M,20,Non_Fatal,N,Afternoon,Raggedtooth shark
+California,Surfing,M,24,FATAL,Y,Evening,7 m [23'] white shark
+Florida,Swimming,M,19,Non_Fatal,N,Morning,1.8 m to 2.4 m [6' to 8'] shark
+Florida,Swimming,M,26,FATAL,Y,Evening,Said to involve a tiger shark or a hammerhead shark
+Grand Bahama Island,Snorkeling on surface,M,53,Non_Fatal,N,Afternoon,Mako shark (tooth fragments recovered)
+Eastern Cape Province,Surfing,M,32,Non_Fatal,N,Morning,Possibly a  1.8 m [6'] Zambezi shark
+Chungnam,Shell diving,F,27,FATAL,Y,Afternoon,6 m  white shark
+Eastern Cape Province,Surfing,M,27,Non_Fatal,N,Morning,Raggedtooth shark
+Eastern Cape Province,Surfing,M,19,Non_Fatal,N,Afternoon,"Raggedtooth shark, 2.5 m [8.25'] "
+Eastern Cape Province,Surfing,M,24,Non_Fatal,N,Morning,"Tiger shark, 2.1 m [7']"
+Florida,Standing / Wading,M,19,Non_Fatal,N,Afternoon,"1.2 m to 1.5 m [4' to 5'] bull, sandbar or dusky shark"
+Florida,Surfing,M,24,Non_Fatal,N,Evening,C. maculpinnis or C. limbatus
+KwaZulu-Natal,Swimming,M,30,Non_Fatal,N,Evening,Juvenile dusky or blacktip shark
+Florida,Surfing,M,15,Non_Fatal,N,Afternoon,1.8 m to 2.4 m [6' to 8'] hammerhead shark
+New South Wales,Surf-skiing,M,27,Non_Fatal,N,Morning,"Tiger shark, 2.5 m "
+Eastern Cape Province,Paddleskiing,M,25,Non_Fatal,N,Evening,3.5 m [11.5'] shark
+Grand'Anse,Spearfishing,M,22,Non_Fatal,N,Afternoon,1.8 m [6'] white shark
+Oregon,Surfing,M,29,Non_Fatal,N,Afternoon,4 m to 5 m [13' to 16.5'] white shark
+California,Surfing,M,19,Non_Fatal,N,Morning,4 m to 5 m [13' to 16.5'] white shark
+Delaware,Standing,F,22,Non_Fatal,N,Afternoon,4' to 8' shark
+Eastern Cape Province,Surfing,M,22,Non_Fatal,N,Morning,1.8 m [6'] shark
+Sinaloa,Body surfing,F,13,Non_Fatal,N,Afternoon,Tiger shark
+KwaZulu-Natal,Body boarding,M,24,Non_Fatal,N,Afternoon,"2.8 m [9'3""] white shark"
+KwaZulu-Natal,Spearfishing,M,29,Non_Fatal,N,Morning,"2 m [6'9""] Zambesi shark"
+Eastern Cape Province,Swimming,M,25,Non_Fatal,N,Evening,"Raggedtooth shark, 2 m [6'9""] "
+Oregon,Surfing,M,20,Non_Fatal,N,Morning,"White shark, 4 m [13'] "
+Western Cape Province,Spearfishing,M,25,Non_Fatal,N,Afternoon,"White shark, 2.5 m [8.25']  "
+Florida,Surfing,M,27,Non_Fatal,N,Morning,Blacktip or spinner shark
+Eastern Cape Province,"Surfing, collided with shark",M,19,Non_Fatal,N,Afternoon,1.5 m to 2 m [5' to 6.75'] shark
+KwaZulu-Natal,Spearfishing,M,23,FATAL,Y,Afternoon,"White shark, 2.3 m [7.5'], tooth fragment recovered"
+Western Cape Province,Spearfishing,M,27,Non_Fatal,N,Afternoon,"White shark, 3.7 m [12'] "
+KwaZulu-Natal,Surfing,M,17,Non_Fatal,N,Afternoon,Thought to involve a blacktip shark
+Eastern Cape Province,Surfing,M,18,Non_Fatal,N,Morning,"Tiger shark, 3 m [10']"
+Western Cape Province,Spearfishing,M,25,Non_Fatal,N,Afternoon,"White shark, 5 m [16.5'] "
+South Australia,Surfing,M,17,Non_Fatal,N,Afternoon,White shark
+California,Free diving for abalone (surfacing),M,20,Non_Fatal,N,Morning,"White shark, 5.5 m to 6 m [18' to 20']  "
+Florida,Spearfishing / Scuba diving,M,27,Non_Fatal,N,Evening,"Bull shark, 8"
+California,Hookah diving for abalone (submerged),M,29,Non_Fatal,N,Morning,"White shark, 5.5 m [18'] "
+Western Cape Province,"Thrashing the water / imitating the shark victim from ""Jaws""",M,19,Non_Fatal,N,Afternoon,"White shark, 3 m [10'] k"
+Florida,Surfing,M,19,Non_Fatal,N,Morning,2.1 m [7'] lemon shark or bull shark
+California,Surfing,M,25,Non_Fatal,N,Afternoon,"White shark, 3 m to 4 m [10' to 13'] "
+Eastern Cape Province,Surfing,M,20,Non_Fatal,N,Morning,"White shark, 3.5 m [11.5'], species identity confirmed by tooth fragment"
+Florida,Surfing,M,15,Non_Fatal,N,Afternoon,"Tiger shark, 6' "
+Oregon,Surfing,M,19,Non_Fatal,N,Afternoon,"White shark, 4.5 m "
+Florida,Skindiving,M,17,Non_Fatal,N,Evening,12' to 14' shark
+California,Scuba diving & spearfishing,M,27,Non_Fatal,N,Afternoon,White shark
+KwaZulu-Natal,Standing,M,33,Non_Fatal,N,Morning,Juvenile dusky shark
+Eastern Cape Province,Surfing,M,19,Non_Fatal,N,Afternoon,"White shark, 2.4 m [8']"
+Florida,Floating on a small orange raft ,M,20,Non_Fatal,N,Afternoon,1.5 m [5'] shark
+California,Free diving for abalone,M,44,Non_Fatal,N,Afternoon,White shark
+Tasmania,Scuba diving for abalone,M,37,FATAL,Y,Afternoon,White shark
+California,Scuba diving for abalone (at surface),M,23,Non_Fatal,N,Afternoon,"White shark, 5.8 m [19'] "
+California,Hookah diving for abalone,M,34,Non_Fatal,N,Afternoon,"White shark, 5m to 6m"
+Florida,Swimming,F,14,Non_Fatal,N,Morning,1.2 m [4'] shark
+South Carolina,Swimming ,M,18,Non_Fatal,N,Afternoon,4' shark
+KwaZulu-Natal,Surfing,M,16,Non_Fatal,N,Morning,1.5 m [5'] shark
+South Australia,Swimming underwater from crayfish cage to a fishing bait,M,12,FATAL,Y,Evening,"White shark, 3 m [10'] "
+California,Surfing,M,17,Non_Fatal,N,Morning,"White shark, 5.5 m to 6 m [18' to 20'] "
+California,Hookah diving for abalone,M,29,Non_Fatal,N,Afternoon,"White shark, 4 m to 5 m "
+Red Sea,Swimming,F,20,Non_Fatal,N,Evening,"Shortfin mako shark, 2.3 m [7.5'] "
+California,Scuba diving (but on surface),M,41,Non_Fatal,N,Evening,"White shark, 5 m to 6 m [16.5 to 20'] "
+California,Scuba diving (but on surface),M,48,Non_Fatal,N,Evening,"White shark, 5 m to 6 m [16.5 to 20'] "
+Oregon,Surfing,M,24,Non_Fatal,N,Morning,"White shark, 4.5 m "
+California,Free diving (but on surface),M,45,Non_Fatal,N,Morning,"White shark, 5 m [16.5']"
+Western Cape Province,Spearfishing,M,22,Non_Fatal,N,Evening,"Raggedtooth shark, 1.5 m [5'] "
+KwaZulu-Natal,Surfing,M,17,Non_Fatal,N,Afternoon,Juvenile dusky shark
+KwaZulu-Natal,Surfing,M,21,Non_Fatal,N,Afternoon,1.8 m [6'] shark
+KwaZulu-Natal,Swimming,M,33,Non_Fatal,N,Afternoon,2 m to 2.5 m [6.75'  to 8.25'] shark
+Grand Bahama Island,"Free diving, Spearfishing",M,11,Non_Fatal,N,Afternoon,7' to 8' bull shark
+Baja California,"Free diving, Spearfishing",M,37,FATAL,Y,Afternoon,White shark
+KwaZulu-Natal,Spearfishing,M,26,Non_Fatal,N,Morning,"2 m shark, possibly a dusky or blacktip shark"
+Gaza,Swimming,M,25,Non_Fatal,N,Afternoon,2 m to 3 m shark
+Florida,Surfing,M,22,Non_Fatal,N,Morning,4.5' shark
+California,Free diving for abalone,M,32,Non_Fatal,N,Afternoon,"White shark, 4.4 m to 5 m [14.5' to 16.5'] "
+Victoria,Surfing,M,18,Non_Fatal,N,Morning,7' shark
+KwaZulu-Natal,Sitting in shallows,F,30,Non_Fatal,N,Evening,Zambesi shark
+Gaza,Standing,M,24,Non_Fatal,N,Afternoon,"White shark, 2.5 m [8.25'] "
+Western Cape Province,Swimming,F,16,Non_Fatal,N,Afternoon,"White shark, 3 m [10']rk"
+Florida,Surfing,M,18,Non_Fatal,N,Afternoon,5' to 6' shark
+KwaZulu-Natal,Swimming,M,25,Non_Fatal,N,Evening,1.5 m to 2 m shark
+California,Scuba diving,M,30,Non_Fatal,N,Afternoon,"White shark, 5 m to 6 m [16.5' to 20']  "
+Istria County,Swimming,M,34,FATAL,Y,Morning,White shark
+New South Wales,Scuba diving & feeding fish,M,26,Non_Fatal,N,Afternoon,"Grey nurse shark, 11'"
+Western Cape Province,Surfing,M,21,Non_Fatal,N,Afternoon,"White shark, 3 m [10'], species identity confirmed by witnesses & tooth pattern in leg & board "
+Western Cape Province,Swimming,M,46,FATAL,Y,Morning,White shark according to tooth pattern and witnesses
+South Island,Surfing,M,16,Non_Fatal,N,Morning,"White shark, 4.6 m [15'] "
+Eastern Caroline Islands,Diving,M,43,Non_Fatal,N,Morning,1.8 to 2 m C. albimarginatus
+KwaZulu-Natal,Scuba Diving,M,25,Non_Fatal,N,Afternoon,"Raggedtooth shark, 2 m [6'9""], 5-year-old, captive female "
+California,Free diving for abalone,M,53,Non_Fatal,N,Morning,"White shark, 4.3 m 4.9 m [14' to 16'] "
+Florida,Body surfing,M,13,Non_Fatal,N,Afternoon,4' shark
+Florida,Diving,M,23,Non_Fatal,N,Morning,Nurse shark
+Hawaii,Surfing,M,16,Non_Fatal,N,Evening,"White shark, identified by tooth fragments in surfboard"
+Tasmania,Fishing,M,49,Non_Fatal,N,Morning,7-gill shark
+New South Wales,Feeding mullet to sharks,M,27,Non_Fatal,N,Morning,"Grey nurse shark, 10' "
+South Island,Surfing,M,17,Non_Fatal,N,Evening,White shark
+South Island,Spearfishing,M,24,FATAL,Y,Morning,"White shark, 4.3 m [14'], (tooth fragment recovered)"
+Magdalena Department,Dynamite fishing,M,18,Non_Fatal,N,Morning,2 m shark
+California,Free diving,M,25,Non_Fatal,N,Morning,"White shark, 4 m [13'] "
+South Carolina,Spearfishing using Scuba,M,33,Non_Fatal,N,Afternoon,4m [13'] shark
+KwaZulu-Natal,Wading & pushing dinghy toward  the shallows,M,35,Non_Fatal,N,Afternoon,1.5 m to 1.8m [5' to 6'] shark
+South Australia,Spearfishing,M,26,Non_Fatal,N,Evening,"Bronze whaler shark, 3 m [10'] "
+Western Cape Province,Surfing,M,22,Non_Fatal,N,Afternoon,1.5 m to 1.8 m [5' to 6'] shark
+Florida,Standing on sandbar,M,19,Non_Fatal,N,Afternoon,small blacktip shark
+California,Pulling shark from the water,M,24,Non_Fatal,N,Afternoon,5' blue shark
+Western Australia,"Spearfishing, dived to pick up a float line",M,23,FATAL,Y,Morning,White shark
+Florida,Spearfishing,M,15,Non_Fatal,N,Afternoon,"Nurse shark, 106 cm, 28-lb, male "
+Out Islands,Photographing sharks underwater using Scuba,M,41,Non_Fatal,N,Afternoon,1.5 m to 1.8 m [5' to 6'] sandbar shark
+Florida,Spearfishing,M,26,Non_Fatal,N,Evening,"Nurse shark, 1 m "
+KwaZulu-Natal,Spearfishing,M,32,Non_Fatal,N,Morning,"White shark, 3 m [10'] "
+Victoria,Spearfishing,M,36,Non_Fatal,N,Afternoon,Grey nurse shark
+South Island,Lifesaving drill,M,21,FATAL,Y,Evening,Thought to involve a white shark
+New Ireland Province,Swimming,F,13,FATAL,Y,Morning,3.7 m [12'] shark
+New Ireland Province,Bathing,F,8,FATAL,Y,Morning,3.7 m [12'] shark
+Queensland,"Free diving, carrying speargun",M,32,Non_Fatal,N,Afternoon,"Bronze whaler shark, 2.1 m [7'], a tooth was embedded in the speargun "
+Western Australia,Spearfishing,M,43,Non_Fatal,N,Afternoon,"Mako shark, 1.9 m [6.5'] "
+Duke of York Islands,Swimming,F,13,FATAL,Y,Afternoon,A pack of 6 sharks
+Duke of York Islands,Diving into water,F,9,FATAL,Y,Afternoon,A pack of 6 sharks
+Florida,Wading,M,8,Non_Fatal,N,Afternoon,Spinner or blacktip sharks
+South Carolina,Killing a shark,M,34,Non_Fatal,N,Evening,4' shark
+New Jersey,Clamming,M,15,Non_Fatal,N,Afternoon,"Local authorities speculated that the water was too cold for sharks, but a 2.1 m [7'], 200-lb pregnant sandbar shark was caught next day"
+Florida,Fishing,M,18,Non_Fatal,N,Morning,1.2 m [4'] hammerhead shark
+Texas,Swimming,M,18,Non_Fatal,N,Evening,a small shark
+New South Wales,Treading water,M,13,Non_Fatal,N,Afternoon,"White shark, 2.5 m [8.25'], an immature female, previously injured"
+Western Cape Province,Helping men land a shark,M,33,Non_Fatal,N,Afternoon,Copper shark
+California,Free diving / spearfishing (resting on the surface),M,29,Non_Fatal,N,Morning,"White shark, 3 m [10'] "
+Eastern Cape Province,Standing,M,16,Non_Fatal,N,Morning,1.5 m to 1.8 m [5' to 6'] Zambesi shark
+KwaZulu-Natal,Body surfing,M,15,Non_Fatal,N,Afternoon,"1.8 m to 2 m [6' to 6'9""] shark"
+Florida,Swimming,M,35,Non_Fatal,N,Afternoon,Hammerhead shark
+Queensland,Surfing,M,24,Non_Fatal,N,Afternoon,"Grey nurse shark, 2.4 m [8'] "
+Florida,Spearfishing,M,28,Non_Fatal,N,Morning,"White shark, 10' to 12' "
+Western Caroline Islands,Walking on reef,M,8,Non_Fatal,N,Afternoon,"Tiger shark, tooth fragment recovered"
+Florida,Paddling on surfboard,M,17,Non_Fatal,N,Morning,Blacktip or spinner shark
+Florida,Free diving,M,16,Non_Fatal,N,Afternoon,Mako shark
+KwaZulu-Natal,Treading water,M,25,Non_Fatal,N,Afternoon,"1.8 m [6'], 136-kg [300-lb] shark "
+Massachusetts,Scuba diving,M,18,Non_Fatal,N,Afternoon,1.2 m [4'] shark
+KwaZulu-Natal,Paddling rescue ski,M,22,Non_Fatal,N,Afternoon,"White shark, 3.7 m [12'] "
+Eastern Cape Province,Swimming,M,19,Non_Fatal,N,Evening,Raggedtooth shark 
+Bougainville (North Solomons),"Canoe swamped, swimming back to canoe",M,28,Non_Fatal,N,Evening,2.1 m [7'] shark
+Victoria ,Free diving with seals,M,25,Non_Fatal,N,Afternoon,"White shark, 2.4 m [8'] "
+Western Australia,"Surfing, but swimming to his board",M,19,Non_Fatal,N,Morning,"Grey nurse shark, 1.8 m [6']"
+Northern Taiwan,Swimming,M,20,Non_Fatal,N,Afternoon,1.8 m [6'] shark
+Guerrero,Floating on his back in an inner tube,M,19,Non_Fatal,N,Afternoon,1.8 to 2.4 m [6' to 8'] shark
+Florida,Spearfishing using scuba,M,28,Non_Fatal,N,Afternoon,Hammerhead shark
+Vita Levu,Spearfishing,M,35,FATAL,Y,Morning,Tiger shark
+Florida,Skin diving ,M,38,Non_Fatal,N,Afternoon,1.7 m [5.5'] shark
+North Island,Spearfishing,M,26,Non_Fatal,N,Evening,"White shark, 3 m [10'] "
+Western Cape Province,Body boarding,M,25,Non_Fatal,N,Morning,"White shark, 1.5 m [5'] k"
+South Island,Swimming,M,19,FATAL,Y,Morning,"White shark, 3 m to 3.7 m [10' to 12'] "
+California,Spearfishing / Scuba diving (at surface),M,21,Non_Fatal,N,Afternoon,White shark (tooth fragment recovered)
+KwaZulu-Natal,Standing,F,20,Non_Fatal,N,Afternoon,"Zambesi shark, 1.8 m [6'] "
+KwaZulu-Natal,Swimming ,M,24,Non_Fatal,N,Afternoon,1.8 m [6']  shark
+KwaZulu-Natal,Helping friend land hooked shark,M,13,Non_Fatal,N,Evening,"Dusky shark, 1 m "
+KwaZulu-Natal,Splashing in surf,M,15,FATAL,Y,Afternoon,300- to 400-lb Zambesi shark
+South Australia,Spearfishing,M,23,Non_Fatal,N,Afternoon,White shark
+South Island,Treading water while alongside capsized yacht,M,20,Non_Fatal,N,Afternoon,Possibly a broadnose 7-gill shark
+Gulf Province,Fishing / standing in waist deep water,F,18,Non_Fatal,N,Afternoon,Tiger shark
+ Lau Province,Fishing,F,21,Non_Fatal,N,Morning,>1.2 m [4'] tiger shark
+Western Caroline Islands,Fishing,M,35,Non_Fatal,N,Morning,Dooley believed his Injury was caused by stingray (Dasyatidae family)
+Florida,"Surf fishing, wading ",M,28,Non_Fatal,N,Evening,500-lb shark
+Ysabel Island,Spearing fish,M,30,FATAL,Y,Afternoon,5.5 m [18'] shark
+New South Wales,Surfing,M,18,Non_Fatal,N,Morning,1.5 m [5'] shark
+Florida,"Spearfishing, pulled sharkâ€™s tail",M,16,Non_Fatal,N,Afternoon,"Nurse shark, 1.2 m [4'] "
+Eastern Caroline Islands,Spearfishing,M,26,Non_Fatal,N,Morning,Tiger shark
+Thessaly,Swimming,F,42,FATAL,Y,Afternoon,"White shark, 3 m "
+Central Province,Fishing,M,30,Non_Fatal,N,Morning,1.8 m [6'] shark
+US Virgin Islands,Swimming,M,25,FATAL,Y,Afternoon,"Hand found in gut of 2.9 m to 3.3 m [9'7"" to 10'11""] Galapagos shark, C. galapagensis"
+Hawaii,Surfing ,M,15,Non_Fatal,N,Afternoon,3.7 to 4.5 m [12' to 15'] shark seen in vicinity
+New South Wales,Spearfishing,M,18,Non_Fatal,N,Afternoon,"Bronze whaler shark, 3 m [10'] "
+Lomaiviti  Island Group,Spearfishing,M,28,Non_Fatal,N,Morning,"White shark, 2.1 m [7'] "
+New South Wales,Wading,F,32,FATAL,Y,Afternoon,"Tooth fragments of â€œwhalerâ€ shark were recovered, a bull shark, according to Edwards"
+KwaZulu-Natal,"Free diving, hunting crayfish",M,27,Non_Fatal,N,Afternoon,1 m shark
+KwaZulu-Natal,Spearfishing,M,24,Non_Fatal,N,Afternoon,"Zambesi shark, 2 m [6'9""] "
+South Australia,Spearfishing,M,16,FATAL,Y,Afternoon,"White shark, 4.3 m [14'] (or bronze whaler)"
+California,Spearfishing / Scuba diving (at surface),M,24,Non_Fatal,N,Afternoon,"White shark, 4.3 m to 4.9m [14' to 16']"
+Veracruz,Wading,M,32,FATAL,Y,Morning,2.7 m [9'] shark
+Grand Turk Island,Spearfishing,M,24,Non_Fatal,N,Afternoon," Blacktip shark, C. maculipinnis. 1.9 m to 2.1 m [6.5' to 7'] "
+Tyrrhenian Sea,Spearfishing with Scuba gear,M,28,FATAL,Y,Morning,White shark
+Northern District,Fishing,M,49,Non_Fatal,N,Afternoon,"""A long thin brown-colored shark"""
+California,Diving for abalone,M,39,Non_Fatal,N,Morning,"Horn shar,k Heterodontus francisci, 1.2 m [4'] "
+Texas,Surf fishing in waist-deep water,M,40,FATAL,Y,Afternoon,Unknown
+New Jersey,Standing,M,24,Non_Fatal,N,Afternoon,1.8 m [6'] shark
+California,Fishing for albacore,M,19,Non_Fatal,N,Afternoon,Blue shark
+Florida,Rolled off raft,M,11,Non_Fatal,N,Morning,1.8 m [6'] shark
+California,"Scuba diving, attempting to catch a captive shark",M,55,Non_Fatal,N,Afternoon," Sevengill  shark, 1.2 m [4'] "
+KwaZulu-Natal,Wading,M,13,Non_Fatal,N,Morning,"Zambesi shark, 1.2 m [4'] "
+Madang,Swimming,M,10,FATAL,Y,Evening,Possibly a bronze whaler shark
+KwaZulu-Natal,Treading water,M,13,FATAL,Y,Afternoon,"White shark, 3 m "
+Queensland,Swimming,M,35,Non_Fatal,N,Afternoon,60 cm  shark 
+South Island,Splashing ,M,18,Non_Fatal,N,Afternoon,1.5 m [5'] shark
+California,Spearfishing / Scuba diving (at surface),M,29,Non_Fatal,N,Morning,"White shark, 4 m [13'] "
+New South Wales,Surfing,M,19,Non_Fatal,N,Afternoon,"Bronze whaler shark, 2.1 m [7'] shark"
+"10ÂºS, 142ÂºE",Spearfishing,M,24,Non_Fatal,N,Afternoon,White shark
+South Island,Surf fishing,F,54,Non_Fatal,N,Evening,"36""  shark"
+Kwajalein Atoll,Fishing with hand net in 2' of water,M,57,Non_Fatal,N,Afternoon,1.8 m [6'] shark
+Queensland,Standing,F,18,FATAL,Y,Afternoon,3 m [10'] shark
+Queensland,Standing,M,24,Non_Fatal,N,Afternoon,3 m [10'] shark
+KwaZulu-Natal,Treading water,M,18,Non_Fatal,N,Afternoon,Zambesi shark
+Western Australia,Spearfishing,M,23,Non_Fatal,N,Morning,"Grey nurse shark, 2.4 m [8'] "
+Queensland,"Surfing, pushing board ashore",M,22,FATAL,Y,Morning,Next morning a 3 m [10'] shark was caught that had Andrews' leg in its gut
+Torres Strait,Swimming with other crew near wharf,M,17,Non_Fatal,N,Afternoon,1.8 m [6'] shark
+Primorje-Gorski Kotar County ,Swimming,M,19,FATAL,Y,Afternoon,White shark
+165  miles from Bermuda,"Survived US Naval aircraft crash, climbing onboard rescue vessel when he fell back into sea ",M,22,Non_Fatal,N,Morning,"Oceanic whitetip shar,; identified by Dr. W.C. Schoeder on photograph & Dr. L.P. L. Schultz on sketch by observer"
+California,Swimming,M,16,Non_Fatal,N,Morning,"White shark, 4 m [13'] "
+South Carolina,Wading,M,19,Non_Fatal,N,Morning,White shark
+Hawaii,"Net fishing, picking catch from the net",M,38,Non_Fatal,N,Evening,2.4 m [8'] shark
+New York,Spearfishing,M,57,Non_Fatal,N,Afternoon,"43"" shark"
+Adriatic Sea,Spearfishing,M,21,Non_Fatal,N,Afternoon,"White shark, 4.5 m "
+California,Free diving for abalone,M,20,Non_Fatal,N,Morning,White shark
+Florida,Walking in chest-deep water,M,52,Non_Fatal,N,Morning,"Hammerhead shark, 500-llb "
+Gaza,Swimming,M,37,Non_Fatal,N,Morning,Zambesi shark
+New South Wales,"Checking fish traps, fell into the water",M,40,Non_Fatal,N,Evening," ""gummy"" shark (Rhizoprionodon or Loxodon) 1.2 m [4']"
+Gaza,"Swimming, using bundles of sticks as raft",M,38,FATAL,Y,Morning,Zambesi shark
+Victoria,Swimming,M,24,Non_Fatal,N,Evening,3 m [10'] shark
+South Australia,Spearfishing,M,21,Non_Fatal,N,Afternoon,"White shark, 3.7 m [12'] "
+Wake Island (EnenKio),Free diving,M,33,Non_Fatal,N,Afternoon,"Grey reef shark, 1.8 m [6'] grey reef shark, identified by Dr. L.P. L. Schultz based on photographs; identified as C. melanopterus by Stewart"
+Western Cape Province,"Spearfishing, shark grabbed his white t-shirt and towed him ",M,27,Non_Fatal,N,Evening,1.5 m [5'] shark
+Eastern Cape Province,Swimming,M,14,FATAL,Y,Afternoon,"2.1 m [7'], 90-kg shark"
+KwaZulu-Natal,Swimming,M,15,Non_Fatal,N,Afternoon,White shark
+New South Wales,Collecting aquarium specimens,M,27,Non_Fatal,N,Morning,"Wobbegong shark, 1.5 m [5'] "
+KwaZulu-Natal,Standing,M,13,Non_Fatal,N,Evening,"White shark, based on bite pattern"
+KwaZulu-Natal,Swimming,M,25,FATAL,Y,Afternoon,"White shark, 3 m [10'], tooth fragment from wounds identified as that of a white shark"
+Queensland,"Fishing, when line became snagged on rock & he dived into water to free it ",M,33,Non_Fatal, N,Morning,"Grey nurse shark, 1m "
+Queensland,Swimming,M,41,Non_Fatal, N,Afternoon,3' shark
+Florida,Holding shark on leader & dangling it above the water,M,15,Non_Fatal,N,Evening,"Lemon shark, 1164 mm, immature male, identified by  V.G. Springer"
+Virginia,"Fishing, tossing netted shark onboard",M,41,Non_Fatal,N,Afternoon,"""sand shark"""
+Florida,Scuba diving,M,39,Non_Fatal,N,Morning,"Mako shark, 1.8 m to 2.1 m [6' to 7']  with hook & wire leader caught in mouth"
+Paget,Free diving but treading water at surface,M,25,Non_Fatal,N,Afternoon,"Dusky shark, 2.7 m [9'] dusky shark C. obscurus identified by S. Springer on tooth recovered"
+California,Swimming ,F,16,Non_Fatal,N,Afternoon,"White shark, 4 m to 5 m [13' to 16.5'] "
+KwaZulu-Natal,Treading water,M,16,Non_Fatal,N,Afternoon,"White shark, 2.1 m [7']  based on tooth pattern"
+California,Skindiving for abalone (but at surface),M,48,Non_Fatal,N,Afternoon,"White shark, 4.9 m [16'] "
+New South Wales,Surfing,M,17,Non_Fatal,N,Evening,"White shark, 3.7 m [12'] "
+Florida,Treading water,M,42,Non_Fatal,N,Afternoon,"1.2 m [4'], possibly  larger shark"
+Tasmania,"Wading, fishing for flounder",M,31,Non_Fatal,N,Evening,Two 2.1 m [7'] sharks
+New South Wales,Free diving,M,13,FATAL,Y,Afternoon,Bull shark
+Victoria,Body surfing,M,19,Non_Fatal,N,Afternoon,3.5 m [11.5'] shark
+Queensland,Standing in chest-deep water,M,17,Non_Fatal,N,Morning,"""a small shark"""
+Queensland,Trailing the field in a surf race,M,19,Non_Fatal,N,Morning,3 m to 4.3 m [10' to 14'] shark
+California,Swimming at surface through school of feeding 2.5' to 5â€™ sharks,M,21,Non_Fatal,N,Morning,"Blue shark, 1.5 m [5'] "
+California,Diving for abalone,M,30,Non_Fatal,N,Afternoon,"White shark, 5 m [16.5'], identified by Dr. W. I. Follett on tooth marks"
+Kadavu,Spearfishing,M,36,Non_Fatal,N,Afternoon,"Tiger shark, 1.8 m [6']"
+Florida,"Adrift, hanging onto cushion, after his 17' skiff ran out of gas & capsized 3 miles from shore",M,30,Non_Fatal,N,Evening,"A hammerhead shark, then 8 to 10 other sharks were said to be  involved"
+Wakayama Prefecture,Swimming,M,15,FATAL,Y,Afternoon,"Blue shark, 3 m [10']"
+California,Spearfishing (but on surface),M,25,Non_Fatal,N,Evening,"Hammerhead shark, 1.8 m [6'] S. zygena identified by C. Limbaugh on description"
+California,Free diving for abalone,M,33,FATAL,Y,Evening,"Reported to involve a White shark, 6 m to 7m [20' to 23'] "
+California,Treading water,M,18,FATAL,Y,Evening,"White shark, 3 m [10']; identifed by Dr. W.I. Follett on tooth marks"
+Florida,Spearfishing,M,19,Non_Fatal,N,Morning,"Tiger shark, 3.7 m [12']"
+KwaZulu-Natal,Treading water,M,14,Non_Fatal,N,Afternoon,1.8 to 2.1 m [6' to 7'] shark
+Western Australia,Working prawn net,M,20,Non_Fatal,N,Evening,"Grey nurse shark, 1.8 m [6']"
+Tasmania,In deep water about 100 yards from his ship,M,22,FATAL,Y,Afternoon,Said to involve 2 sharks: 5.2 m & 6 m [17' & 20'] 
+Queensland,"Surfing, but treading water",M,17,Non_Fatal,N,Morning,1.8 m [6'] shark
+Western Cape Province,Swimming,M,18,Non_Fatal,N,Afternoon,"White shark, 1.8 m to 2.1 m [6' to 7']  according to Shreuder and a witness"
+Hawaii,Surfing on air mattress,M,15,FATAL,Y,Afternoon,"Tiger shark, 4.6 m to 7.6 m [15' to 25'] "
+Tutuila Island,Cleaning hull of ship ,M,22,FATAL,Y,Morning,Tiger shark
+Queensland,Swimming,M,21,FATAL,Y,Afternoon,12' shark
+Cat Cay,Fishing,M,42,Non_Fatal,N,Morning,200-lb shark
+Florida,"Swimming, ducking for shells in water 0.9 m deep",M,12,Non_Fatal,N,Afternoon,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] "
+Florida,"Swimming, ducking for shells in water 0.9 m deep",M,8,Non_Fatal,N,Afternoon,"Tiger shark, 1.5 m to 1.8 m [5' to 6'] "
+Between Hawaii & Wake Island,U.S. Airforce C124 enroute from Hickham Air Base to Japan went down. The 3 survivors fashioned raft from mailbags  & were rescued 3 days after the crash.,M,31,Non_Fatal,N,Morning,Sharks averaged 1.8 m [6'] in length
+Florida,Free diving,M,20,Non_Fatal,N,Afternoon,"Nurse shark, 1.5 m [5']  identified by Dr. E. Clark on description of shark"
+Abaco Islands,"Spearfishing, had fish on his spear",M,36,Non_Fatal,N,Afternoon,"Tiger shark, <2 m TL"
+Florida,Wading,M,59,Non_Fatal,N,Evening,"Nurse shark, 2.1 m [7']  identified by Dr. E. Clark on color & tooth impressions"
+Florida,Walking,M,17,Non_Fatal,N,Evening,Tiger shark?
+Taipei Hsien,Diving,M,29,Non_Fatal,N,Evening,"Mako shark, 100-kg [221-lb] "
+KwaZulu-Natal,Paddling in knee-deep water,F,28,FATAL,Y,Morning,3 m [10'] shark
+KwaZulu-Natal,Swimming with goggles,M,29,FATAL,Y,Afternoon,3 m [10'] shark
+New South Wales,Body surfing,M,14,Non_Fatal,N,Afternoon,6' shark
+KwaZulu-Natal,Standing,F,14,Non_Fatal,N,Afternoon,1.8 m [6'] shark
+KwaZulu-Natal,Floating,M,23,FATAL,Y,Afternoon,>3 m [10'] shark
+North Carolina,Swimming,M,57,FATAL,Y,Afternoon,White shark
+New South Wales,Competing in spearfishing championship & towing dead fish,M,28,Non_Fatal,N,Afternoon,4.6 m [15'] shark
+California,Swimming,M,25,FATAL,Y,Afternoon,White shark
+Florida,Standing,M,17,Non_Fatal,N,Morning,4 m [13'] shark
+Torres Strait,Swimming between  anchored  pearling luggers,M,22,Non_Fatal,N,Afternoon,Shark seen feeding on turtle scraps thrown overboard prior to incident.
+Milne Bay Province,Spearfishing,M,19,FATAL,Y,Afternoon,2.4 m [8'] tiger shark caught 40 hours later with shorts of the boy in its gut
+"Near Dakar, Cap Vert Peninsula","Skindiving, fish at belt",M,19,Non_Fatal,N,Evening,Lemon shark
+California,Swimming near pier,M,10,Non_Fatal,N,Afternoon,"White shark, 2.7 m [9'] "
+Victoria,"Swimming, attacked at  surf carnival",M,26,FATAL,Y,Afternoon,3.7 m [12'] shark & may have been another shark nearby
+Queensland,Diving into water,M,15,FATAL,Y,Morning,1.8 m [6'] shark
+Central Province,Swimming,M,8,Non_Fatal,N,Evening,Wobbegong shark
+Tutuila Island,Swimming,M,28,FATAL,Y,Morning,Blue shark
+California,Spearfishing,M,19,Non_Fatal,N,Afternoon,"White shark, 5 m to 6 m [16.5' to 20] "
+New South Wales,Swimming,M,25,FATAL,Y,Afternoon,3.6 m  white shark  (or bronze whaler)
+New South Wales,Hunting lobsters in 2.4 m of water,M,13,FATAL,Y,Afternoon,"Bronze whaler shark,3.7 m [12'] "
+Queensland,Pearl diving from lugger Whyalla,M,30,Non_Fatal,N,Afternoon,2.4 m [8']  shark
+Buenos Aires Province,Floating,M,18,Non_Fatal,N,Afternoon,White shark tooth fragment recovered from ankle & identified by Dr. W. I. Follett
+Madang Province,Crouching in the water,M,26,Non_Fatal,N,Evening,14' shark
+Hawaii,Spearfishing,M,15,FATAL,Y,Morning,3 m [10'] shark seen in vicinity
+New South Wales,Spearfishing,M,25,Non_Fatal,N,Evening,Wobbegong shark
+South Australia,"Fishing, setting nets",M,25,Non_Fatal,N,Evening,2.4 m [8'] shark
+California,Body surfing & treading water,M,17,FATAL,Y,Afternoon,"White shark,4.6 m [15'] "
+New South Wales,Treading water,M,21,FATAL,Y,Afternoon,2.4 m [8']  shark
+KwaZulu-Natal,Swimming,M,23,Non_Fatal,N,Afternoon,"White shark, 1.8 m [6'] "
+KwaZulu-Natal,Treading water,M,24,Non_Fatal,N,Evening,"White shark, 2.4 m [8'] "
+New South Wales,Fell off surf ski,M,23,Non_Fatal,N,Afternoon,"Wobbegong shark, 4'"
+Eastern Cape Province,Body surfing,M,31,Non_Fatal,N,Afternoon,136-kg [300-lb] shark
+Queensland,Body surfing,M,21,Non_Fatal,N,Evening,"White shark, 3m, seen in area and hooked 3 days later"
+California,Body surfing / treading water,M,31,Non_Fatal,N,Afternoon,White shark
+Queensland,Fishing,M,25,Non_Fatal,N,Evening,4' shark
+ La Libertad,Jerked overboard while pole fishing for tuna,M,27,Non_Fatal,N,Morning,"1,100-lb shark"
+KwaZulu-Natal,Body surfing,M,14,FATAL,Y,Afternoon,"White shark, 3.7 m [12']  according to witnesses"
+Jakarta Harbour,Bending over,M,7,FATAL,Y,Afternoon,"Tiger shark, 3.7 m to 4.3 m  [12' to 14']"
+New South Wales,Free diving or wading back to shore,M,36,Non_Fatal,N,Afternoon,6' shark
+Queensland,Bathing in water 0.9 m deep,M,13,FATAL,Y,Afternoon,"3.3 m [10'9""] shark"
+New South Wales,Lifesaving exhibition,M,20,FATAL,Y,Afternoon,"White shark, 3.6 m [11'9""] "
+Attica,Swimming,M,17,FATAL,Y,Afternoon,Said to be 6.4 m [21'] shark
+Florida,Underwater photography,M,48,Non_Fatal,N,Afternoon,Nurse shark
+New South Wales,Fishing,M,9,Non_Fatal,N,Evening,Grey nurse shark
+Florida,Swimming,M,20,FATAL,Y,Morning,Possibly C. leucas
+KwaZulu-Natal,Treading water,M,21,Non_Fatal,N,Afternoon,"1.5 m, 45-kg shark"
+KwaZulu-Natal,Treading water,M,22,Non_Fatal,N,Afternoon,"Blacktip shark, 2 m [6.75'] "
+KwaZulu-Natal,Treading water,M,18,Non_Fatal,N,Afternoon,>1.6 m shark
+Queensland,Swimming after a tennis ball,M,30,FATAL,Y,Afternoon,4.3 m [14'] shark
+Western Australia,Standing,M,18,Non_Fatal,N,Afternoon,"White shark, 4.2 m [13'9""] "
+Western Cape Province,Jumping in swells,M,18,Non_Fatal,N,Afternoon,1.5 m [5'] shark
+KwaZulu-Natal,Walking,M,37,Non_Fatal,N,Afternoon,Thought to involve a Zambesi shark
+Basrah,Swimming,M,15,Non_Fatal,N,Afternoon,Bull shark
+Western Cape Province,Swimming,M,17,FATAL,Y,Afternoon,"White shark, according to witnesses"
+Gulf of Panama,Dived overboard to check propeller of US Navy motor torpedo boat,M,20,FATAL,Y,Afternoon,"White shark, 2 m [6'9""]  (Tooth fragment recovered from victim's shoulder & identified by J.T. Nicholls)"
+New South Wales,Dog paddling or standing,F,15,FATAL,Y,Morning,Bull shark
+Western Cape Province,Swimming ,M,18,FATAL,Y,Afternoon,"White shark, 4.5 m  to 6 m [14'9"" to 20'] according to witnesses"
+Queensland,Treading water,M,24,Non_Fatal,N,Afternoon,"Tiger shark, 2.4 m to 3 m [8' to 10'] "
+New South Wales,Swimming,F,28,FATAL,Y,Afternoon,"Bull shark, 4 m [13'] "
+Cay Sal Bank,Swimming along side N.E.L. vessel Saluda,M,48,Non_Fatal,N,Evening,1.2 m to 1.5 m [4' to 5'] shark
+New York,Fishing from 32' boat,M,43,Non_Fatal,N,Afternoon,2.1 m [7'] shark
+California,Fishing,M,53,Non_Fatal,N,Evening,Mako shark (aka bonito shark) 1.2 m [4'] 
+KwaZulu-Natal,Treading water,M,25,FATAL,Y,Morning,"White shark, species identity confirmed by tooth pattern"
+KwaZulu-Natal,Swimming,M,17,FATAL,Y,Afternoon,"White shark, 160-kg [353-lb], identity confirmed by tooth pattern"
+New South Wales,Swimming,M,13,FATAL,Y,Morning,3 m [10'] shark
+KwaZulu-Natal,Swimming ,M,18,FATAL,Y,Afternoon,2.4 m [8'] shark
+Queensland,Swimming ,M,20,FATAL,Y,Afternoon,2.6 m [8.5'] shark landed 2 hours later
+Andros Islands,"Dress diving, filming shark & pulling it through the water for a motion picture scene",M,38,Non_Fatal,N,Afternoon,"Nurse shark, 2.1 m [7']"
+Queensland,Fishing,M,18,Non_Fatal,N,Afternoon,"Tiger shark, 6'"
+Basrah City,"Swimming, naked",M,9,Non_Fatal,N,Afternoon,Bull shark
+Queensland ,Swimming ,M,25,FATAL,Y,Evening,Tiger shark
+Queensland,Swimming ,M,18,FATAL,Y,Evening,"Tiger shark,  3.6 m [11'9""], 850-kg [1874-lb] female, contained Girvan's remains "
+Torres Strait,"Diving from the lugger San, operated by the Protector of the Aborigines",M,38,Non_Fatal,N,Morning,"Tiger shark, 9' to 10' "
+Queensland,"Refused permission to cross on the ferry, he was swimming across the river",M,33,FATAL,Y,Evening,2 days later a 600-lb shark was caught 100 yards from the site
+New South Wales,Swimming,M,32,FATAL,Y,Afternoon,White shark
+Massachusetts,Swimming crawl stroke,M,16,FATAL,Y,Afternoon,White shark (identified by Dr. Hugh Smith) 
+Queensland,Diving for trochus,M,16,Non_Fatal,N,Morning,"Tiger shark, 4.6 m [15'] "
+New South Wales,Swimming,M,14,FATAL,Y,Afternoon,White shark
+South Australia,"Swimming. Passer-by, Len Bedford, heard him shriek , saw shark leap from the water & swimmer disappeared",M,13,FATAL,Y,Evening,White shark
+Queensland,"Fell overboard, hanging onto lifebuoy",M,38,FATAL,Y,Evening,3.7 m [12'] shark
+New South Wales,Swimming,M,27,FATAL,Y,Afternoon,"White shark, 4 m [13'] "
+New South Wales,Standing,M,22,FATAL,Y,Evening,"White shark, 3.5 m to 4 m [11.5' to 13'] "
+New South Wales,Splashing,F,13,Non_Fatal,N,Evening,"Tiger shark, 1.5 m [5'] "
+New South Wales,Swimming in waist-deep water ,M,15,FATAL,Y,Afternoon,4.3 m [14'] shark seen in vicinity
+New South Wales,Swimming in hip-deep water,M,17,FATAL,Y,Afternoon,4 m [13'] shark seen in vicinity
+New South Wales,Swimming on sandbar adjacent to channel,M,22,Non_Fatal,N,Afternoon,4.3 m [14'] shark seen in area previous week
+New South Wales,Swimming,M,24,Non_Fatal,N,Morning,Thought to involve a mako or grey nurse shark
+Eastern Cape Province,Collecting fish by lamplight in gully,M,23,Non_Fatal,N,Evening,"Raggedtooth shark, 1.2 m to 1.5 m [4' to 5'] "
+Queensland,Swimming,M,18,Non_Fatal,N,Afternoon,1.5 m [5'] shark
+Victoria,Diving off pier & treading water,M,18,FATAL,Y,Afternoon,White shark 4.9 m [16'] 
+Western Cape Province,Swimming,M,23,Non_Fatal,N,Evening,"White shark, 4.5 m [14'9""], identity confirmed by witness & tooth pattern"
+Queensland,Standing in knee-deep water,M,19,Non_Fatal,N,Afternoon,"Grey nurse shark, 4' "
+New South Wales,Swimming,M,39,FATAL,Y,Afternoon,Galapagos shark
+New South Wales,Body surfing,M,14,FATAL,Y,Evening,12' shark
+Gulf of Panama,Swimming,M,17,FATAL,Y,Morning,Morenoâ€™s leg  & part of his swim suit found in 9' shark caught two hours after the attack. Identified as carcharhinid shark by L. Schultz & C. Limbaugh on photograph
+Queensland,Bathing,M,15,Non_Fatal,N,Morning,4' shark
+Eastern Cape Province,Body surfing,M,18,Non_Fatal,N,Morning,1.2 m [4'] shark
+Western Cape Province,Swimming,M,17,FATAL,Y,Morning,"White shark, 4.4 m [14.5'] . "
+New South Wales,Body surfing / treading water,M,17,Non_Fatal,N,Afternoon,Grey nurse shark?
+New South Wales,Swimming,M,15,FATAL,Y,Morning,3.7 m [12'] shark
+New South Wales,Bathing,M,17,Non_Fatal,N,Afternoon,"Grey nurse shark, 4'"
+Golfo di Genova in the Ligurian Sea,Swimming,M,20,FATAL,Y,Morning,Said to involve 6 to 7 m [20' to 23'] white shark
+California,Swimming with dog near canning factory,M,15,Non_Fatal,N,Evening,1.5 m [5'] white shark or sevengill shark
+Western Australia,Floating on his back,M,55,FATAL,Y,Afternoon,"Tiger shark, 4 m [13'] female"
+New South Wales,Bathing in waist-deep water,M,16,Non_Fatal,N,Evening,Said to be a â€œsmall sharkâ€
+New South Wales,Had just dived into water & was swimming,M,16,FATAL,Y,Afternoon,3 m [10'] shark
+Queensland,Bathing in 3' to 4' of water,M,19,FATAL,Y,Morning,"2.7 m [9'] ""blue"" shark"
+Westmoreland Parish,Swimming,M,19,FATAL,Y,Morning,6' shark
+Western Cape Province,Swimming,M,18,Non_Fatal,N,Morning,"White shark, 12', identity confirmed by tooth fragment, witness and photograph of captured shark "
+New South Wales,Bathing in knee-deep water,M,21,FATAL,Y,Morning,"White shark, 2.4 m [8'] "
+New South Wales,Swimming,M,18,FATAL,Y,Afternoon,White shark
+New South Wales,Wading,M,13,FATAL,Y,Morning,12' shark
+New Jersey,Swimming,M,24,FATAL,Y,Evening,Thought to involve a 2.6 m [8.5'] white shark
+New South Wales,Swimming,M,21,FATAL,Y,Afternoon,"2.8 m [9'3""] whaler shark captured 3 days later with his remains in its gut"
+KwaZulu-Natal,Washing horses,M,30,FATAL,Y,Afternoon,1.8 m to 2.7 m [6' to 9'] shark
+New South Wales,Bathing,M,40,Non_Fatal,N,Morning,5' shark
+Western Cape Province,Swimming,M,29,FATAL,Y,Afternoon,White shark
+New South Wales,Bathing,M,19,Non_Fatal,N,Morning,10' to 12' shark
+New South Wales,Fishing,M,21,Non_Fatal,N,Evening,12' shark
+Queensland,Swimming,M,12,FATAL,Y,Afternoon,Bull shark
+Hoogly River,Standing,M,35,FATAL,Y,Morning,Identified as C. gangeticus by Dr. J. Fayrer
+Florida,Shark tagging,F,21,Non_Fatal,N,Evening,"Blacktip shark, 5'"
+Basrah,Swimming naked near a date palm where many dates fell into the water,M,6,Non_Fatal,N,Afternoon,Bull shark
+Basrah,Swimming in section of river used for washing clothes & cooking utensils,M,16,Non_Fatal,N,Afternoon,Bull shark
+Basrah,Swimming,M,13,FATAL,Y,Afternoon,Bull shark
