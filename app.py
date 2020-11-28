@@ -16,7 +16,7 @@ CORS(app)
 password = PW
 
 # Step 3: Create engine directed at PostGreSQL Database
-engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/<database name>')
+engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/sharkattack')
 
 Base = automap_base()
 Base.prepare(engine, reflect=True)
@@ -34,8 +34,23 @@ def home():
 
     return render_template('index.html')
 
+@app.route("/api/v1.0/table1data")
+def table1data(): 
 
+    session = Session(engine)
 
+    results = session.query(table1.column1).all()
+
+    session.close()
+
+    table1_results = []
+
+    for item in results:
+        item_dict = {}
+        item_dict["column1"] = item[0]
+        table1_results.append(item_dict)
+
+    return jsonify(table1_results)
 
 # Boiler plate flask app code
 if __name__ == "__main__":
