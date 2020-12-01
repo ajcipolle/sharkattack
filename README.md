@@ -59,9 +59,9 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 ## Data Sources
 
-- **Main Data Source**: [120 Years of Olympic History](https://www.kaggle.com/heesoo37/120-years-of-olympic-history-athletes-and-results/home). This is a historical dataset on the modern Olympic Games, including all the Games from Athens 1896 to Rio 2016. Also includes a NOC (National Olympic Committee) dataset that will allow us to map each athlete to a country.
+- **Main Data Source**: [Shark Attacks](https://www.kaggle.com/... This ...
 
-- **Lat/Long Coordinates by Country**: [Latitude and Longitude for Every Country and State](https://www.kaggle.com/paultimothymooney/latitude-and-longitude-for-every-country-and-state). This dataset will be used to get the lat/long coordinates of each country/city for map overlays.
+- **Lat/Long Coordinates**: [Latitude and Longitude for each location](https://www.kaggle.com/paultimothymooney/latitude-and-longitude-for-every-country-and-state). This dataset ...
 
 ## Data Cleaning
 
