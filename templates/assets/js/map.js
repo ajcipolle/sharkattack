@@ -25,25 +25,25 @@ var olyred = "#DF0024"
     // Function that will determine the color of a country based on the medals count? it belongs to
 function chooseColor(ADMIN) {
     switch (ADMIN) {
-        case "United Kingdom":
+        case "South Africa":
             return olyblue;
-        case "Algeria":
+        case "Mexico":
             return olygold;
         case "China":
             return olyred;
-        case "Russia":
+        case "Cuba":
             return olyred;
         case "United States of America":
             return olyblue;
-        case "Spain":
+        case "Australia":
             return olyred;
-        case "France":
+        case "Mozambique":
             return olygold;
         case "Brazil":
             return olygreen;
         case "Japan":
             return olyblack;
-        case "Germany":
+        case "Indonesia":
             return olyblack;
         case "India":
             return olyblack;
@@ -106,11 +106,15 @@ d3.json(link).then(data => {
                 }
             });
             // Giving each feature a pop-up with information pertinent to it
-            layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Api call from flask app.py route /medals</h4>`);
+            layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Api call from flask app.py route "/" </h4>`);
 
         }
     }).addTo(myMap);
 });
+
+
+// add marker clusters layer
+
 
 // d3.json(all_results).then(data => {
 //     console.log(data);
