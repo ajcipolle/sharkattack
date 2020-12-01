@@ -59,9 +59,6 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 ## Data Sources
 
-- **Main Data Source**: [Shark Attacks](https://www.kaggle.com/...). This is a...
-
-- **Lat/Long Coordinates by Location**: [Latitude and Longitude scraped ](https://www....). This dataset will be used ...
 
 ## Data Cleaning
 
