@@ -14,8 +14,8 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(myMap);
 
 // Use this link to get the geojson data.
-// var link = "../data/countries.geojson";
-var link = "https://github.com/ajcipolle/sharkattack/blob/main/data/countries.geojson";
+var link = "../data/countries.geojson";
+// var link = "https://github.com/ajcipolle/sharkattack/blob/main/data/countries.geojson";
 // Official Olympic Colors
 var olyblue = "#0085C7"
 var olygold = "#F4C300"
@@ -53,16 +53,16 @@ function chooseColor(ADMIN) {
 }
 
 // bring in cleaned shark attack from flask app
-// var mapmedal = d3.json("api").then((_data) => {
+// var sharkmap = d3.json("/").then((_data) => {
 
 //     console.log(_data);
 // });
 
 // mouseOn move shows pop-up with country name
 // mouseOff undo move 
-// bind the pop-up and fill popup with country name and medal count
+// bind the pop-up and fill popup with prediction data
 // clickON move zooms in
-// and shows pop-up with medal count
+// and shows pop-up with prediction data
 
 // Grabbing our GeoJSON data..
 d3.json(link).then(data => {
