@@ -7,7 +7,7 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 
 
-# Project Contributors (The Lofty Flying Llamas):
+## Contributors: The Delightful Street Artists
 
 - [Daniel Carter](https://github.com/Dcarter15)
 
