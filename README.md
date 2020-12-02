@@ -7,7 +7,7 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 
 
-# Project Contributors (The Lofty Flying Llamas):
+## Contributors: The Delightful Street Artists
 
 - [Daniel Carter](https://github.com/Dcarter15)
 
@@ -59,9 +59,12 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 ## Data Sources
 
+<<<<<<< HEAD
 - **Main Data Source**: [Shark Attacks](https://www.kaggle.com/.... This is a geographic dataset... 
 
 - **Lat/Long Coordinates by Location**: 
+=======
+>>>>>>> 062e3024a91c202e44e07e071b2daf3778b2d4fd
 
 ## Data Cleaning
 
