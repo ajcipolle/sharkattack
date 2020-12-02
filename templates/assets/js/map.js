@@ -1,5 +1,5 @@
 // Creating map object
-var myMap = L.map("map", {
+var myMap = L.map("mapcontainer", {
     center: [40.7128, 0],
     zoom: 2
 });
@@ -114,6 +114,7 @@ d3.json(link).then(data => {
 
 
 // add marker clusters layer
+
 
 
 // d3.json(all_results).then(data => {
