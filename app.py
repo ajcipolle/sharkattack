@@ -16,7 +16,7 @@ CORS(app)
 password = PW
 
 # Step 3: Create engine directed at PostGreSQL Database
-engine = create_engine(f'postgresql://postgres:{password}@localhost:5432/sharkattack')
+engine = create_engine(f"postgresql://postgres:{password}@localhost:5432/sharkattack")
 
 Base = automap_base()
 Base.prepare(engine, reflect=True)
@@ -24,10 +24,10 @@ Base.prepare(engine, reflect=True)
 print(Base.classes.keys())
 
 fill_blanks = Base.classes.fill_blanks
-table1 = Base.classes.table1
-table2 = Base.classes.table2
-table3 = Base.classes.table3
-table4 = Base.classes.table4
+# table1 = Base.classes.table1
+# table2 = Base.classes.table2
+# table3 = Base.classes.table3
+# table4 = Base.classes.table4
 
 # Step 4: Create routes including a root level and API call routes
 @app.route("/")

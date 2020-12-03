@@ -65,6 +65,8 @@ function chooseColor(ADMIN) {
 // and shows pop-up with prediction data
 
 // Grabbing our GeoJSON data..
+// d3.json("/api/v1.0/fill_blanks_data").then(fillblanks => {
+
 d3.json(link).then(data => {
     // Creating a geoJSON layer with the retrieved data
     L.geoJson(data, {
@@ -111,6 +113,7 @@ d3.json(link).then(data => {
         }
     }).addTo(myMap);
 });
+// });
 
 
 // add marker clusters layer
