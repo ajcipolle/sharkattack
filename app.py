@@ -24,10 +24,6 @@ Base.prepare(engine, reflect=True)
 print(Base.classes.keys())
 
 fill_blanks = Base.classes.fill_blanks
-# table1 = Base.classes.table1
-# table2 = Base.classes.table2
-# table3 = Base.classes.table3
-# table4 = Base.classes.table4
 
 # Step 4: Create routes including a root level and API call routes
 @app.route("/")
@@ -36,11 +32,13 @@ def home():
     return render_template('index.html')
 
 @app.route("/api/v1.0/fill_blanks_data")
-def fill_blanks_data(): 
+def fill_blanks_data():
 
     session = Session(engine)
 
-    results = session.query(fill_blanks.area, fill_blanks.activity, fill_blanks.sex, fill_blanks.age, fill_blanks.injury, fill_blanks.fatal, fill_blanks.time, fill_blanks.species, fill_blanks.attack_id).all()
+    results = session.query(fill_blanks.area, fill_blanks.activity, fill_blanks.sex, fill_blanks.age,
+                            fill_blanks.injury, fill_blanks.fatal, fill_blanks.time, fill_blanks.species,
+                            fill_blanks.attack_id).all()
 
     session.close()
 
