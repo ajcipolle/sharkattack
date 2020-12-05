@@ -63,60 +63,62 @@ function chooseColor(ADMIN) {
 // bind the pop-up and fill popup with prediction data
 // clickON move zooms in
 // and shows pop-up with prediction data
+d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
+        console.log(fatal_counts_data)
+    }),
+    // Grabbing our GeoJSON data..
+    // d3.json("/api/v1.0/fill_blanks_data").then(fillblanks => {
 
-// Grabbing our GeoJSON data..
-// d3.json("/api/v1.0/fill_blanks_data").then(fillblanks => {
+    // Grab the fatal counts with d3 and flask
+    // d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
+    // console.log(fatal_counts_data)
+    // Grab the geoJSON country data
+    d3.json(link).then(data => {
+        // Creating a geoJSON layer with the retrieved data
+        L.geoJson(data, {
+            // Style each feature (in this case a country)
+            style: function(feature) {
+                return {
+                    color: "black",
+                    // Call the chooseColor function to decide which color to color our country (color based on goals?)
+                    fillColor: chooseColor(feature.properties.ADMIN),
+                    fillOpacity: 0.5,
+                    weight: 0.5
+                };
+            },
+            // Called on each feature
+            onEachFeature: function(feature, layer) {
+                // Set mouse events to change map styling
+                layer.on({
+                    // When a user's mouse touches a map feature, the mouseover event calls this function, that feature's opacity changes to 90% so that it stands out
+                    mouseover: function(event) {
+                        layer = event.target;
+                        layer.setStyle({
+                            fillOpacity: .9,
+                            weight: 1,
+                            color: "white"
+                        });
+                    },
+                    // When the cursor no longer hovers over a map feature - when the mouseout event occurs - the feature's opacity reverts back to 50%
+                    mouseout: function(event) {
+                        layer = event.target;
+                        layer.setStyle({
+                            fillOpacity: 0.5,
+                            weight: 0.5,
+                            color: "black"
+                        });
+                    },
+                    // When a feature (country) is clicked, it is enlarged to fit the screen
+                    click: function(event) {
+                        myMap.fitBounds(event.target.getBounds());
+                    }
+                });
+                // Giving each feature a pop-up with information pertinent to it
+                layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Api call from flask app.py route "/" </h4>`);
 
-// Grab the fatal counts with d3 and flask
-// d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
-// console.log(fatal_counts_data)
-// Grab the geoJSON country data
-d3.json(link).then(data => {
-    // Creating a geoJSON layer with the retrieved data
-    L.geoJson(data, {
-        // Style each feature (in this case a country)
-        style: function(feature) {
-            return {
-                color: "black",
-                // Call the chooseColor function to decide which color to color our country (color based on goals?)
-                fillColor: chooseColor(feature.properties.ADMIN),
-                fillOpacity: 0.5,
-                weight: 0.5
-            };
-        },
-        // Called on each feature
-        onEachFeature: function(feature, layer) {
-            // Set mouse events to change map styling
-            layer.on({
-                // When a user's mouse touches a map feature, the mouseover event calls this function, that feature's opacity changes to 90% so that it stands out
-                mouseover: function(event) {
-                    layer = event.target;
-                    layer.setStyle({
-                        fillOpacity: .9,
-                        weight: 1,
-                        color: "white"
-                    });
-                },
-                // When the cursor no longer hovers over a map feature - when the mouseout event occurs - the feature's opacity reverts back to 50%
-                mouseout: function(event) {
-                    layer = event.target;
-                    layer.setStyle({
-                        fillOpacity: 0.5,
-                        weight: 0.5,
-                        color: "black"
-                    });
-                },
-                // When a feature (country) is clicked, it is enlarged to fit the screen
-                click: function(event) {
-                    myMap.fitBounds(event.target.getBounds());
-                }
-            });
-            // Giving each feature a pop-up with information pertinent to it
-            layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Api call from flask app.py route "/" </h4>`);
-
-        }
-    }).addTo(myMap);
-});
+            }
+        }).addTo(myMap);
+    });
 
 
 // });
