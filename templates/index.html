@@ -171,7 +171,7 @@ To obtain more accurate predictions, we ran several different classification mod
 
 We began by running the test data through each model. <br><br>Then, to verify accuracy we ran the training data through the models. We were genuinely surprised to see that the model was overfitting, finding that the training model had higher accuracy than the testing model. We also ran a feature importance test on the highest-scoring model, Random Forest Classification, and discovered that the injury column dominated all other features.
 
-<br><br>Through <a href="#">more research</a>, we discovered that the best solution was to run a cross-validation model to generate many models in order to then take the mean of each model group to see if the model stabilizes. These results were also surprising because each group’s mean scores were even higher than the scores from the original model.
+<br><br>Through <a href="https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/">more research</a>, we discovered that the best solution was to run a cross-validation model to generate many models in order to then take the mean of each model group to see if the model stabilizes. These results were also surprising because each group’s mean scores were even higher than the scores from the original model.
 
 </p>
             <ul>
