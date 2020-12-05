@@ -45,15 +45,15 @@ DROP TABLE IF EXISTS age_counts;
 CREATE TABLE age_counts AS
 (SELECT 
 (SELECT COUNT(age) FROM fill_blanks 
-WHERE age IN ('1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17')) AS "1-17"
+WHERE age IN ('1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '11', '12', '13', '14', '15', '16', '17')) AS "children"
 ,(SELECT COUNT(age) FROM fill_blanks 
-WHERE age IN ('18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35')) AS "18-35"
+WHERE age IN ('18', '19', '20', '21', '22', '23', '24', '25', '26', '27', '28', '29', '30', '31', '32', '33', '34', '35')) AS "young_adults"
 ,(SELECT COUNT(age) FROM fill_blanks 
-WHERE age IN ('36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55')) AS "36-55"
+WHERE age IN ('36', '37', '38', '39', '40', '41', '42', '43', '44', '45', '46', '47', '48', '49', '50', '51', '52', '53', '54', '55')) AS "adults"
 ,(SELECT COUNT(age) FROM fill_blanks 
-WHERE age IN ('56', '57', '58', '59', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '70', '71', '72', '73', '74', '75')) AS "56-75"
+WHERE age IN ('56', '57', '58', '59', '60', '61', '62', '63', '64', '65', '66', '67', '68', '69', '70', '71', '72', '73', '74', '75')) AS "older_adults"
 ,(SELECT COUNT(age) FROM fill_blanks 
-WHERE age IN ('76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87')) AS "75+"
+WHERE age IN ('76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87')) AS "elderly"
 ,(SELECT COUNT(sex) FROM fill_blanks
 WHERE age = 'UNKNOWN') AS unknown
 ,(SELECT COUNT(age) FROM fill_blanks) AS total
