@@ -14,7 +14,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(myMap);
 
 // Use this link to get the geojson data.
-var link = "../../data/countries.geojson";
+var link = "../static/data/countries.geojson";
 // var link = "https://github.com/ajcipolle/sharkattack/blob/main/data/countries.geojson";
 // Official Olympic Colors
 var olyblue = "#0085C7"
@@ -64,8 +64,8 @@ function chooseColor(ADMIN) {
 // clickON move zooms in
 // and shows pop-up with prediction data
 d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
-        console.log(fatal_counts_data)
-    }),
+    console.log(fatal_counts_data)
+
     // Grabbing our GeoJSON data..
     // d3.json("/api/v1.0/fill_blanks_data").then(fillblanks => {
 
@@ -74,7 +74,8 @@ d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
     // console.log(fatal_counts_data)
     // Grab the geoJSON country data
     d3.json(link).then(data => {
-        // Creating a geoJSON layer with the retrieved data
+        console.log(data)
+            // Creating a geoJSON layer with the retrieved data
         L.geoJson(data, {
             // Style each feature (in this case a country)
             style: function(feature) {
@@ -113,14 +114,28 @@ d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
                         myMap.fitBounds(event.target.getBounds());
                     }
                 });
+                // Conditional for matching geoJSON country names (feature.properties.ADMIN) with lat longs 
                 // Giving each feature a pop-up with information pertinent to it
-                layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Api call from flask app.py route "/" </h4>`);
+                //  `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_counts_data[0].fatal}!</h4>`
+                // run a function in the pop up to match geoJSON countries and results data
+                // layer.bindPopup(popuptext(feature.properties.ADMIN, autumnsdataapipull));
+                layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_counts_data[0].fatal}!</h4>`);
 
             }
         }).addTo(myMap);
     });
+});
 
+function popuptext(country_name, data) {
+    fatal_or_not = "";
+    data.forEach((record) => {
+        if (country_name == record.country_name) {
+            fatal_or_not = record.prediction
+        }
+    })
 
+    return `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_or_not}!</h4>`
+}
 // });
 
 
