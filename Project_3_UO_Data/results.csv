@@ -1,0 +1,1262 @@
+Country,Area,Prediction,Actual
+AUSTRALIA,Western Australia,N,UNKNOWN
+USA,Florida,N,N
+USA,Hawaii,N,N
+UNKNOWN,Western Banks,Y,Y
+AUSTRALIA,Western Australia,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+FIJI,Off Vanua Levu,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+USA,North Carolina,Y,Y
+SOUTH AFRICA,KwaZulu-Natal,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Oregon,N,N
+NEW ZEALAND,North Island,N,N
+PAPUA NEW GUINEA,Bougainville (North Solomons),N,N
+AUSTRALIA,South Australia,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+BRAZIL,Pernambuco,N,N
+USA,Hawaii,N,N
+CROATIA," Split-Dalmatia Count,",N,N
+PAPUA NEW GUINEA,Western Papuan Gulf,N,N
+USA,California,Y,Y
+AUSTRALIA,Torres Strait,N,Y
+AUSTRALIA,New South Wales,N,N
+TONGA,Ha'api,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+REUNION,Saint-Philippe,N,N
+CUBA,Guantanamo Province,N,Y
+USA,Texas,Y,Y
+AUSTRALIA,Queensland,N,N
+USA,South Carolina,N,N
+CUBA,Villa Clara Province,Y,Y
+PANAMA,Caribbean Coast,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+USA,Florida,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,California,N,N
+SOUTH AFRICA,KwaZulu-Natal,Y,Y
+AUSTRALIA,South Australia,N,N
+USA,Florida,N,N
+USA,Florida,N,Y
+EGYPT,Red Sea,N,N
+USA,Florida,N,N
+MALDIVES,Alifu Alifu Atoll,N,N
+USA,California,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+PHILIPPINES,Luzon Island,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,UNKNOWN
+USA,Florida,N,N
+USA,North Carolina,N,N
+AUSTRALIA,Queensland,Y,Y
+SOUTH AFRICA,Eastern Cape Province,N,N
+USA,New Jersey,N,N
+AUSTRALIA,New South Wales,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Alabama,N,N
+USA,Hawaii,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+MARSHALL ISLANDS,Ratak ,N,Y
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,Victoria,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,N
+PHILIPPINES,200 nm southeast of Manila,N,Y
+AUSTRALIA,Queensland,N,UNKNOWN
+USA,Hawaii,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,California,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,Torres Strait,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Hawaii,N,N
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+BRAZIL,Pernambuco,N,N
+SPAIN,Alicante,N,UNKNOWN
+USA,Florida,N,N
+USA,Hawaii,Y,Y
+VIETNAM,Ba Ria-Vung Tau  Province,N,N
+SOUTH AFRICA,KwaZulu-Natal,Y,Y
+BERMUDA,Hamilton,N,UNKNOWN
+AUSTRALIA,Queensland,N,Y
+AUSTRALIA,Queensland,N,N
+USA,Hawaii,Y,N
+USA,South Carolina,N,N
+USA,Hawaii,N,N
+AUSTRALIA,Western Australia,N,N
+USA,California,N,N
+AUSTRALIA,Torres Strait ,N,Y
+AUSTRALIA,Western Australia,N,N
+USA,Delaware,N,N
+AUSTRALIA,Western Australia,N,N
+FIJI,Lomaiviti  Island Group,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+AUSTRALIA,Torres Strait,N,N
+USA,Hawaii,N,UNKNOWN
+USA,Florida,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+USA,Florida,N,N
+BAHAMAS,Grand Bahama Island,N,N
+USA,California,N,N
+USA,Florida,N,N
+NEW ZEALAND,North Island,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+AUSTRALIA,New South Wales,N,N
+BRAZIL,Pernambuco,N,N
+USA,Hawaii,N,N
+AUSTRALIA,Torres Strait,N,N
+AUSTRALIA,Western Australia,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,South Australia,N,N
+USA,Florida,N,UNKNOWN
+PAPUA NEW GUINEA,"Abau Sub District, Central Province",Y,Y
+USA,Florida,N,N
+JAMAICA,Kingston Parish,N,Y
+USA,Florida,N,N
+AUSTRALIA,Western Australia,Y,Y
+JAPAN,Okayama Prefecture,N,Y
+MARSHALL ISLANDS,Alinglaplap Atoll,N,N
+USA,South Carolina,N,UNKNOWN
+CUBA,Havana Province,N,UNKNOWN
+SPAIN,Catalonia,N,N
+AUSTRALIA,New South Wales,N,N
+REUNION,Saint-Benoit,N,N
+USA,Florida,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+BAHAMAS,New Providence District,N,N
+USA,Hawaii,N,N
+BAHAMAS,Eleuthera,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+MEXICO,Tamaulipas,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Florida,N,UNKNOWN
+CHILE,Los Vilos,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+COSTA RICA,Guanacaste,N,N
+AUSTRALIA,Westerm Australia,N,N
+JAMAICA,St. Catherine,Y,Y
+USA,Florida,Y,Y
+USA,California,N,N
+AUSTRALIA,Victoria,N,UNKNOWN
+USA,Georgia,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,N,N
+USA,South Carolina,N,N
+AUSTRALIA,New South Wales,N,UNKNOWN
+USA,North Carolina,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+AUSTRALIA,Western Australia,N,N
+SWEDEN,Skagerrak arm of the North Sea,N,UNKNOWN
+SOUTH AFRICA,Western Cape Province,N,N
+USA,Florida,N,N
+MOZAMBIQUE,Gaza,N,N
+USA,New York,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,Alabama,N,N
+AUSTRALIA,New South Wales,Y,Y
+BAHAMAS,Abaco Islands,N,N
+JAPAN,Kochi Prefecture,N,N
+PALAU,Western Caroline Islands,N,N
+IRAN,Khuzestan Province,Y,Y
+PAPUA NEW GUINEA,"Admiralty Islands, Manus Province",N,N
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+SOUTH AFRICA,Eastern Cape Province,Y,Y
+USA,Florida,N,N
+ITALY,Tyrrhenian Sea,N,N
+USA,Florida,N,N
+USA,Texas,N,N
+SOUTH AFRICA,Western Cape Province,Y,Y
+SOUTH AFRICA,Eastern Cape Province,N,UNKNOWN
+AUSTRALIA,Queensland,N,UNKNOWN
+SENEGAL,Casamance,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+PAPUA NEW GUINEA,Central Province,N,N
+BRAZIL,Pernambuco,N,N
+NEW ZEALAND,North Island,N,N
+USA,Oregon,N,N
+AUSTRALIA,New South Wales,N,N
+JAPAN,Southern Japan,N,N
+USA,Hawaii,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+AUSTRALIA,Queensland,N,N
+AUSTRALIA,South Australia,N,N
+USA,California,N,N
+AUSTRALIA,New South Wales,N,N
+BRAZIL,Pernambuco,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+HONDURAS,Bay Islands,N,UNKNOWN
+USA,Hawaii,Y,Y
+YEMEN,Aden,Y,Y
+USA,South Carolina,N,UNKNOWN
+NEW CALEDONIA,Loyalty Islands,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+USA,New Jersey,N,N
+AUSTRALIA,Northern Territory,N,N
+PORTUGAL,Madeira,Y,Y
+AUSTRALIA,Queensland,N,Y
+AUSTRALIA,New South Wales,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+USA,Texas,N,N
+BRAZIL,Rio Grande Do Sul,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+AUSTRALIA,Victoria,N,N
+EGYPT,South Sinai Peninsula,N,Y
+BERMUDA,Hamilton,N,N
+USA,Texas,N,N
+AUSTRALIA,Queensland,N,N
+USA,South Carolina,N,N
+PAPUA NEW GUINEA,Madang Province,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+PHILIPPINES,Luzon Island,N,N
+USA,Virginia,N,N
+BRAZIL,Pernambuco,Y,Y
+BAHAMAS,Andros Islands,N,N
+USA,Texas,N,N
+PHILIPPINES,Palawan,Y,Y
+USA,Florida,N,N
+USA,Hawaii,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+PAPUA NEW GUINEA,Madang Province,Y,Y
+AUSTRALIA,Queensland,N,N
+SPAIN,Eastern Catalona,Y,Y
+NEW CALEDONIA,UNKNOWN,N,Y
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,Victoria,N,N
+USA,New York,N,UNKNOWN
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,California,N,N
+TANZANIA,Dar-es-Salaam ,N,N
+UNITED ARAB EMIRATES (UAE),Umm al Qaywayan Province,N,UNKNOWN
+ITALY,Tyrrhenian Sea,N,N
+USA,South Carolina,N,N
+USA,New York,N,UNKNOWN
+AUSTRALIA,Torres Strait,Y,Y
+USA,Florida,N,N
+VENEZUELA,Anzoategui,N,N
+SOUTH AFRICA,Eastern Province,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,Florida,N,N
+USA,Hawaii,N,UNKNOWN
+USA,Hawaii,N,UNKNOWN
+USA,Puerto Rico,N,N
+AUSTRALIA,New South Wales,N,N
+PANAMA,San Carlos,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+USA,California,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+MOZAMBIQUE,Gaza,Y,Y
+AUSTRALIA,Queensland,Y,Y
+USA,North Carolina,N,UNKNOWN
+AUSTRALIA,New South Wales,N,UNKNOWN
+AUSTRALIA,Torres Strait,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Hawaii,N,N
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,Queensland,N,UNKNOWN
+USA,Oregon,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+SOUTH AFRICA,Eastern Province,N,UNKNOWN
+SOUTH AFRICA,KwaZulu-Natal,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+PAPUA NEW GUINEA,Central Province,Y,Y
+ITALY,Ancona Province,Y,Y
+NEW CALEDONIA,UNKNOWN,Y,Y
+AUSTRALIA,Queensland,N,N
+NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+AUSTRALIA,New South Wales,N,UNKNOWN
+USA,Florida,N,N
+CANADA,Newfoundland,N,N
+AUSTRALIA,New South Wales,N,Y
+SENEGAL,Cap-Vert Peninsula,Y,Y
+AUSTRALIA,Queensland,Y,Y
+SOUTH AFRICA,Western Cape Province,Y,Y
+ITALY,Liguria,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+AUSTRALIA,Queensland,N,N
+SOMALIA,Banaadir Region,Y,Y
+USA,Hawaii,N,UNKNOWN
+AUSTRALIA,Victoria,N,N
+PANAMA,Bocas del Toro,Y,Y
+USA,US Virgin Islands,N,N
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,N
+PERSIAN GULF,25 km off the coast of Iran & 483km from mouth of Persian Gulf,N,N
+USA,California,N,N
+FIJI,Vitu Levu,N,N
+USA,California,N,N
+AUSTRALIA,Queensland,N,N
+USA,Hawaii,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+AUSTRALIA,New South Wales,N,N
+USA,Hawaii,N,UNKNOWN
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,N
+BAHAMAS,New Providence Island,N,N
+PANAMA,Panama Bay (Pacific Ocean),N,Y
+AUSTRALIA,Westerm Australia,N,N
+HONG KONG,Mirs Bay ,N,N
+NEW CALEDONIA,UNKNOWN,N,Y
+USA,Puerto Rico,N,Y
+USA,Georgia,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+NEW ZEALAND,North Island,Y,Y
+USA,Florida,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,Y,Y
+USA,Florida,N,N
+PAPUA NEW GUINEA,Milne Bay Province,N,Y
+SCOTLAND,Argyllshire,N,N
+USA,Hawaii,Y,N
+MARSHALL ISLANDS,Ralik Chain,N,N
+AUSTRALIA,Queensland,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+IRAQ,Basrah,N,N
+USA,Florida,N,UNKNOWN
+USA,South Carolina,N,UNKNOWN
+SOUTH AFRICA,KwaZulu-Natal,N,N
+SOUTH AFRICA,Eastern Province,N,N
+BAHAMAS,Grand Bahama Island,N,N
+IRAQ,Basrah,N,N
+USA,South Carolina,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,UNKNOWN
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+USA,California,N,N
+BRAZIL,Pernambuco,Y,Y
+NEW BRITAIN,East New Britain Province,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Hawaii,N,UNKNOWN
+AUSTRALIA,New South Wales,Y,Y
+NEW CALEDONIA,UNKNOWN,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,Y,Y
+SOUTH AFRICA,Western Cape Province,Y,UNKNOWN
+NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+USA,California,N,N
+BAHAMAS,Abaco Islands,N,N
+IRAN,Shatt-al-Arab River,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+UNKNOWN,French Southern Territories,Y,Y
+USA,Florida,N,N
+AUSTRALIA,Western Australia,N,UNKNOWN
+AUSTRALIA,South Australia,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+SOUTH AFRICA,KwaZulu-Natal,Y,Y
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,N
+USA,Hawaii,N,UNKNOWN
+USA,Hawaii,N,N
+AUSTRALIA,Torres Strait,Y,N
+AUSTRALIA,Victoria,N,Y
+USA,Florida,N,N
+AUSTRALIA,New South Wales,Y,N
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,New South Wales,N,Y
+AUSTRALIA,Western Australia,Y,Y
+USA,North Carolina,N,N
+AUSTRALIA,New South Wales,N,N
+PERSIAN GULF,"""Head of the Gulf""",Y,N
+INDIA,Tamil Nadu,N,UNKNOWN
+USA,California,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Hawaii,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+AUSTRALIA,Western Australia,N,N
+PAPUA NEW GUINEA,New Britain,N,Y
+USA,Florida,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,Hawaii,Y,Y
+USA,South Carolina,N,N
+USA,Florida,N,N
+USA,Hawaii,N,Y
+NEW CALEDONIA,UNKNOWN,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,California,N,N
+AUSTRALIA,Queensland,Y,Y
+USA,Florida,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,Hawaii,Y,Y
+AUSTRALIA,Victoria,N,N
+NEW ZEALAND,North Island,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+MADAGASCAR,Toamasina Province,Y,Y
+GREECE,Corfu Island,Y,Y
+CROATIA, Split-Dalmatia County,N,N
+BAHAMAS,Abaco Islands,N,N
+AUSTRALIA,Queensland,N,N
+AUSTRALIA,New South Wales,N,N
+USA,South Carolina,N,N
+USA,California,N,N
+USA,Louisiana,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,Western Australia,N,N
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,Y,UNKNOWN
+THAILAND,Hua Hin,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+NEW CALEDONIA,North Province,Y,Y
+UNITED KINGDOM,Isle of Wight,N,N
+AUSTRALIA,Victoria,N,N
+AUSTRALIA,Queensland,N,N
+AUSTRALIA,Western Australia,N,N
+AUSTRALIA,Western Australia,N,UNKNOWN
+USA,Florida,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+CUBA,Guantanamo Province,N,N
+AUSTRALIA,New South Wales,Y,Y
+NEW ZEALAND,North Island,N,Y
+NEW CALEDONIA,UNKNOWN,N,N
+LIBYA,Mediterranean Sea,N,N
+MID ATLANTIC OCEAN,165  miles from Bermuda,N,N
+SUDAN,Red Sea State,N,N
+BAHAMAS,Out Islands,N,N
+INDIA,Kerala,N,UNKNOWN
+MONACO,Bay of Monaco,Y,Y
+AUSTRALIA,Queensland,N, N
+NEW ZEALAND,North Island,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+BRAZIL,Alagoas,N,N
+PAPUA NEW GUINEA,Central Province,N,N
+USA,Hawaii,N,Y
+SOUTH AFRICA,Eastern Cape Province,N,N
+VANUATU,Malampa Province,N,N
+REUNION,Sainte-Suzanne,Y,Y
+AUSTRALIA,Tasmania,N,N
+USA,Florida,N,N
+USA,Hawaii,N,N
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+UNKNOWN,Between Comores & Madagascar,Y,Y
+USA,Florida,N,N
+BRAZIL,Pernambuco,N,N
+GUAM,Merizo,N,UNKNOWN
+NEW ZEALAND,"South Island, near Karitane north of Dunedin",N,N
+USA,Florida,N,N
+USA,Delaware,N,N
+AUSTRALIA,Victoria,N,N
+YEMEN,Aden,N,UNKNOWN
+USA,Florida,Y,Y
+USA,Florida,N,N
+AUSTRALIA,New South Wales,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,Northern Territory,N,N
+USA,Florida,N,N
+USA,Mississippi,Y,Y
+AUSTRALIA,New South Wales,Y,Y
+SOUTH AFRICA,KwaZulu-Natal,N,Y
+USA,New Jersey,Y,Y
+BAHAMAS,Walkers Cay,N,N
+USA,California,N,N
+TRINIDAD & TOBAGO,Trinidad,N,UNKNOWN
+MEXICO,Veracruz,Y,Y
+AUSTRALIA,New South Wales,N,N
+USA,New Jersey,N,N
+AUSTRALIA,Victoria,N,N
+USA,Texas,N,N
+USA,Florida,N,Y
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,Western Australia,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+AUSTRALIA,Western Australia,Y,Y
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,Queensland,Y,Y
+AUSTRALIA,New South Wales,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,Queensland,N,N
+USA,New York ,N,UNKNOWN
+GREECE,Attica,N,Y
+JAMAICA,Westmoreland Parish,N,N
+USA,Florida,N,N
+FRENCH POLYNESIA,Tuamotus,N,N
+USA,Florida,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+AUSTRALIA,Tasmania,N,N
+NEW ZEALAND,North Island,N,N
+AUSTRALIA,New South Wales,N,N
+PALAU,Aulong Island,N,N
+AUSTRALIA,New South Wales,N,N
+SPAIN,Canary Islands,N,N
+USA,Hawaii,N,N
+INDONESIA,Bali,N,N
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,N,Y
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+Fiji,Vanua Levu,N,N
+SOLOMON ISLANDS,Ysabel Island,N,Y
+USA,Florida,N,N
+ITALY,Sardinia,N,UNKNOWN
+AUSTRALIA,South Australia,N,Y
+USA,Florida,N,N
+CUBA,Havana Province,Y,Y
+NEW CALEDONIA,UNKNOWN,Y,N
+USA,Florida,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+USA,California,N,N
+USA,South Carolina,N,N
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,Y,Y
+ECUADOR,Galapagos Islands,N,N
+PAPUA NEW GUINEA,Bougainville (North Solomons),N,N
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,Victoria,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+JAPAN,Ryukyu,Y,Y
+MEXICO,Quintana Roo,N,UNKNOWN
+USA,Hawaii,N,N
+USA,Florida,N,UNKNOWN
+PAPUA NEW GUINEA,Madang Province,Y,Y
+NEW ZEALAND,North Island,N,N
+USA,North Carolina,N,Y
+AUSTRALIA,Western Australia,N,N
+USA,North Carolina,N,N
+USA,Texas,N,N
+BAHAMAS,Andros Islands,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,Victoria,N,N
+HONG KONG,Mirs Bay ,N,N
+CANADA,Nova Scotia,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+BANGLADESH,Ganges-Brahmaputra delta,Y,Y
+BAHAMAS,Grand Bahama Island,N,N
+AUSTRALIA,Western Australia,N,N
+NIGERIA,Bayelsa State,Y,Y
+MOZAMBIQUE,Gaza,N,N
+COSTA RICA,Guanacaste,N,N
+SOUTH AFRICA,KwaZulu-Natal,Y,N
+USA,Hawaii,N,N
+AUSTRALIA,Victoria,N,N
+AUSTRALIA,New South Wales,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+BRAZIL,Fernando de Noronha,N,N
+SOUTH AFRICA,Western Cape Province,N,Y
+AUSTRALIA,Queensland,N,N
+AUSTRALIA,New South Wales,N,N
+NEW ZEALAND,North Island,Y,N
+USA,Hawaii,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,Queensland,N,N
+UNKNOWN,Near the Andaman & Nicobar Islands,N,Y
+AUSTRALIA,Queensland,N,UNKNOWN
+USA,Hawaii,N,UNKNOWN
+SOUTH AFRICA,Eastern Cape Province,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,South Carolina,N,N
+USA,Massachusetts,Y,Y
+AUSTRALIA,Torres Strait,N,N
+AUSTRALIA,South Australia,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,Y,Y
+AUSTRALIA,Queensland,Y,Y
+USA,Florida,N,N
+BRAZIL,Bahia,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,Y,N
+INDIA,Maharashtra,Y,Y
+AUSTRALIA,South Australia,N,N
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+USA,Georgia,Y,Y
+SOUTH AFRICA,KwaZulu-Natal,N,N
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Hawaii,N,N
+NEW ZEALAND,North Island,N,N
+USA,Florida,N,N
+USA,East coast,N,N
+USA,North Carolina,N,N
+COSTA RICA,Puntarenas Province,Y,Y
+USA,Florida,N,UNKNOWN
+AUSTRALIA,Western Australia,N,N
+AUSTRALIA,Western Australia,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+JAMAICA,Kingston Parish,N,N
+AUSTRALIA,New South Wales,N,N
+SOLOMON ISLANDS,Honiara,Y,Y
+UNITED KINGDOM,South Devon,N,N
+BRAZIL,Pernambuco,N,Y
+USA,Florida,N,N
+NEW CALEDONIA,South Province,N,N
+LIBYA,Mediterranean Sea,N,N
+USA,Hawaii,N,Y
+USA,California,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+USA,California,N,N
+USA,Florida,N,N
+USA,California,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+MEXICO,Guerrrero,N,UNKNOWN
+UNITED KINGDOM,Isle of Wight,N,UNKNOWN
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Hawaii,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+PAPUA NEW GUINEA,"Abau Subdistrict,Central Province",Y,Y
+AUSTRALIA,Queensland,N,N
+USA,California,N,N
+AUSTRALIA,Torres Strait,Y,Y
+USA,California,N,N
+PHILIPPINES,Leyte,Y,Y
+MALTA,Munxar Reef,Y,Y
+CROATIA,Lukovo,N,UNKNOWN
+MEXICO,Tabasco,N,N
+AUSTRALIA,South Australia,N,N
+UNITED KINGDOM,Isle of Wight,N,Y
+NEW ZEALAND,North Island,N,N
+USA,Florida,N,N
+BAHAMAS,Exuma Islands,N,UNKNOWN
+ENGLAND,Cornwall,Y,Y
+AUSTRALIA,New South Wales,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+AUSTRALIA,New South Wales,Y,Y
+AUSTRALIA,Torres Strait,Y,Y
+AUSTRALIA,Western Australia,Y,Y
+EQUATORIAL GUINEA / CAMEROON,Fernando Po Island,Y,Y
+IRAN,Shatt-al-Arab River,Y,Y
+AUSTRALIA,New South Wales,N,N
+USA,California,N,N
+AUSTRALIA,Western Australia,N,N
+USA,Hawaii,N,N
+SOLOMON ISLANDS,Santa Isabel Province,N,N
+AUSTRALIA,New South Wales,Y,Y
+AUSTRALIA,Queensland,N,N
+USA,Hawaii,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+USA,Hawaii,N,N
+USA,Florida,N,UNKNOWN
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,Florida,N,N
+USA,Georgia,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+NEW CALEDONIA,UNKNOWN,N,Y
+SOUTH AFRICA,Eastern Cape Province,N,UNKNOWN
+USA,New Jersey,Y,Y
+ITALY,Marches region,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Georgia,N,N
+NEW CALEDONIA,UNKNOWN,N,Y
+AUSTRALIA,New South Wales,Y,Y
+USA,Massachusetts,N,N
+NEW CALEDONIA,UNKNOWN,N,Y
+AUSTRALIA,New South Wales,N,N
+FIJI, Lau Province,N,N
+USA,Florida,N,UNKNOWN
+USA,Florida,N,N
+USA,Florida,N,N
+AUSTRALIA,South Australia,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+AUSTRALIA,New South Wales,Y,Y
+REUNION,Saint-Leu,N,Y
+PAPUA NEW GUINEA,Central Province,N,Y
+SOUTH AFRICA,Western Cape Province,N,N
+SPAIN,Grand Canary Island,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+AUSTRALIA,New South Wales,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+PHILIPPINES,Luzon,N,Y
+SOUTH AFRICA,KwaZulu-Natal,N,N
+NEW CALEDONIA,Grand Terre,N,Y
+AUSTRALIA,New South Wales,N,N
+FRANCE,Alpes Maritime,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+FIJI,Viti Levu Island,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+REUNION,Saint-Gilles,Y,Y
+USA,Florida,N,N
+USA,Florida,N,N
+PAPUA NEW GUINEA,Milne Bay Province,Y,Y
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,UNKNOWN
+USA,Georgia,Y,Y
+USA,Florida,N,N
+USA,California,N,N
+IRAQ,Basrah,N,Y
+EGYPT,Red Sea,N,N
+MOZAMBIQUE,Limpopo River,Y,N
+JAPAN,Sea of Japan,Y,UNKNOWN
+PHILIPPINES,Central Philippines,N,N
+USA,Florida,N,N
+JAPAN,Ehime Prefecture,N,N
+AUSTRALIA,Western Australia,N,N
+BRAZIL,Pernambuco,N,N
+USA,Florida,N,N
+USA,California,N,N
+USA,Florida,N,N
+MEXICO,Tamaulipas,Y,Y
+REUNION,Sainte-Marie,N,N
+AUSTRALIA,New South Wales,N,N
+VIETNAM,Binh Dinh Province,N,N
+USA,Florida,N,N
+CANADA,British Colombia,N,UNKNOWN
+USA,Hawaii,N,N
+MEXICO,Baja California,N,Y
+REUNION,Saint Leu,N,N
+USA,New Jersey,N,N
+NEW ZEALAND,Mercury Islands,N,N
+AUSTRALIA,New South Wales,N,N
+Sierra Leone,Western Area,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,Victoria,Y,Y
+USA,Florida,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,South Carolina,N,N
+FIJI,Moala Island,Y,Y
+USA,Florida,N,N
+USA,New Jersey,N,N
+IRAN,Karun River,N,N
+USA,Florida,N,N
+ITALY,40 miles south of Naples ,N,N
+USA,Florida,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+NEW CALEDONIA,South Province,Y,Y
+SOUTH AFRICA,Eastern Cape Province,N,N
+USA,Florida,N,N
+USA,Hawaii,Y,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,Florida,N,N
+USA,Texas,N,UNKNOWN
+AUSTRALIA,New South Wales,N,N
+USA,South Carolina,N,N
+USA,South Carolina,N,N
+USA,Florida,N,UNKNOWN
+USA,Florida,N,N
+SOUTH AFRICA,KwaZulu-Natal,Y,Y
+NEW CALEDONIA,UNKNOWN,Y,Y
+YEMEN,Aden,N,N
+AUSTRALIA,Victoria,N,N
+USA,New York,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,New South Wales,Y,Y
+Fiji,Vanua Levu,Y,Y
+USA,Florida,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+AUSTRALIA,New South Wales,Y,Y
+AUSTRALIA,Queensland,N,N
+AUSTRALIA,Western Australia,N,UNKNOWN
+USA,Connecticut,N,N
+INDIA,West Bengal,N,N
+CROATIA, Split-Dalmatia County,N,Y
+NICARAGUA ,Pacific coast,N,N
+USA,California,N,UNKNOWN
+NEW ZEALAND,South Island,N,N
+BAHAMAS,Bimini Islands,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,UNKNOWN
+COLUMBIA,Roncador Bank,N,N
+PHILIPPINES,Queaon,N,Y
+USA,Florida,N,N
+AUSTRALIA,Torres Strait,N,N
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,South Australia,N,N
+AUSTRALIA,New South Wales,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+MEXICO,Quintana Roo,Y,Y
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,South Australia,N,Y
+USA,South Carolina,N,N
+USA,Florida,N,N
+ITALY,Tyrrhenian Sea,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,South Carolina,Y,N
+BRAZIL,"Boi Island, Victoria",N,N
+USA,California,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+BRAZIL,Pernambuco,N,N
+NEW ZEALAND,North Island,N,Y
+AUSTRALIA,New South Wales,N,N
+USA,Hawaii,N,N
+AUSTRALIA,New South Wales,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+TONGA,Vava'u,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+PAPUA NEW GUINEA,Central Province,Y,Y
+MEXICO,Guerrero,N,N
+USA,Florida,N,UNKNOWN
+USA,South Carolina,N,Y
+ENGLAND,In the English Channel ,N,N
+USA,California,Y,Y
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Florida,N,Y
+USA,Florida,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,Y,Y
+JAPAN,Izo Islands,Y,Y
+USA,South Carolina,N,N
+AUSTRALIA,Queensland,Y,Y
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,New South Wales,N,N
+NEW CALEDONIA,UNKNOWN,Y,N
+USA,Massachusetts,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+AUSTRALIA,Tasmania,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,Hawaii,N,N
+USA,South Carolina,N,UNKNOWN
+USA,Massachusetts,Y,Y
+AUSTRALIA,New South Wales,N,N
+NEW CALEDONIA,UNKNOWN,N,Y
+MEXICO,Mexico / Caribbean Sea,N,N
+USA,Florida,N,N
+DOMINICAN REPUBLIC,12 miles off the north coast,Y,Y
+USA,Florida,N,N
+SOUTH AFRICA,Eastern Cape Province,Y,Y
+USA,Hawaii,N,UNKNOWN
+USA,South Carolina,N,N
+MARSHALL ISLANDS,Ralik Archipelago,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,N,N
+CUBA,Guantanamo Province,N,N
+AUSTRALIA,Northern Territory,N,N
+USA,Florida,N,N
+SOUTH AFRICA,KwaZulu-Natal,Y,Y
+AUSTRALIA,New South Wales,Y,Y
+USA,California,N,N
+USA,Texas,Y,Y
+PAPUA NEW GUINEA,Madang Province,N,N
+USA,South Carolina,N,N
+MAURITIUS,Cargados Carajos Shoals (St. Brandon),Y,Y
+USA,South Carolina,N,N
+NEW ZEALAND,South Island,N,N
+AUSTRALIA,Queensland,N,N
+AUSTRALIA,Queensland,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+USA,California,N,UNKNOWN
+NEW CALEDONIA,South Province,N,N
+AUSTRALIA,Queensland,N,N
+USA,California,N,N
+SOUTH AFRICA,Western Cape Province,N,UNKNOWN
+ITALY,Manfredonia ,N,N
+TONGA,Vava’u,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+UNITED ARAB EMIRATES (UAE),Dubai,N,N
+OKINAWA,Miyako,N,Y
+FRENCH POLYNESIA,Tuamotus,N,N
+EGYPT,South Sinai Peninsula,N,N
+AUSTRALIA,New South Wales,Y,Y
+AUSTRALIA,Tasmania,N,N
+USA,South Carolina,Y,N
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,Queensland,N,N
+Coast of AFRICA,Island of St. Thomas,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+IRAN,Khuzestan Province,Y,Y
+COLUMBIA,Isla Provedencia,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+REUNION,d’Étang-Salé,Y,Y
+USA,South Carolina,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+AUSTRALIA,South Australia,N,N
+AUSTRALIA,Northern Territory,Y,Y
+MOZAMBIQUE,Gaza,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+CROATIA,Istria County,N,N
+USA,North Carolina,N,N
+JAVA,Northern Java,N,Y
+NEW CALEDONIA,UNKNOWN,Y,Y
+ITALY,Liguaria,N,N
+AUSTRALIA,South Australia,N,N
+SOUTH AFRICA,Transvaal,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+AUSTRALIA,New South Wales,N,N
+UNKNOWN,Off South American coast,Y,Y
+USA,California,N,N
+AUSTRALIA,New South Wales,N,N
+NEW ZEALAND,Cook islans,N,N
+USA,Florida,Y,Y
+NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,Y,Y
+NICARAGUA,Lower San Juan River,Y,Y
+AUSTRALIA,New South Wales,N,N
+NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+NEW ZEALAND,North Island,N,N
+AUSTRALIA,Queensland,N,N
+USA,South Carolina,N,N
+MEXICO,Veracruz,Y,Y
+MOZAMBIQUE,Limpopo River,N,N
+AUSTRALIA,South Australia,Y,Y
+PAPUA NEW GUINEA,"Admiralty Islands, Manus Province",N,N
+NEW CALEDONIA,UNKNOWN,N,N
+IRAN,Khuzestan Province,N,N
+ITALY,Adriatic Sea,Y,Y
+USA,California,N,N
+FIJI,Kadavu Island Group,Y,N
+NEW ZEALAND,Chatham Islands,N,N
+COMOROS,Anjouan,N,UNKNOWN
+CUBA,Havana Province,N,N
+USA,Florida,N,N
+AUSTRALIA,Torres Strait,N,N
+ITALY,Venice Province,N,N
+CROATIA,Istria,N,N
+USA,Hawaii,N,N
+SAN DOMINGO,60 miles north of San Domingo in the West Indies,Y,Y
+AUSTRALIA,Queensland,N,UNKNOWN
+REUNION,Saint-Philippe,Y,Y
+ICELAND,Bardestrand,N,UNKNOWN
+USA,Hawaii,N,N
+USA,Florida,N,N
+UNITED ARAB EMIRATES,Fujairah Emirate,N,N
+USA,Texas,N,N
+REUNION,Conservatória District,N,N
+USA,Florida,N,N
+IRAQ,Basrah,N,N
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,N
+USA,Hawaii,N,N
+REUNION,Saint-Leu,Y,Y
+VANUATU,Malampa Province,N,Y
+AUSTRALIA,Western Australia,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Florida,N,N
+CUBA,Havana Province,Y,Y
+NEW CALEDONIA,UNKNOWN,N,Y
+VANUATU,Malampa Province,Y,Y
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+AUSTRALIA,Western Australia,Y,Y
+USA,California,N,N
+CAPE VERDE,Santiago Island,N,UNKNOWN
+FIJI,Taveuni,Y,Y
+AUSTRALIA,South Australia,Y,Y
+BRAZIL,Pernambuco,N,N
+NEW ZEALAND,North Island,N,N
+NEW CALEDONIA,UNKNOWN,Y,N
+TURKEY,Antalya Province,N,N
+SOUTH AFRICA,Eastern Cape Province,N,N
+USA,Hawaii,N,N
+EGYPT,Gulf of Suez,Y,Y
+AUSTRALIA,New South Wales,N,N
+AUSTRALIA,Western Australia,N,N
+AUSTRALIA,Queensland ,Y,Y
+AUSTRALIA,Queensland,N,Y
+USA,Florida,N,N
+SOUTH ATLANTIC OCEAN,Off the coast of West Africa,Y,Y
+NEW CALEDONIA,UNKNOWN,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+ECUADOR,Galapagos Islands,N,N
+SOUTH AFRICA,Western Cape Province,N,Y
+USA,North Carolina,Y,Y
+AUSTRALIA,New South Wales,N,N
+NEW ZEALAND,"Off the Coromandel Peninsula, North Island",N,N
+AUSTRALIA,South Australia,N,N
+BRAZIL,Pernambuco,Y,Y
+ITALY,Teramo,N,Y
+AUSTRALIA,New South Wales,N,N
+ITALY,Adriatic Sea,N,N
+USA,New York ,N,UNKNOWN
+SOUTH AFRICA,Eastern Cape Province,N,N
+REUNION,Saint-Joseph,N,Y
+AUSTRALIA,Queensland,N,N
+AUSTRALIA,Victoria,Y,Y
+MOZAMBIQUE,Inhambane Province,Y,N
+USA,Florida,N,N
+AUSTRALIA,Torres Strait,N,N
+AUSTRALIA,Torres Strait ,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+USA,South Carolina,N,N
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,N,Y
+USA,North Carolina,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,UNKNOWN
+PAPUA NEW GUINEA,"Abau Sub District, Central Province",N,N
+USA,South Carolina,N,N
+USA,Florida,N,N
+AUSTRALIA,Tasmania,N,UNKNOWN
+AUSTRALIA,South Australia,N,Y
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+USA,California,N,N
+UNITED KINGDOM,Devon,N,N
+USA,Maryland,N,N
+USA,Florida,N,N
+MEXICO,Tamaulipas,N,Y
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Louisiana,N,N
+BAHAMAS,Exuma Islands,N,N
+GABON,Estuaire Province,Y,Y
+USA,Florida,N,N
+ITALY,Adriatic Sea,N,Y
+SOUTH AFRICA,Western Cape Province,Y,Y
+SOUTH AFRICA,Western Cape Province,N,N
+AUSTRALIA,Western Australia,N,N
+SOUTH AFRICA,Western Cape Province,Y,Y
+USA,Florida,N,N
+AUSTRALIA,Queensland,N,N
+MEXICO,Baja California Sur,N,Y
+AUSTRALIA,New South Wales,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+IRAN,Karun River,N,N
+USA,Florida,N,N
+PAPUA NEW GUINEA,"Admiralty Islands, Manus Province",N,N
+REUNION,Le Port,N,N
+SPAIN,Catalonia,N,N
+USA,Hawaii,N,N
+USA,Puerto Rico,Y,Y
+SOUTH AFRICA,Western Cape Province,N,Y
+JAMAICA,Westmoreland Parish,Y,Y
+AUSTRALIA,South Australia,N,N
+AUSTRALIA,New South Wales,N,UNKNOWN
+USA,Florida,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+DOMINICAN REPUBLIC,Santo Domingo,N,Y
+USA,New York,N,N
+AUSTRALIA,Western Australia,Y,Y
+NEW CALEDONIA,South Province,Y,Y
+SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+AUSTRALIA,New South Wales,Y,N
+MEXICO,Guerro,N,Y
+USA,California,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,N,N
+USA,Florida,N,UNKNOWN
+USA,Florida,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,Hawaii,Y,Y
+USA,California,N,N
+USA,Florida,N,N
+AUSTRALIA,New South Wales,Y,Y
+USA,California,N,N
+MOZAMBIQUE,Limpopo River,N,N
+REUNION,Saint-Paul,Y,Y
+SOUTH AFRICA,KwaZulu-Natal,N,N
+BRAZIL,Pernambuco,N,N
+AUSTRALIA,Victoria,N,N
+CANADA,Bay of Fundy,N,N
+IRAN,Karun River,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+RUSSIA,Kuril Islands in the Pacific,N,N
+AUSTRALIA,Tasmania,N,N
+USA,Florida,N,N
+USA,California,N,N
+USA,Florida,N,N
+USA,Hawaii,N,N
+AUSTRALIA,Queensland,N,N
+ITALY,Liguria,N,N
+USA,Hawaii,N,UNKNOWN
+USA,Florida,N,N
+ANGOLA,West Africa,N,N
+SPAIN,Valencia,Y,N
+USA,Florida,N,N
+CUBA,Matanzas Province (north coast),N,Y
+BAHAMAS,40 miles off Grand Bahama Island,N,N
+FIJI,Yasawa Islands,N,Y
+AUSTRALIA,New South Wales,N,N
+NEW ZEALAND,South Island,N,N
+ITALY,Adriatic Sea,N,N
+NEW ZEALAND,South Island,Y,Y
+AUSTRALIA,Western Australia,N,N
+AUSTRALIA,Western Australia,Y,Y
+USA,Florida,N,N
+USA,Mississippi,N,N
+USA,Hawaii,Y,Y
+USA,Florida,N,N
+USA,Florida,N,N
+USA,California,N,N
+AUSTRALIA,Queensland,Y,Y
+USA,South Carolina,N,N
+AUSTRALIA,New South Wales,Y,Y
+USA,South Carolina,N,UNKNOWN
+AUSTRALIA,Western Australia,N,N
+AUSTRALIA,Queensland,Y,Y
+USA,Florida,N,N
+BRAZIL,Pernambuco,Y,Y
+NEW ZEALAND,South Island,N,N
+AUSTRALIA,Queensland,N,N
+LIBYA,Mediterranean Sea,N,N
+SPAIN,Valencia ,N,N
+USA,Florida,N,N
+ICELAND,Fishing Grounds,Y,N
+AUSTRALIA,Victoria,N,N
+AUSTRALIA,Tasmania,N,N
+AUSTRALIA,Queensland,N,N
+NEW CALEDONIA,UNKNOWN,Y,Y
+NICARAGUA,Lake Nicaragua (fresh water),N,Y
+MAURITIUS,Port Louis Province,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+AUSTRALIA,New South Wales,N,N
+USA,California,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+NEW ZEALAND,North Island,N,UNKNOWN
+USA,California,N,N
+AUSTRALIA,New South Wales,N,UNKNOWN
+USA,Oregon,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+USA,Florida,N,N
+NEW CALEDONIA,Loyalty Islands,N,UNKNOWN
+THAILAND,Phang nga Province,Y,Y
+USA,South Carolina,N,UNKNOWN
+USA,Florida,N,N
+SEYCHELLES,Praslin,Y,Y
+SOUTH AFRICA,KwaZulu-Natal,N,N
+AUSTRALIA,New South Wales,Y,Y
+AUSTRALIA,South Australia,N,N
+BAHAMAS,Cat Cay,N,N
+USA,South Carolina,N,N
+AUSTRALIA,Western Australia,N,N
+USA,North Carolina,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+NICARAGUA,Lake Nicaragua (fresh water),Y,Y
+AUSTRALIA,New South Wales,N,N
+GUYANA,Essequibo,Y,Y
+FRENCH POLYNESIA,Central Tuamotu,N,N
+USA,Florida,Y,Y
+AUSTRALIA,Queensland,N,N
+NEW CALEDONIA,UNKNOWN,N,N
+INDONESIA,Moluccas,Y,Y
+EGYPT,Red Sea,Y,Y
+AUSTRALIA,Northern Territory,N,N
+AUSTRALIA,New South Wales,N,N
+SPAIN,Cádiz,N,Y
+USA,Florida,N,N
+EL SALVADOR,La Libertad,Y,Y
+AUSTRALIA,Northern Territory,N,UNKNOWN
+NEW CALEDONIA,UNKNOWN,Y,Y
+USA,Florida,Y,N
+USA,Florida,N,UNKNOWN
+AUSTRALIA,Queensland,N,N
+USA,Hawaii,N,N
+AUSTRALIA,Victoria,N,N
+AUSTRALIA,New South Wales,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+GRENADA,St. Andrew Parish,Y,Y
+USA,South Carolina,N,N
+NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+USA,Florida,N,UNKNOWN
+SOUTH AFRICA,Eastern Cape Province,N,N
+USA,Florida,N,N
+AUSTRALIA,Queensland,N,UNKNOWN
+USA,Florida,N,UNKNOWN
+AUSTRALIA,New South Wales,N,N
+USA,California,N,Y
+BRAZIL,Pernambuco,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+AUSTRALIA,South Australia,N,N
+USA,Florida,N,N
+SOUTH AFRICA,KwaZulu-Natal,N,N
+USA,Florida,N,N
+SOUTH AFRICA,Western Cape Province,N,N
+USA,Florida,N,N
+USA,Virginia,N,UNKNOWN
+USA,Oregon,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+USA,Florida,N,N
+SPAIN,Granada,N,N
+NEW ZEALAND,North Island,N,N
+MEXICO,Guerrero,Y,Y
+USA,Florida,N,N
+AUSTRALIA,New South Wales,N,N
+GUINEA,Conakry Region,N,Y
+SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+USA,Texas,N,N
+AUSTRALIA,Queensland,N,N
+USA,Massachusetts,N,N
+USA,Florida,N,N
+MEXICO,Veracruz,N,N
+USA,Florida,N,N
+GUAM,North Region,N,N
+SOUTH AFRICA,Western Cape Province,N,UNKNOWN
+SOUTH AFRICA,Western Cape Province,N,N
+COSTA RICA,Cocos Island,N,N
+AUSTRALIA,Victoria,N,N
+USA,Hawaii,N,N
+SOUTH AFRICA,Eastern Cape Province,N,Y
+USA,South Carolina,N,N
+GULF OF ADEN,Between Somalia & Yemen,Y,Y
+SOUTH AFRICA,Western Cape Province,Y,Y
+AUSTRALIA,Western Australia,N,N
+USA,California,N,Y
+AUSTRALIA,Queensland,N,N
+AUSTRALIA,Western Australia,N,UNKNOWN
+USA,Florida,N,N
+UNITED KINGDOM,Devon,N,N
+USA,South Carolina,Y,Y
+AUSTRALIA,Tasmania,N,N
+AUSTRALIA,Victoria,Y,Y
+USA,Florida,N,UNKNOWN
+USA,Florida,N,UNKNOWN
+FIJI,Muala,N,N
+GRENADA,St. Georges ,N,N
+AUSTRALIA,New South Wales,N,N
+USA,Hawaii,N,N
+SOLOMON ISLANDS,Makira-Ulawa Province,Y,Y
+SOUTH AFRICA,Eastern Cape Province,N,Y
