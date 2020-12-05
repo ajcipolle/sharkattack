@@ -67,6 +67,10 @@ function chooseColor(ADMIN) {
 // Grabbing our GeoJSON data..
 // d3.json("/api/v1.0/fill_blanks_data").then(fillblanks => {
 
+// Grab the fatal counts with d3 and flask
+// d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
+// console.log(fatal_counts_data)
+// Grab the geoJSON country data
 d3.json(link).then(data => {
     // Creating a geoJSON layer with the retrieved data
     L.geoJson(data, {
@@ -113,6 +117,8 @@ d3.json(link).then(data => {
         }
     }).addTo(myMap);
 });
+
+
 // });
 
 
