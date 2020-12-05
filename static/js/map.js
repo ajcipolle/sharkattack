@@ -14,7 +14,7 @@ L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_toke
 }).addTo(myMap);
 
 // Use this link to get the geojson data.
-var link = "../data/countries.geojson";
+var link = "../../data/countries.geojson";
 // var link = "https://github.com/ajcipolle/sharkattack/blob/main/data/countries.geojson";
 // Official Olympic Colors
 var olyblue = "#0085C7"
