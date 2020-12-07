@@ -76,14 +76,12 @@ def age_counts_data():
 
     for item in results:
         item_dict = {}
-        item_dict["children"] = item[0]
-        item_dict["young_adults"] = item[1]
-        item_dict["adults"] = item[2]
-        item_dict["older_adults"] = item[3]
-        item_dict["elderly"] = item[4]
-        item_dict["unknown"] = item[5]
-        item_dict["total"] = item[6]
-        item_dict["age_id"] = item[7]
+        item_dict["Children (0-17)"] = item[0]
+        item_dict["Young Adults (18-35)"] = item[1]
+        item_dict["Adults (36-55)"] = item[2]
+        item_dict["Older Adults (56-75)"] = item[3]
+        item_dict["Elderly (75+)"] = item[4]
+        item_dict["Unknown"] = item[5]
         age_counts_results.append(item_dict)
 
     return jsonify(age_counts_results)
@@ -102,11 +100,9 @@ def fatal_counts_data():
 
     for item in results:
         item_dict = {}
-        item_dict["fatal"] = item[0]
-        item_dict["non_fatal"] = item[1]
-        item_dict["unknown"] = item[2]
-        item_dict["total"] = item[3]
-        item_dict["fatal_id"] = item[4]
+        item_dict["Fatal"] = item[0]
+        item_dict["Non-Fatal"] = item[1]
+        item_dict["Unknown"] = item[2]
         fatal_counts_results.append(item_dict)
 
     return jsonify(fatal_counts_results)

@@ -1,3 +1,4 @@
+-- Step 1: run the first create table query
 DROP TABLE IF EXISTS fill_blanks;
 CREATE TABLE fill_blanks(
     area VARCHAR(100)
@@ -9,7 +10,10 @@ CREATE TABLE fill_blanks(
     ,time VARCHAR(20)
     ,species VARCHAR(200)
 );
--- Import Fill_blanks.csv here
+
+-- Step 2: Import the Fill_blanks.csv to the created table
+
+-- Step 3: run the rest of these queries:
 ALTER TABLE fill_blanks
 ADD attack_id SERIAL PRIMARY KEY;
 
