@@ -120,11 +120,9 @@ def sex_counts_data():
 
     for item in results:
         item_dict = {}
-        item_dict["male"] = item[0]
-        item_dict["female"] = item[1]
-        item_dict["unknown"] = item[2]
-        item_dict["total"] = item[3]
-        item_dict["sex_id"] = item[4]
+        item_dict["Male"] = item[0]
+        item_dict["Female"] = item[1]
+        item_dict["Unknown"] = item[2]
         sex_counts_results.append(item_dict)
 
     return jsonify(sex_counts_results)

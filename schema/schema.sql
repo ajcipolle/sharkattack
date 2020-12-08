@@ -64,3 +64,35 @@ WHERE age = 'UNKNOWN') AS unknown
 );
 ALTER TABLE age_counts
 ADD age_id SERIAL PRIMARY KEY;
+
+
+-- Run the machine learning jupyter notebooks
+
+
+-- Run these queries to create tables
+DROP TABLE IF EXISTS machine_learning_encoded; 
+CREATE TABLE machine_learning_encoded AS
+(SELECT "Country", "Area", 
+CASE 
+WHEN "Prediction" = 'N' THEN CAST(0 AS FLOAT)
+WHEN "Prediction" = 'Y' THEN CAST(1 AS FLOAT)
+END "Prediction",
+CASE 
+WHEN "Actual" = 'N' THEN CAST(0 AS FLOAT)
+WHEN "Actual" = 'Y' THEN CAST(1 AS FLOAT)
+WHEN "Actual" = 'UNKNOWN' THEN CAST(.5 AS FLOAT)
+END "Actual"
+FROM machine_learning_results
+ORDER BY "Country", "Area");
+
+DROP TABLE IF EXISTS machine_learning_fatality;
+CREATE TABLE machine_learning_fatality AS
+(SELECT "Country", "Area", ROUND(AVG("Prediction") * 100) AS "Fatality Predicted (%)", ROUND(AVG("Actual") * 100) AS "Fatality Actual (%)"
+FROM machine_learning_encoded
+GROUP BY "Country", "Area"
+ORDER BY "Country", "Area");
+
+ALTER TABLE machine_learning_fatality
+ADD PRIMARY KEY ("Country", "Area");
+
+
