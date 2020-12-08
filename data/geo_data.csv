@@ -3,14 +3,14 @@ California,"California, USA",USA,36.7014631,-118.7559974
 Georgia,"Georgia, USA",USA,32.3293809,-83.1137366
 Hawaii,"Hawaii, USA",USA,19.5872677,-155.4268897
 New South Wales,"New South Wales, AUSTRALIA",AUSTRALIA,-31.8759835,147.2869493
-Colima,"Colima, MEXICO",MEXICO,19.166667,-104.0
+Colima,"Colima, MEXICO",MEXICO,19.166667,-104
 Pernambuco,"Pernambuco, BRAZIL",BRAZIL,-8.4116316,-37.5919699
 Florida,"Florida, USA",USA,27.7567667,-81.4639835
 Queensland,"Queensland, AUSTRALIA",AUSTRALIA,-22.1646782,144.5844903
 South Carolina,"South Carolina, USA",USA,33.6874388,-80.4363743
 Cornwall,"Cornwall, ENGLAND",ENGLAND,50.4433489,-4.6246566
 Westerm Australia,"Westerm Australia, AUSTRALIA",AUSTRALIA,-31.9496662,115.8619441
-Eastern Cape Province,"Eastern Cape Province, SOUTH AFRICA",SOUTH AFRICA,-29.0,24.0
+Eastern Cape Province,"Eastern Cape Province, SOUTH AFRICA",SOUTH AFRICA,-29,24
 Hua Hin,"Hua Hin, THAILAND",THAILAND,12.5672438,99.9546036
 Cocos Island,"Cocos Island, COSTA RICA",COSTA RICA,5.528035,-87.0596194
 Australia,"Australia, AUSTRALIA",AUSTRALIA,-24.7761086,134.755
@@ -24,7 +24,7 @@ Boi Island Victoria,"Boi Island Victoria, BRAZIL",BRAZIL,-20.3105442,-40.2807253
 Galapagos Islands,"Galapagos Islands, ECUADOR",ECUADOR,-0.6288151,-90.3638752
 Fernando de Noronha,"Fernando de Noronha, BRAZIL",BRAZIL,-3.8548681,-32.4208941
 Sepang,"Sepang, MALAYSIA",MALAYSIA,2.8008619,101.7094012
-Holquin Province,"Holquin Province, CUBA",CUBA,22.0,-79.5
+Holquin Province,"Holquin Province, CUBA",CUBA,22,-79.5
 Pamplemousses,"Pamplemousses, MAURITIUS",MAURITIUS,-20.0983185,57.5739056
 South Australia,"South Australia, AUSTRALIA",AUSTRALIA,-30.5343665,135.6301212
 North Island,"North Island, NEW ZEALAND",NEW ZEALAND,-38.0035304,175.9578526
@@ -35,7 +35,7 @@ Shizuoka Prefecture,"Shizuoka Prefecture, JAPAN",JAPAN,34.9332488,138.0955398
 Texas,"Texas, USA",USA,31.8160381,-99.5120986
 Castell n,"Castell n, SPAIN",SPAIN,42.3282647,0.8856478
 Massachusetts,"Massachusetts, USA",USA,42.3788774,-72.032366
-Red Sea Protectorate,"Red Sea Protectorate, EGYPT",EGYPT,27.0,30.0
+Red Sea Protectorate,"Red Sea Protectorate, EGYPT",EGYPT,27,30
 New Providence District,"New Providence District, BAHAMAS",BAHAMAS,25.03333,-77.28333
 Grand Bahama Island,"Grand Bahama Island, BAHAMAS",BAHAMAS,26.6616762,-78.2682139
 Ascension Island,"Ascension Island, ST HELENA, British overseas territory","ST HELENA, British overseas territory",-15.9655,-5.7115
@@ -56,7 +56,7 @@ Great Exuma,"Great Exuma, BAHAMAS",BAHAMAS,23.5654057,-75.8804451
 Saint Andre,"Saint Andre, REUNION",REUNION,-20.9606333,55.6492731
 Bimini,"Bimini, BAHAMAS",BAHAMAS,25.720065,-79.2744573
 Bali,"Bali, INDONESIA",INDONESIA,-8.3304977,115.0906401
-Tuamotus,"Tuamotus, FRENCH POLYNESIA",FRENCH POLYNESIA,-15.0,-140.0
+Tuamotus,"Tuamotus, FRENCH POLYNESIA",FRENCH POLYNESIA,-15,-140
 Oregon,"Oregon, USA",USA,43.9792797,-120.737257
 North Province,"North Province, NEW CALEDONIA",NEW CALEDONIA,-19.4615267,158.5833927
 New Providence Island,"New Providence Island, BAHAMAS",BAHAMAS,25.0302511,-77.3960341
@@ -76,9 +76,9 @@ Santa Catarina State,"Santa Catarina State, BRAZIL",BRAZIL,-27.0628367,-51.11496
 South Province,"South Province, NEW CALEDONIA",NEW CALEDONIA,-22.1821122,166.541088
 Altagracia Province,"Altagracia Province, DOMINICAN REPUBLIC",DOMINICAN REPUBLIC,19.0517848,-70.1417745
 Grand Cayman,"Grand Cayman, CAYMAN ISLANDS",CAYMAN ISLANDS,19.3298691,-81.1712291
-Balne rio Cambori,"Balne rio Cambori, BRAZIL",BRAZIL,-10.0,-55.0
+Balne rio Cambori,"Balne rio Cambori, BRAZIL",BRAZIL,-10,-55
 Fujairah Emirate,"Fujairah Emirate, UNITED ARAB EMIRATES",UNITED ARAB EMIRATES,25.3501226,55.3813292
-Grand Canary Island,"Grand Canary Island, SPAIN",SPAIN,40.0,-4.0
+Grand Canary Island,"Grand Canary Island, SPAIN",SPAIN,40,-4
 Inhambane Province,"Inhambane Province, MOZAMBIQUE",MOZAMBIQUE,-23.865961,35.384363
 Phuket,"Phuket, THAILAND",THAILAND,7.9366015,98.3529292
 Alicante,"Alicante, SPAIN",SPAIN,38.353738,-0.4901846
@@ -103,12 +103,12 @@ Atsumi peninsula,"Atsumi peninsula, JAPAN",JAPAN,34.65919,137.24155
 Palmyra,"Palmyra, USA",USA,43.0623754,-77.2347245
 Wallis and Futuna,"Wallis and Futuna, FRANCE",FRANCE,-14.301905,-178.0899734
 Baie de Sainte Marie,"Baie de Sainte Marie, NEW CALEDONIA",NEW CALEDONIA,-22.2970371,166.4698603
-Society Islands,"Society Islands, FRENCH POLYNESIA",FRENCH POLYNESIA,-17.0,-150.0
+Society Islands,"Society Islands, FRENCH POLYNESIA",FRENCH POLYNESIA,-17,-150
 Trinidad,"Trinidad, TRINIDAD & TOBAGO",TRINIDAD & TOBAGO,10.4430243,-61.2613054
 Okinawa Prefecture,"Okinawa Prefecture, JAPAN",JAPAN,26.5707754,128.0255901
 Tarawa,"Tarawa, KIRIBATI",KIRIBATI,1.4845542,172.9689648
 District,"District, ISRAEL",ISRAEL,31.962246,34.880383
-Bay of Biscay,"Bay of Biscay, FRANCE",FRANCE,46.0,2.0
+Bay of Biscay,"Bay of Biscay, FRANCE",FRANCE,46,2
 Quintana Roo,"Quintana Roo, MEXICO",MEXICO,19.6666671,-88.5000001
 Exuma Islands,"Exuma Islands, BAHAMAS",BAHAMAS,24.25,-76.5
 Saint Paul,"Saint Paul, REUNION",REUNION,-21.0006099,55.2771585
@@ -117,14 +117,14 @@ Kingston Parish,"Kingston Parish, JAMAICA",JAMAICA,17.9692835,-76.7647923
 Santa Cruz Island,"Santa Cruz Island, ECUADOR",ECUADOR,-0.6288151,-90.3638752
 Eleuthera,"Eleuthera, BAHAMAS",BAHAMAS,24.93038,-76.1921181
 St Catherine,"St Catherine, JAMAICA",JAMAICA,18.0408943,-77.0293219
-Palawan,"Palawan, PHILIPPINES",PHILIPPINES,10.0,118.75
+Palawan,"Palawan, PHILIPPINES",PHILIPPINES,10,118.75
 Mercury Islands,"Mercury Islands, NEW ZEALAND",NEW ZEALAND,-36.62302,175.9330593
 Delta,"Delta, NIGERIA",NIGERIA,5.5273061,6.1784167
-Vava u,"Vava u, TONGA",TONGA,-18.66667,-174.0
-Inner Hebrides,"Inner Hebrides, SCOTLAND",SCOTLAND,56.5,-6.0
+Vava u,"Vava u, TONGA",TONGA,-18.66667,-174
+Inner Hebrides,"Inner Hebrides, SCOTLAND",SCOTLAND,56.5,-6
 Trois Bassins,"Trois Bassins, REUNION",REUNION,-21.0984814,55.2646993
 British Colombia,"British Colombia, CANADA",CANADA,55.001251,-125.002441
-Guerrero,"Guerrero, MEXICO",MEXICO,17.666667,-100.0
+Guerrero,"Guerrero, MEXICO",MEXICO,17.666667,-100
 Saint Benoit,"Saint Benoit, REUNION",REUNION,-21.1307379,55.5364801
 Tabuk Province,"Tabuk Province, SAUDI ARABIA",SAUDI ARABIA,28.4012536,36.567049
 Antofagasta Province,"Antofagasta Province, CHILE",CHILE,-23.6662865,-70.3950322
@@ -138,10 +138,10 @@ Saman Province,"Saman Province, DOMINICAN REPUBLIC",DOMINICAN REPUBLIC,19.552815
 Coast Province,"Coast Province, KENYA",KENYA,-1.2871722,36.747486
 Central Province,"Central Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,32.0709876,-84.2409905
 Primorsky Krai,"Primorsky Krai, RUSSIA",RUSSIA,45.0819456,134.726645
-Peter the Great Bay Khasan Primorsky Krai Far East,"Peter the Great Bay Khasan Primorsky Krai Far East, RUSSIA",RUSSIA,60.0,100.0
-Telyakovsky Bay Khasan Primorsky Krai Far East,"Telyakovsky Bay Khasan Primorsky Krai Far East, RUSSIA",RUSSIA,60.0,100.0
+Peter the Great Bay Khasan Primorsky Krai Far East,"Peter the Great Bay Khasan Primorsky Krai Far East, RUSSIA",RUSSIA,60,100
+Telyakovsky Bay Khasan Primorsky Krai Far East,"Telyakovsky Bay Khasan Primorsky Krai Far East, RUSSIA",RUSSIA,60,100
 Praslin,"Praslin, SEYCHELLES",SEYCHELLES,-4.3250708,55.7356082
-Sucre,"Sucre, COLUMBIA",COLUMBIA,9.0,-75.0
+Sucre,"Sucre, COLUMBIA",COLUMBIA,9,-75
 Middle Caicos,"Middle Caicos, TURKS & CAICOS",TURKS & CAICOS,21.788192,-71.734542
 Caicos Bank,"Caicos Bank, TURKS & CAICOS",TURKS & CAICOS,21.5,-72.217
 Cornwall,"Cornwall, UNITED KINGDOM",UNITED KINGDOM,50.4433489,-4.6246566
@@ -153,7 +153,7 @@ South Sinai Peninsula,"South Sinai Peninsula, EGYPT",EGYPT,29.5231696,33.8054726
 Loyalty Islands,"Loyalty Islands, NEW CALEDONIA",NEW CALEDONIA,-20.9327968,167.1657726
 Maine,"Maine, USA",USA,45.709097,-68.8590201
 Virginia,"Virginia, USA",USA,37.1232245,-78.4927721
-Ha api,"Ha api, TONGA",TONGA,-20.0,-175.0
+Ha api,"Ha api, TONGA",TONGA,-20,-175
 Province,"Province, SOLOMON ISLANDS",SOLOMON ISLANDS,-7.9999999,158.9999999
 Jeju Province,"Jeju Province, SOUTH KOREA",SOUTH KOREA,33.3939924,126.5626653
 Binh Dinh Province,"Binh Dinh Province, VIETNAM",VIETNAM,14.1525201,108.9239618
@@ -177,9 +177,9 @@ St Johns Reef,"St Johns Reef, EGYPT",EGYPT,25.309294,34.8605916
 Green Island,"Green Island, TAIWAN",TAIWAN,22.6562972,121.4909443
 North Region,"North Region, GUAM",GUAM,7.0697159,125.5134451
 Batangas province,"Batangas province, PHILIPPINES",PHILIPPINES,15.1716672,120.5897636
-Strait of Malacca,"Strait of Malacca, MALAYSIA",MALAYSIA,3.0,101.0
+Strait of Malacca,"Strait of Malacca, MALAYSIA",MALAYSIA,3,101
 Guantanamo Province,"Guantanamo Province, CUBA",CUBA,20.1431797,-75.2034783
-Maranh o,"Maranh o, BRAZIL",BRAZIL,-10.0,-55.0
+Maranh o,"Maranh o, BRAZIL",BRAZIL,-10,-55
 Red Sea,"Red Sea, EGYPT",EGYPT,24.6601831,34.1399929
 Batanes Province,"Batanes Province, PHILIPPINES",PHILIPPINES,14.6098411,121.0104299
 Luzon,"Luzon, PHILIPPINES",PHILIPPINES,15.5919633,120.7397903
@@ -204,19 +204,19 @@ Kent,"Kent, ENGLAND",ENGLAND,51.2070748,0.7210362
 Bird Island,"Bird Island, SEYCHELLES",SEYCHELLES,-3.718812,55.2062964
 Providenciales,"Providenciales, TURKS & CAICOS",TURKS & CAICOS,21.7965249,-72.1785009
 Bimini Islands,"Bimini Islands, BAHAMAS",BAHAMAS,25.70597,-79.2681
-Muhafazat Hadramawt,"Muhafazat Hadramawt, YEMEN",YEMEN,16.0,49.0
-Cook islans,"Cook islans, NEW ZEALAND",NEW ZEALAND,-42.0,174.0
+Muhafazat Hadramawt,"Muhafazat Hadramawt, YEMEN",YEMEN,16,49
+Cook islans,"Cook islans, NEW ZEALAND",NEW ZEALAND,-42,174
 Surigao del Norte,"Surigao del Norte, PHILIPPINES",PHILIPPINES,9.666667,125.633333
-Somalia Yemen,"Somalia Yemen, GULF OF ADEN",GULF OF ADEN,12.0,48.0
+Somalia Yemen,"Somalia Yemen, GULF OF ADEN",GULF OF ADEN,12,48
 Ambergris Caye,"Ambergris Caye, BELIZE",BELIZE,17.9520667,-87.9709092
 Saint Pierre,"Saint Pierre, REUNION",REUNION,-21.341298,55.4776174
 Kentucky,"Kentucky, USA",USA,37.5726028,-85.1551411
 Andros Islands,"Andros Islands, BAHAMAS",BAHAMAS,24.43333,-77.95
 Guam,"Guam, USA",USA,13.4501257,144.757551
 Area,"Area, Sierra Leone",Sierra Leone,5.6138915,-0.1766071
-Antigua,"Antigua, ATLANTIC OCEAN",ATLANTIC OCEAN,-45.0,-15.0
-land,"land, ATLANTIC OCEAN",ATLANTIC OCEAN,-45.0,-15.0
-Canary Islands,"Canary Islands, ATLANTIC OCEAN",ATLANTIC OCEAN,-45.0,-15.0
+Antigua,"Antigua, ATLANTIC OCEAN",ATLANTIC OCEAN,-45,-15
+land,"land, ATLANTIC OCEAN",ATLANTIC OCEAN,-45,-15
+Canary Islands,"Canary Islands, ATLANTIC OCEAN",ATLANTIC OCEAN,-45,-15
 Simpson Bay,"Simpson Bay, ST. MAARTIN",ST. MAARTIN,18.0396777,-63.0972367
 Wall,"Wall, GRAND CAYMAN",GRAND CAYMAN,19.32281,-81.2487
 Inner Islands,"Inner Islands, Seychelles",Seychelles,-4.66667,55.46667
@@ -231,25 +231,25 @@ Santiago de Cuba Province,"Santiago de Cuba Province, CUBA",CUBA,20.0214637,-75.
 Eastern Province,"Eastern Province, SRI LANKA",SRI LANKA,7.7473677,81.5886354
 Camaguey Province,"Camaguey Province, CUBA",CUBA,21.3791765,-77.9183681
 Conservat ria District,"Conservat ria District, REUNION",REUNION,-21.10084,55.60344
-Kuril Islands in the Pacific,"Kuril Islands in the Pacific, RUSSIA",RUSSIA,60.0,100.0
+Kuril Islands in the Pacific,"Kuril Islands in the Pacific, RUSSIA",RUSSIA,60,100
 Wakayama Prefecture,"Wakayama Prefecture, JAPAN",JAPAN,33.8070292,135.5930743
-Nuku alofa,"Nuku alofa,  TONGA", TONGA,-20.0,-175.0
-Rocha,"Rocha, URUGUAY",URUGUAY,-34.0,-54.0
+Nuku alofa,"Nuku alofa,  TONGA", TONGA,-20,-175
+Rocha,"Rocha, URUGUAY",URUGUAY,-34,-54
 Northlands,"Northlands, NEW ZEALAND",NEW ZEALAND,-43.4916635,172.6110113
 Anzoategui,"Anzoategui, VENEZUELA",VENEZUELA,9.018592,-64.2177747
-Cook Islands,"Cook Islands, NEW ZEALAND",NEW ZEALAND,-20.0,-159.0
+Cook Islands,"Cook Islands, NEW ZEALAND",NEW ZEALAND,-20,-159
 Tamil Nadu,"Tamil Nadu, INDIA",INDIA,10.9094334,78.3665347
 Pearl Islands,"Pearl Islands, PANAMA",PANAMA,8.3480622,-78.896185
 Taveuni,"Taveuni, FIJI",FIJI,-16.8261493,-179.9354607
 Johnston,"Johnston, USA",USA,41.6731523,-93.6973395
-Baatan,"Baatan, PHILIPPINES",PHILIPPINES,13.0,122.0
+Baatan,"Baatan, PHILIPPINES",PHILIPPINES,13,122
 Rio de Janeiro,"Rio de Janeiro, BRAZIL",BRAZIL,-22.9110137,-43.2093727
 Nueva Esparta,"Nueva Esparta, VENEZUELA",VENEZUELA,10.9738509,-64.0597676
 Southland,"Southland, NEW ZEALAND",NEW ZEALAND,-45.7255555,168.2936808
-North Pacific coast,"North Pacific coast, COSTA RICA",COSTA RICA,10.0,-84.0
-Caroline Islands,"Caroline Islands, MICRONESIA",MICRONESIA,8.0,147.0
+North Pacific coast,"North Pacific coast, COSTA RICA",COSTA RICA,10,-84
+Caroline Islands,"Caroline Islands, MICRONESIA",MICRONESIA,8,147
 Cheshire,"Cheshire, UNITED KINGDOM",UNITED KINGDOM,53.2141028,-2.4717701
-Louisiade Archipelago,"Louisiade Archipelago, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-11.2,153.0
+Louisiade Archipelago,"Louisiade Archipelago, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-11.2,153
 Milne Bay Province,"Milne Bay Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-10.3549871,150.40841
 Cikobia Island north of Vanua Levu,"Cikobia Island north of Vanua Levu, FIJI",FIJI,-16.55,179.25
 Rayong Province,"Rayong Province, THAILAND",THAILAND,12.7943716,101.3705344
@@ -282,8 +282,7 @@ Chatham Islands,"Chatham Islands, NEW ZEALAND",NEW ZEALAND,-44.2881536,-176.2213
 South Sinai Gulf of Aqaba,"South Sinai Gulf of Aqaba, EGYPT / ISRAEL",EGYPT / ISRAEL,31.5,34.75
 Cat Cay,"Cat Cay, BAHAMAS",BAHAMAS,25.5544906,-79.2753655
 Missouri,"Missouri, USA",USA,38.7604815,-92.5617875
-,", DOMINICAN REPUBLIC",DOMINICAN REPUBLIC,19.0974031,-70.3028026
-Chatham Islands east of New Zealand,"Chatham Islands east of New Zealand, NEW ZEALAND",NEW ZEALAND,-42.0,174.0
+Chatham Islands east of New Zealand,"Chatham Islands east of New Zealand, NEW ZEALAND",NEW ZEALAND,-42,174
 Saint Denis,"Saint Denis, REUNION",REUNION,-20.8799889,55.448137
 Mississippi,"Mississippi, USA",USA,32.9715645,-89.7348497
 Clearwater Bay,"Clearwater Bay, HONG KONG",HONG KONG,22.28552,114.15769
@@ -292,17 +291,17 @@ Aichi Prefecture,"Aichi Prefecture, JAPAN",JAPAN,34.9991645,137.254574
 Tafea Province,"Tafea Province, VANUATU",VANUATU,-19.5414079,169.2811605
 Kagoshima Prefecture,"Kagoshima Prefecture, JAPAN",JAPAN,31.521587,130.5474077
 Saint Joseph,"Saint Joseph, REUNION",REUNION,-21.3789306,55.6190645
-Banaadir Region,"Banaadir Region, SOMALIA",SOMALIA,6.0,48.0
+Banaadir Region,"Banaadir Region, SOMALIA",SOMALIA,6,48
 La Libertad,"La Libertad, EL SALVADOR",EL SALVADOR,13.7448086,-89.3611505
 Costa Blanca,"Costa Blanca, SPAIN",SPAIN,41.3401317,1.7883558
 Walkers Cay,"Walkers Cay, BAHAMAS",BAHAMAS,27.2591922,-78.4025799
 On the Kowloon penisula south of Sai Kung,"On the Kowloon penisula south of Sai Kung, HONG KONG",HONG KONG,22.38333,114.26667
 Ehime Prefecture,"Ehime Prefecture, JAPAN",JAPAN,33.6013646,132.8185275
-Tongapatu Group,"Tongapatu Group, TONGA",TONGA,-20.0,-175.0
+Tongapatu Group,"Tongapatu Group, TONGA",TONGA,-20,-175
 West Africa,"West Africa, ANGOLA",ANGOLA,-8.815516,13.235646
 Wakaya Island,"Wakaya Island, FIJI",FIJI,-17.6217908,179.0039287
-Mexico Caribbean Sea,"Mexico Caribbean Sea, MEXICO",MEXICO,23.0,-102.0
-Antarctic Ocean,"Antarctic Ocean, NEW ZEALAND",NEW ZEALAND,-42.0,174.0
+Mexico Caribbean Sea,"Mexico Caribbean Sea, MEXICO",MEXICO,23,-102
+Antarctic Ocean,"Antarctic Ocean, NEW ZEALAND",NEW ZEALAND,-42,174
 La Saline,"La Saline, REUNION",REUNION,-21.0836981,55.2686293
 Sea of Japan,"Sea of Japan, JAPAN",JAPAN,35.5635913,139.7151703
 Liguria,"Liguria, ITALY",ITALY,44.4777617,8.7026296
@@ -314,8 +313,8 @@ Sainte Suzanne,"Sainte Suzanne, REUNION",REUNION,-20.9042845,55.6061193
 Tuscany,"Tuscany, ITALY",ITALY,43.4586541,11.1389204
 Tyrrhenian Sea,"Tyrrhenian Sea, ITALY",ITALY,42.83333,12.83333
 New Ireland,"New Ireland, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-3.7021228,152.4359015
-Valpariso Province,"Valpariso Province, CHILE",CHILE,-30.0,-71.0
-Viscayan Sea,"Viscayan Sea, PHILIPPINES",PHILIPPINES,13.0,122.0
+Valpariso Province,"Valpariso Province, CHILE",CHILE,-30,-71
+Viscayan Sea,"Viscayan Sea, PHILIPPINES",PHILIPPINES,13,122
 Manfredonia,"Manfredonia, ITALY",ITALY,41.6254728,15.9095926
 Tokyo Prefecture,"Tokyo Prefecture, JAPAN",JAPAN,35.6821116,139.7656744
 Saint Louis,"Saint Louis, REUNION",REUNION,-21.2840124,55.4135962
@@ -327,19 +326,18 @@ Florida Straits,"Florida Straits, BAHAMAS",BAHAMAS,24.9999154,-79.7499459
 Gulf of Lyons,"Gulf of Lyons, FRANCE",FRANCE,45.74846,4.84671
 C diz,"C diz, SPAIN",SPAIN,40.4453561,-3.5951131
 Sicily,"Sicily, ITALY",ITALY,37.587794,14.155048
-Andikira Fokithes,"Andikira Fokithes, GREECE",GREECE,39.0,22.0
+Andikira Fokithes,"Andikira Fokithes, GREECE",GREECE,39,22
 Central Philippines,"Central Philippines, PHILIPPINES",PHILIPPINES,12.7503486,122.7312101
 Rhode Island,"Rhode Island, USA",USA,41.7962409,-71.5992372
 Northwest Italy,"Northwest Italy, ITALY",ITALY,42.611735,-77.2919246
-English Channel,,,,
 North South Carolina,"North South Carolina, USA",USA,33.6157083,-81.1020414
 Kumamoto Prefecture,"Kumamoto Prefecture, JAPAN",JAPAN,32.6450475,130.6341345
 Biserta,"Biserta, TUNISIA",TUNISIA,37.2720905,9.8708565
 Saint Philippe,"Saint Philippe, REUNION",REUNION,-21.3606197,55.7660672
 Chungnam,"Chungnam, SOUTH KOREA",SOUTH KOREA,36.6593,126.6729
-Eronogo Region,"Eronogo Region, NAMIBIA",NAMIBIA,-22.0,17.0
+Eronogo Region,"Eronogo Region, NAMIBIA",NAMIBIA,-22,17
 Coquimbo,"Coquimbo, CHILE",CHILE,-30.7546652,-70.9005536
-Pagasitikos Gulf,"Pagasitikos Gulf, GREECE",GREECE,39.0,22.0
+Pagasitikos Gulf,"Pagasitikos Gulf, GREECE",GREECE,39,22
 St Mary s Parish,"St Mary s Parish, JAMAICA",JAMAICA,18.16667,-77.25
 Romblon Province,"Romblon Province, PHILIPPINES",PHILIPPINES,12.5777177,122.2695877
 Lamu Archipelago,"Lamu Archipelago, KENYA",KENYA,-2.2717426,40.9027109
@@ -354,7 +352,7 @@ South China Sea Hong Kong,"South China Sea Hong Kong, HONG KONG",HONG KONG,22.28
 Reggio Calabria Province,"Reggio Calabria Province, ITALY",ITALY,38.1035389,15.6397556
 Mirs Bay,"Mirs Bay, HONG KONG",HONG KONG,22.5431398,114.3804656
 Genoa Province,"Genoa Province, ITALY",ITALY,44.40726,8.9338624
-Ganges Brahmaputra delta,"Ganges Brahmaputra delta, BANGLADESH",BANGLADESH,23.0,89.0
+Ganges Brahmaputra delta,"Ganges Brahmaputra delta, BANGLADESH",BANGLADESH,23,89
 Red Sea,"Red Sea, ISRAEL",ISRAEL,29.5040291,34.9176351
 Primorje Gorski Kotar County,"Primorje Gorski Kotar County, CROATIA",CROATIA,45.4225937,14.6172032
 Aulong Island,"Aulong Island, PALAU",PALAU,7.27853,134.29623
@@ -363,7 +361,7 @@ Upolu Island,"Upolu Island, WESTERN SAMOA",WESTERN SAMOA,-13.9209349,-171.775576
 Antibes,"Antibes, FRANCE",FRANCE,43.5836,7.10905
 Illeginni,"Illeginni, MARSHALL ISLANDS",MARSHALL ISLANDS,9.0860819,167.4736755
 Istria County,"Istria County, CROATIA",CROATIA,45.2098898,13.6822959
-South Devon,"South Devon, BRITISH ISLES",BRITISH ISLES,54.0,-4.0
+South Devon,"South Devon, BRITISH ISLES",BRITISH ISLES,54,-4
 Beira Maputo,"Beira Maputo, MOZAMBIQUE",MOZAMBIQUE,-25.9068254,32.612638
 Khuzestan Province,"Khuzestan Province, IRAN",IRAN,31.5535141,49.0077168
 Namonuito,"Namonuito, MICRONESIA",MICRONESIA,8.9893699,150.1225296
@@ -373,12 +371,12 @@ St Andrew Parish,"St Andrew Parish, GRENADA",GRENADA,18.0266839,-76.7793444
 Manila,"Manila, PHILIPPINES",PHILIPPINES,14.5907332,120.9809674
 Limpopo River,"Limpopo River, MOZAMBIQUE",MOZAMBIQUE,-23.3054677,31.9222464
 Devon,"Devon, ENGLAND",ENGLAND,50.724165,-3.6607958
-New Ireland Province,"New Ireland Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-3.0,151.5
+New Ireland Province,"New Ireland Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-3,151.5
 Province,"Province, SRI LANKA",SRI LANKA,7.8776642,80.6624095
 Zadar County,"Zadar County, CROATIA",CROATIA,44.2232882,15.3739652
 Basrah,"Basrah, IRAQ",IRAQ,30.5805102,47.5690327
 Clarendon,"Clarendon, JAMAICA",JAMAICA,17.9518525,-77.2719277
-Moro Gulf,"Moro Gulf, PHILIPPINES",PHILIPPINES,6.85,123.0
+Moro Gulf,"Moro Gulf, PHILIPPINES",PHILIPPINES,6.85,123
 Johor,"Johor, MALAYSIA",MALAYSIA,2.0229012,103.3147721
 Magdalena Department,"Magdalena Department, COLUMBIA",COLUMBIA,34.00071,-81.03481
 Mafia Island,"Mafia Island, TANZANIA",TANZANIA,-7.8166985,39.8080259
@@ -397,7 +395,7 @@ Duke of York Islands,"Duke of York Islands, NEW BRITAIN",NEW BRITAIN,-4.1787518,
 Taranto province,"Taranto province, ITALY",ITALY,40.4712427,17.2432278
 Northern Taiwan,"Northern Taiwan, TAIWAN",TAIWAN,25.0043271,121.5099962
 Admiralty Islands Manus Province,"Admiralty Islands Manus Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-2.2235542,147.0182858
-Red Sea,"Red Sea, SUDAN",SUDAN,20.0,36.0
+Red Sea,"Red Sea, SUDAN",SUDAN,20,36
 North Sumatra,"North Sumatra, INDONESIA",INDONESIA,2.1923519,99.3812201
 Hawaii,"Hawaii, PACIFIC OCEAN ",PACIFIC OCEAN ,21.297472,-157.8163156
 Caribbean Sea,"Caribbean Sea, PANAMA",PANAMA,27.0028026,33.910209
@@ -413,46 +411,46 @@ Lau Group,"Lau Group, FIJI",FIJI,-18.33333,-178.5
 Caribbean Coast,"Caribbean Coast, PANAMA",PANAMA,-31.0766377,30.1974623
 Puntarenas Province,"Puntarenas Province, COSTA RICA",COSTA RICA,9.9780257,-84.831251
 Lomaloma Lau,"Lomaloma Lau, FIJI",FIJI,-12.50896,177.04823
-Southampton Canary Islands,"Southampton Canary Islands, ATLANTIC OCEAN",ATLANTIC OCEAN,-45.0,-15.0
+Southampton Canary Islands,"Southampton Canary Islands, ATLANTIC OCEAN",ATLANTIC OCEAN,-45,-15
 South Coast East New Britain,"South Coast East New Britain, NEW BRITAIN",NEW BRITAIN,41.66121,-72.77954
 Lau Province,"Lau Province, FIJI",FIJI,-18.2498939,178.0767764
 Ysabel Island,"Ysabel Island, SOLOMON ISLANDS",SOLOMON ISLANDS,-7.97526,159.13353
 Santo Domingo,"Santo Domingo, DOMINICAN REPUBLIC",DOMINICAN REPUBLIC,18.4801972,-69.942111
 Eastern Caroline Islands,"Eastern Caroline Islands, FEDERATED STATES OF MICRONESIA",FEDERATED STATES OF MICRONESIA,6.924,158.1625
 Thessaly,"Thessaly, GREECE",GREECE,39.5649006,22.1538486
-Bougainville North Solomons,"Bougainville North Solomons, SOLOMON ISLANDS",SOLOMON ISLANDS,-8.0,159.0
+Bougainville North Solomons,"Bougainville North Solomons, SOLOMON ISLANDS",SOLOMON ISLANDS,-8,159
 Lomaiviti,"Lomaiviti, FIJI",FIJI,-17.7990458,177.4075318
 Rodrigues,"Rodrigues, MAURITIUS",MAURITIUS,-19.7195149,63.4175687
 Manus Island,"Manus Island, ADMIRALTY ISLANDS",ADMIRALTY ISLANDS,-2.1032135,146.932737
-Pinas Bay,"Pinas Bay, PANAMA",PANAMA,9.0,-80.0
-Grand Turk Island,"Grand Turk Island, BRITISH WEST INDIES",BRITISH WEST INDIES,18.0,-68.0
-West Africa,"West Africa, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45.0,-15.0
+Pinas Bay,"Pinas Bay, PANAMA",PANAMA,9,-80
+Grand Turk Island,"Grand Turk Island, BRITISH WEST INDIES",BRITISH WEST INDIES,18,-68
+West Africa,"West Africa, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45,-15
 Sharon,"Sharon, ISRAEL",ISRAEL,32.6901174,34.9424535
 Antalya Province,"Antalya Province, TURKEY",TURKEY,36.9009641,30.6954846
-Northern District,"Northern District, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-9.0,148.5
-New Ireland Province Bismarck Archipelago,"New Ireland Province Bismarck Archipelago, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5.0,150.0
+Northern District,"Northern District, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-9,148.5
+New Ireland Province Bismarck Archipelago,"New Ireland Province Bismarck Archipelago, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5,150
 Cyclades,"Cyclades, GREECE",GREECE,37.0600105,25.4707567
 Coromandel,"Coromandel, NEW ZEALAND",NEW ZEALAND,-36.7571639,175.5007016
-Madang,"Madang, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5.0,145.5
+Madang,"Madang, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5,145.5
 Guadalcanal Province,"Guadalcanal Province, SOLOMON ISLANDS",SOLOMON ISLANDS,-9.6699483,160.0773922
-S E,"S E, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-6.0,147.0
+S E,"S E, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-6,147
 Kwajalein,"Kwajalein, MARSHALL ISLANDS",MARSHALL ISLANDS,9.1257934,167.5740472
 Flores,"Flores, INDONESIA",INDONESIA,-8.3183877,123.1658352
 Shefa Province,"Shefa Province, VANUATU",VANUATU,-17.3283967,168.2547316
-Bermuda,"Bermuda, MID ATLANTIC OCEAN",MID ATLANTIC OCEAN,-45.0,-15.0
-Persian Gulf,"Persian Gulf, PERSIAN GULF",PERSIAN GULF,27.0,51.0
+Bermuda,"Bermuda, MID ATLANTIC OCEAN",MID ATLANTIC OCEAN,-45,-15
+Persian Gulf,"Persian Gulf, PERSIAN GULF",PERSIAN GULF,27,51
 Venice Province,"Venice Province, ITALY",ITALY,45.4371908,12.3345898
-Sandaun Province,"Sandaun Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-3.5,142.0
-Anatolia,"Anatolia, TURKEY",TURKEY,39.0,32.0
+Sandaun Province,"Sandaun Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-3.5,142
+Anatolia,"Anatolia, TURKEY",TURKEY,39,32
 New Britain Province,"New Britain Province, NEW BRITAIN",NEW BRITAIN,41.6612104,-72.7795419
-United Arab Emirates,"United Arab Emirates, PERSIAN GULF",PERSIAN GULF,27.0,51.0
-Wake Island EnenKio,"Wake Island EnenKio, NORTH PACIFIC OCEAN",NORTH PACIFIC OCEAN,30.0,-170.0
+United Arab Emirates,"United Arab Emirates, PERSIAN GULF",PERSIAN GULF,27,51
+Wake Island EnenKio,"Wake Island EnenKio, NORTH PACIFIC OCEAN",NORTH PACIFIC OCEAN,30,-170
 S E,"S E, FIJI",FIJI,24.2669935,38.5666421
 Pennsylvania,"Pennsylvania, USA",USA,40.9699889,-77.7278831
 N W,"N W, ATLANTIC OCEAN",ATLANTIC OCEAN,13.581921,-38.320312
 Roncador Bank,"Roncador Bank, COLUMBIA",COLUMBIA,13.533816,-80.0511905
 District,"District, NEW GUINEA",NEW GUINEA,11.1528719,-12.4786622
-Aden,"Aden, RED SEA / INDIAN OCEAN",RED SEA / INDIAN OCEAN,-10.0,70.0
+Aden,"Aden, RED SEA / INDIAN OCEAN",RED SEA / INDIAN OCEAN,-10,70
 Okinawa,"Okinawa, PACIFIC OCEAN",PACIFIC OCEAN,3.51342,-132.1875
 Eniwetok,"Eniwetok, MARSHALL ISLANDS",MARSHALL ISLANDS,11.5141037,162.0643932
 Delagoa Bay,"Delagoa Bay, MOZAMBIQUE",MOZAMBIQUE,-25.9833333,32.7
@@ -463,32 +461,32 @@ Corregidor Island,"Corregidor Island, PHILIPPINES",PHILIPPINES,14.3831744,120.57
 Paget,"Paget, BERMUDA",BERMUDA,32.2839354,-64.7765726
 N W,"N W, BERMUDA",BERMUDA,32.33022,-64.74003
 Casamance,"Casamance, SENEGAL",SENEGAL,12.8665887,-14.9705138
-Madang WO,"Madang WO, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-6.0,147.0
-Pacific coast,"Pacific coast, NICARAGUA ",NICARAGUA ,13.0,-85.0
+Madang WO,"Madang WO, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-6,147
+Pacific coast,"Pacific coast, NICARAGUA ",NICARAGUA ,13,-85
 St Georges,"St Georges, GRENADA",GRENADA,12.0535331,-61.751805
-Northwest of Viti Levu,"Northwest of Viti Levu, FIJI",FIJI,-18.0,178.0
+Northwest of Viti Levu,"Northwest of Viti Levu, FIJI",FIJI,-18,178
 West New Britain Province,"West New Britain Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5.87833,149.82605
-Rigo subdistrict,"Rigo subdistrict, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-6.0,147.0
+Rigo subdistrict,"Rigo subdistrict, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-6,147
 Masbate,"Masbate, PHILIPPINES",PHILIPPINES,12.166667,123.583333
-Sri Lanka,"Sri Lanka, MALDIVE ISLANDS",MALDIVE ISLANDS,3.25,73.0
+Sri Lanka,"Sri Lanka, MALDIVE ISLANDS",MALDIVE ISLANDS,3.25,73
 Lomaiviti Province,"Lomaiviti Province, FIJI",FIJI,-17.7990458,177.4075318
 Kadavu,"Kadavu, FIJI",FIJI,-19.047994,178.3629377
 Leyte,"Leyte, PHILIPPINES",PHILIPPINES,10.95,124.85
 Orissa,"Orissa, INDIA",INDIA,20.5431241,84.6897321
 Hokkaido Prefecture,"Hokkaido Prefecture, JAPAN",JAPAN,43.4519831,142.8197834
-North Palawan,"North Palawan, PHILIPPINES",PHILIPPINES,10.0,118.75
-Queaon,"Queaon, PHILIPPINES",PHILIPPINES,13.0,122.0
+North Palawan,"North Palawan, PHILIPPINES",PHILIPPINES,10,118.75
+Queaon,"Queaon, PHILIPPINES",PHILIPPINES,13,122
 Istria,"Istria, CROATIA",CROATIA,45.1934345,13.9150536
 PANAMA,"PANAMA, CARIBBEAN SEA",CARIBBEAN SEA,17.4894221,-62.9559809
-In the Gulf Stream,"In the Gulf Stream, NORTH ATLANTIC OCEAN",NORTH ATLANTIC OCEAN,40.0,-40.0
+In the Gulf Stream,"In the Gulf Stream, NORTH ATLANTIC OCEAN",NORTH ATLANTIC OCEAN,40,-40
 Mersin Province,"Mersin Province, TURKEY",TURKEY,36.8117583,34.6292679
-Guyamas,"Guyamas, MEXICO",MEXICO,23.0,-102.0
-England South Africa,"England South Africa, MID ATLANTIC OCEAN",MID ATLANTIC OCEAN,-45.0,-15.0
+Guyamas,"Guyamas, MEXICO",MEXICO,23,-102
+England South Africa,"England South Africa, MID ATLANTIC OCEAN",MID ATLANTIC OCEAN,-45,-15
 Mindanao,"Mindanao, PHILIPPINES",PHILIPPINES,12.7503486,122.7312101
-Kikori River mouth,"Kikori River mouth, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-6.0,147.0
-Milne Bay Province,"Milne Bay Province, NEW GUINEA",NEW GUINEA,-5.0,140.0
+Kikori River mouth,"Kikori River mouth, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-6,147
+Milne Bay Province,"Milne Bay Province, NEW GUINEA",NEW GUINEA,-5,140
 South Chungcheong Province,"South Chungcheong Province, SOUTH KOREA",SOUTH KOREA,36.6593,126.6729
-Ahirkapi coast,"Ahirkapi coast, TURKEY",TURKEY,39.0,35.0
+Ahirkapi coast,"Ahirkapi coast, TURKEY",TURKEY,39,35
 Tutuila Island,"Tutuila Island, AMERICAN SAMOA",AMERICAN SAMOA,-14.3064653,-170.7597128
 Hawaii Wake Island,"Hawaii Wake Island, PACIFIC OCEAN",PACIFIC OCEAN,3.51342,-132.1875
 Taipei Hsien,"Taipei Hsien, TAIWAN",TAIWAN,24.9748864,121.5328702
@@ -497,11 +495,11 @@ South,"South, SAMOA",SAMOA,-13.7693895,-172.1200508
 Canal Zone,"Canal Zone, PANAMA",PANAMA,8.9536841,-79.5376179
 Hawaii,"Hawaii, PACIFIC OCEAN",PACIFIC OCEAN,21.297472,-157.8163156
 Honiara,"Honiara, SOLOMON ISLANDS",SOLOMON ISLANDS,-9.4310769,159.9552552
-Yucatan Channel,"Yucatan Channel, CUBA",CUBA,22.0,-79.5
+Yucatan Channel,"Yucatan Channel, CUBA",CUBA,22,-79.5
 Havana Province,"Havana Province, CUBA",CUBA,23.135305,-82.3589631
 Karun River,"Karun River, IRAN",IRAN,31.6375794,48.8862525
-Abau Sub District Central Province,"Abau Sub District Central Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-10.0,148.0
-New Britain Bismarck Archipelago,"New Britain Bismarck Archipelago, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5.0,150.0
+Abau Sub District Central Province,"Abau Sub District Central Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-10,148
+New Britain Bismarck Archipelago,"New Britain Bismarck Archipelago, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5,150
 Estuaire Province,"Estuaire Province, GABON",GABON,0.399485,9.5153779
 Dakar Cap Vert Peninsula,"Dakar Cap Vert Peninsula, SENEGAL",SENEGAL,14.5,-14.25
 Mozambique Channel,"Mozambique Channel, MAYOTTE",MAYOTTE,-12.83333,45.16667
@@ -510,11 +508,11 @@ Congreve Channel,"Congreve Channel, MALTA",MALTA,35.8196071,14.4530475
 St Thomas Bay,"St Thomas Bay, MALTA",MALTA,35.8524926,14.5653597
 Madeira,"Madeira, PORTUGAL",PORTUGAL,32.7517488,-16.981752
 Corfu,"Corfu, GREECE",GREECE,39.591337,19.8596189
-Hawaii,"Hawaii, NORTH PACIFIC OCEAN",NORTH PACIFIC OCEAN,30.0,-170.0
+Hawaii,"Hawaii, NORTH PACIFIC OCEAN",NORTH PACIFIC OCEAN,30,-170
 Izo Islands,"Izo Islands, JAPAN",JAPAN,35.68536,139.75309
-Open sea,"Open sea, NORTH ATLANTIC OCEAN ",NORTH ATLANTIC OCEAN ,40.0,-40.0
+Open sea,"Open sea, NORTH ATLANTIC OCEAN ",NORTH ATLANTIC OCEAN ,40,-40
 Aden,"Aden, YEMEN",YEMEN,12.789585,45.028504
-New Ireland Bismarck Archipelago,"New Ireland Bismarck Archipelago, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5.0,150.0
+New Ireland Bismarck Archipelago,"New Ireland Bismarck Archipelago, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-5,150
 S E,"S E, MADAGASCAR",MADAGASCAR,-32.918904,-60.8140683
 Illinois,"Illinois, USA",USA,40.0796606,-89.4337288
 Isles del Rosario,"Isles del Rosario, COLUMBIA",COLUMBIA,7.83389,-72.47417
@@ -523,46 +521,46 @@ Isle of Man,"Isle of Man, UNITED KINGDOM",UNITED KINGDOM,53.7795873,-2.483369
 Nagasaki Prefecture,"Nagasaki Prefecture, JAPAN",JAPAN,33.1154683,129.7874339
 Slovenia,"Slovenia, THE BALKANS",THE BALKANS,40.946888,54.495243
 South shore,"South shore, BERMUDA",BERMUDA,32.371396,-64.6972153
-Red Sea,"Red Sea, SUDAN?",SUDAN?,20.0,36.0
+Red Sea,"Red Sea, SUDAN?",SUDAN?,20,36
 Buenos Aires Province,"Buenos Aires Province, ARGENTINA",ARGENTINA,-47.3447696,-66.8025582
 Wake Island,"Wake Island, PACIFIC OCEAN",PACIFIC OCEAN,3.51342,-132.1875
 Nova Scotia,"Nova Scotia, CANADA",CANADA,45.1960403,-63.1653789
 Gulf of Panama,"Gulf of Panama, PANAMA",PANAMA,8.2818618,-79.7727122
 Teramo,"Teramo, ITALY",ITALY,42.6581179,13.6996246
-Red Sea State,"Red Sea State, SUDAN",SUDAN,20.0,36.0
+Red Sea State,"Red Sea State, SUDAN",SUDAN,20,36
 Curacao,"Curacao, NETHERLANDS ANTILLES",NETHERLANDS ANTILLES,12.11721,-68.91964
 Port Louis Province,"Port Louis Province, MAURITIUS",MAURITIUS,-20.1637281,57.5045331
 Montserrado,"Montserrado, LIBERIA",LIBERIA,6.4095537,-10.6059403
 Bay of Maputu,"Bay of Maputu, MOZAMBIQUE",MOZAMBIQUE,-25.966213,32.56745
 Sofala Province,"Sofala Province, MOZAMBIQUE",MOZAMBIQUE,-20.1561586,34.738304
-South Carolina,"South Carolina, NORTH ATLANTIC OCEAN",NORTH ATLANTIC OCEAN,40.0,-40.0
+South Carolina,"South Carolina, NORTH ATLANTIC OCEAN",NORTH ATLANTIC OCEAN,40,-40
 Salerno,"Salerno, ITALY",ITALY,40.4194416,15.3107562
 Salerno Province,"Salerno Province, ITALY",ITALY,40.6803601,14.7594542
 Taranto,"Taranto, ITALY",ITALY,40.5488156,17.0805801
 Caribbean Sea,"Caribbean Sea, COLUMBIA",COLUMBIA,12.5814669,-81.6923325
 Naples Province,"Naples Province, ITALY",ITALY,40.8359336,14.2487826
-Madang Province,"Madang Province, NEW GUINEA",NEW GUINEA,-5.0,140.0
+Madang Province,"Madang Province, NEW GUINEA",NEW GUINEA,-5,140
 Eastern Province,"Eastern Province, SAUDI ARABIA",SAUDI ARABIA,23.3036077,50.1258804
 Sago Prefecture,"Sago Prefecture, JAPAN",JAPAN,33.875647,132.0619524
 Savona,"Savona, ITALY",ITALY,44.2334238,8.2525727
-Caribbean Sea,"Caribbean Sea, CUBA",CUBA,22.0,-79.5
-Jakarta Harbour,"Jakarta Harbour, INDONESIA",INDONESIA,-5.0,120.0
+Caribbean Sea,"Caribbean Sea, CUBA",CUBA,22,-79.5
+Jakarta Harbour,"Jakarta Harbour, INDONESIA",INDONESIA,-5,120
 Singapore Harbor,"Singapore Harbor, SINGAPORE",SINGAPORE,1.28967,103.85007
 Calabria,"Calabria, ITALY",ITALY,39.0565974,16.5249864
-Shatt al Arab River,"Shatt al Arab River, IRAN",IRAN,32.0,53.0
+Shatt al Arab River,"Shatt al Arab River, IRAN",IRAN,32,53
 Tamaulipas,"Tamaulipas, MEXICO",MEXICO,23.9891553,-98.7026825
-Calvados Archipelago,"Calvados Archipelago, NEW GUINEA",NEW GUINEA,-5.0,140.0
-Abau Sub District Central Province,"Abau Sub District Central Province, NEW GUINEA",NEW GUINEA,-5.0,140.0
-Kwajalein Johnston Island,"Kwajalein Johnston Island, NORTH PACIFIC OCEAN",NORTH PACIFIC OCEAN,30.0,-170.0
+Calvados Archipelago,"Calvados Archipelago, NEW GUINEA",NEW GUINEA,-5,140
+Abau Sub District Central Province,"Abau Sub District Central Province, NEW GUINEA",NEW GUINEA,-5,140
+Kwajalein Johnston Island,"Kwajalein Johnston Island, NORTH PACIFIC OCEAN",NORTH PACIFIC OCEAN,30,-170
 Attica,"Attica, GREECE",GREECE,37.9946543,23.7994025
 Adana Province,"Adana Province, TURKEY",TURKEY,36.9936175,35.3258349
-Bandar Ma shur sea inlet,"Bandar Ma shur sea inlet, IRAN",IRAN,32.0,53.0
+Bandar Ma shur sea inlet,"Bandar Ma shur sea inlet, IRAN",IRAN,32,53
 Saipan,"Saipan, NORTHERN MARIANA ISLANDS",NORTHERN MARIANA ISLANDS,15.1872705,145.7807738
-Morobe Province,"Morobe Province, NEW GUINEA",NEW GUINEA,-5.0,140.0
-Carpathian Sea,"Carpathian Sea, GREECE",GREECE,39.0,22.0
+Morobe Province,"Morobe Province, NEW GUINEA",NEW GUINEA,-5,140
+Carpathian Sea,"Carpathian Sea, GREECE",GREECE,39,22
 Gaza,"Gaza, ISRAEL",ISRAEL,32.0500069,34.7600168
 Dar es Salaam,"Dar es Salaam, TANZANIA",TANZANIA,-6.8160837,39.2803583
-Head of the Gulf,"Head of the Gulf, PERSIAN GULF",PERSIAN GULF,27.0,51.0
+Head of the Gulf,"Head of the Gulf, PERSIAN GULF",PERSIAN GULF,27,51
 Ryukyu,"Ryukyu, JAPAN",JAPAN,26.2497205,127.7656311
 Shatt al Arab River,"Shatt al Arab River, IRAN / IRAQ",IRAN / IRAQ,34.09174,49.68916
 In transit between Tinian and Leyte,"In transit between Tinian and Leyte, PHILIPPINES",PHILIPPINES,10.91667,124.66667
@@ -570,29 +568,29 @@ Northern Java,"Northern Java, JAVA",JAVA,-7.5771062,110.8280679
 Tel Aviv,"Tel Aviv, ISRAEL",ISRAEL,32.0852997,34.7818064
 Colon Province,"Colon Province, PANAMA",PANAMA,-5.09024,-80.1635966
 Area,"Area, SIERRA LEONE",SIERRA LEONE,5.6138915,-0.1766071
-Bernardino Strait near Gulf of Leyte,"Bernardino Strait near Gulf of Leyte,  PHILIPPINES", PHILIPPINES,13.0,122.0
-Samar Island,"Samar Island, PHILIPPINES",PHILIPPINES,11.833333,125.0
+Bernardino Strait near Gulf of Leyte,"Bernardino Strait near Gulf of Leyte,  PHILIPPINES", PHILIPPINES,13,122
+Samar Island,"Samar Island, PHILIPPINES",PHILIPPINES,11.833333,125
 Lake Nicaragua,"Lake Nicaragua, NICARAGUA",NICARAGUA,11.5739595,-85.3113228
-Pacific Ocean,"Pacific Ocean, NEW GUINEA",NEW GUINEA,-5.0,140.0
+Pacific Ocean,"Pacific Ocean, NEW GUINEA",NEW GUINEA,-5,140
 Fiji Islands,"Fiji Islands, PACIFIC OCEAN",PACIFIC OCEAN,3.51342,-132.1875
 Naples,"Naples, ITALY",ITALY,40.8359336,14.2487826
 Northwest of Papua New Guinea,"Northwest of Papua New Guinea, PACIFIC OCEAN",PACIFIC OCEAN,3.51342,-132.1875
 Midway,"Midway, USA",USA,31.0260203,-95.7505033
-West of Ceylon Sri Lanka,"West of Ceylon Sri Lanka, INDIAN OCEAN",INDIAN OCEAN,-10.0,70.0
+West of Ceylon Sri Lanka,"West of Ceylon Sri Lanka, INDIAN OCEAN",INDIAN OCEAN,-10,70
 Java,"Java, INDONESIA",INDONESIA,-7.3281445,109.6140549
 Camiguin Island,"Camiguin Island, PHILIPPINES",PHILIPPINES,9.173889,124.709444
 Cay Sal Bank,"Cay Sal Bank, BAHAMAS",BAHAMAS,23.8267608,-80.0759009
 Southwestern Pacific,"Southwestern Pacific, MID-PACIFC OCEAN",MID-PACIFC OCEAN,39.866,-74.25003
 Panama City,"Panama City, PANAMA",PANAMA,8.9714493,-79.5341802
-Libya,"Libya, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45.0,-15.0
-North of Pernambuco Brazil,"North of Pernambuco Brazil, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45.0,-15.0
+Libya,"Libya, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45,-15
+North of Pernambuco Brazil,"North of Pernambuco Brazil, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45,-15
 Ecuador,"Ecuador, PACIFIC OCEAN",PACIFIC OCEAN,3.51342,-132.1875
 Trelawney Province,"Trelawney Province, JAMAICA",JAMAICA,6.8955305,79.8558463
-In Convoy OB,"In Convoy OB, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45.0,-15.0
+In Convoy OB,"In Convoy OB, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45,-15
 New Georgia,"New Georgia, SOLOMON ISLANDS",SOLOMON ISLANDS,-8.2964048,157.6770861
 Panama Bay,"Panama Bay, PANAMA",PANAMA,8.559559,-81.1308434
-Adriatic Sea,"Adriatic Sea, SLOVENIA",SLOVENIA,46.08333,15.0
-Bwagaoia,"Bwagaoia, NEW GUINEA",NEW GUINEA,-5.0,140.0
+Adriatic Sea,"Adriatic Sea, SLOVENIA",SLOVENIA,46.08333,15
+Bwagaoia,"Bwagaoia, NEW GUINEA",NEW GUINEA,-5,140
 Papuan Gulf,"Papuan Gulf, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-7.7246,145.08545
 Carabobo,"Carabobo, VENEZUELA",VENEZUELA,10.166667,-68.083333
 Ascension Bay,"Ascension Bay, CURACAO",CURACAO,12.2734579,-69.061999
@@ -603,18 +601,18 @@ Basrah City,"Basrah City, IRAQ",IRAQ,30.5805102,47.5690327
 West Bengal,"West Bengal, INDIA",INDIA,22.9964948,87.6855882
 Argyll,"Argyll, SCOTLAND",SCOTLAND,57.8967251,-5.15604
 Arran,"Arran, SCOTLAND",SCOTLAND,55.5774442,-5.2521351
-Fishing Grounds,"Fishing Grounds, ICELAND",ICELAND,65.0,-18.0
+Fishing Grounds,"Fishing Grounds, ICELAND",ICELAND,65,-18
 Newfoundland,"Newfoundland, CANADA",CANADA,49.1212094,-56.6962962
 Isle of Wight,"Isle of Wight, UNITED KINGDOM",UNITED KINGDOM,50.6710482,-1.3327111
 Adriatic Sea,"Adriatic Sea, CROATIA",CROATIA,42.8908626,17.4552953
-Northern Oro Province,"Northern Oro Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-9.0,148.5
+Northern Oro Province,"Northern Oro Province, PAPUA NEW GUINEA",PAPUA NEW GUINEA,-9,148.5
 Herzliyah,"Herzliyah, ISRAEL",ISRAEL,32.16627,34.82536
 Elqui Province,"Elqui Province, CHILE",CHILE,-33.0413856,-71.6449033
 Istanbul,"Istanbul, TURKEY",TURKEY,41.0096334,28.9651646
 St Michael Parish,"St Michael Parish, BARBADOS",BARBADOS,13.16667,-59.53333
 Barlavento Islands,"Barlavento Islands, CAPE VERDE",CAPE VERDE,17.0555285,-25.1723049
 Bay of Fundy,"Bay of Fundy, CANADA",CANADA,45.0427719,-65.9235249
-Niua,"Niua, TONGA",TONGA,-20.0,-175.0
+Niua,"Niua, TONGA",TONGA,-20,-175
 Black River,"Black River, HONDURAS",HONDURAS,16.3723051,-86.4588298
 Phoenix Islands,"Phoenix Islands, KIRIBATI",KIRIBATI,-2.8155,-171.6711445
 Cienfuegos Province,"Cienfuegos Province, CUBA",CUBA,22.1457501,-80.4526242
@@ -623,14 +621,13 @@ Santiago Island,"Santiago Island, CAPE VERDE",CAPE VERDE,15.1200758,-23.6348181
 Puntarenas,"Puntarenas, COSTA RICA",COSTA RICA,9.137403,-83.2367061
 Porto Seguro,"Porto Seguro, BRAZIL",BRAZIL,-16.443473,-39.064251
 Salinas Bay,"Salinas Bay, NICARAGUA",NICARAGUA,12.4495823,-86.8742684
-Sants Montjic,"Sants Montjic, SPAIN",SPAIN,40.0,-4.0
-South of the Equator,"South of the Equator, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45.0,-15.0
+Sants Montjic,"Sants Montjic, SPAIN",SPAIN,40,-4
+South of the Equator,"South of the Equator, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45,-15
 Bay of Monaco,"Bay of Monaco, MONACO",MONACO,43.738449,7.4242241
 Isle of Wight,"Isle of Wight, ENGLAND",ENGLAND,50.6710482,-1.3327111
 Vancouver,"Vancouver, CANADA",CANADA,49.2608724,-123.1139529
 Taboguilla Island,"Taboguilla Island, PANAMA",PANAMA,8.8081497,-79.5151106
 Dorset,"Dorset, ENGLAND",ENGLAND,50.7968368,-2.3447323
-,", PANAMA",PANAMA,8.559559,-81.1308434
 Central Province,"Central Province, SOLOMON ISLANDS",SOLOMON ISLANDS,-8.5029955,158.8329719
 Galicia,"Galicia, SPAIN",SPAIN,42.61946,-7.863112
 Demerara County,"Demerara County, GUYANA",GUYANA,6.6021156,-58.5342281
@@ -642,7 +639,7 @@ Westmoreland Parish,"Westmoreland Parish, JAMAICA",JAMAICA,30.693925,-90.63161
 Cavite Province Luzon,"Cavite Province Luzon, PHILIPPINES",PHILIPPINES,15.6783028,120.7697171
 Cape Haitien,"Cape Haitien, HAITI",HAITI,19.7595236,-72.2008068
 Halifax,"Halifax, CANADA",CANADA,44.648618,-63.5859487
-Turtle Bogue,"Turtle Bogue, COSTA RICA",COSTA RICA,10.0,-84.0
+Turtle Bogue,"Turtle Bogue, COSTA RICA",COSTA RICA,10,-84
 San Domingo in the West Indies,"San Domingo in the West Indies, SAN DOMINGO",SAN DOMINGO,9.98123,-84.08984
 Colon,"Colon, PANAMA",PANAMA,9.3553005,-79.8974085
 Ireland,"Ireland, IRELAND",IRELAND,52.865196,-7.9794599
@@ -653,62 +650,62 @@ Essequibo,"Essequibo, GUYANA",GUYANA,1.4229608,-58.8498104
 Lagos,"Lagos, NIGERIA",NIGERIA,6.4550575,3.3941795
 Trieste,"Trieste, ITALY",ITALY,45.6504806,13.7931263
 aint Denis,"aint Denis, REUNION",REUNION,-21.10084,55.60344
-Balearics,"Balearics, SPAIN",SPAIN,40.0,-4.0
+Balearics,"Balearics, SPAIN",SPAIN,40,-4
 M laga,"M laga, SPAIN",SPAIN,43.0915255,-7.3745188
-Georges Bank,"Georges Bank, NORTH ATLANTIC OCEAN",NORTH ATLANTIC OCEAN,40.0,-40.0
-Zambesi River,"Zambesi River, MOZAMBIQUE",MOZAMBIQUE,-18.25,35.0
+Georges Bank,"Georges Bank, NORTH ATLANTIC OCEAN",NORTH ATLANTIC OCEAN,40,-40
+Zambesi River,"Zambesi River, MOZAMBIQUE",MOZAMBIQUE,-18.25,35
 Col n Province,"Col n Province, PANAMA",PANAMA,-21.2611192,165.2448142
 Singapore,"Singapore, INDONESIA",INDONESIA,1.2406689,104.2017717
 Andalucia,"Andalucia, SPAIN",SPAIN,37.3399964,-4.5811614
 Sfax,"Sfax, TUNISIA",TUNISIA,34.7231273,10.3358789
-South Atlantic Ocean,"South Atlantic Ocean, SOUTH AFRICA",SOUTH AFRICA,-29.0,24.0
+South Atlantic Ocean,"South Atlantic Ocean, SOUTH AFRICA",SOUTH AFRICA,-29,24
 Gulf of Suez,"Gulf of Suez, EGYPT",EGYPT,28.7037243,33.0203809
 Tiburon Peninsula,"Tiburon Peninsula, HAITI",HAITI,18.3438442,-73.2144251
 English Channel,"English Channel, ENGLAND",ENGLAND,50.780805,-0.678208
-Oaxaca,"Oaxaca, MEXICO",MEXICO,17.0,-96.5
+Oaxaca,"Oaxaca, MEXICO",MEXICO,17,-96.5
 Harare Province,"Harare Province, MALTA",MALTA,-17.8332923,31.0696444
 Kh nh H a Province,"Kh nh H a Province, VIETNAM",VIETNAM,16.16667,107.83333
 Aden,"Aden, YEMEN ",YEMEN ,12.789585,45.028504
 Maluku Province,"Maluku Province, INDONESIA",INDONESIA,-3.6943442,128.1826129
 Suez Canal,"Suez Canal, EGYPT",EGYPT,30.8759943,29.3429726
-Nusa Tenggara,"Nusa Tenggara, INDONESIA",INDONESIA,-9.0,120.0
-Noumea Sydney,"Noumea Sydney, INDIAN OCEAN",INDIAN OCEAN,-10.0,70.0
+Nusa Tenggara,"Nusa Tenggara, INDONESIA",INDONESIA,-9,120
+Noumea Sydney,"Noumea Sydney, INDIAN OCEAN",INDIAN OCEAN,-10,70
 Villa Clara Province,"Villa Clara Province, CUBA",CUBA,22.4038917,-79.9646297
 Ancona Province,"Ancona Province, ITALY",ITALY,43.6170137,13.5170982
-Quezon,"Quezon, PHILIPPINES",PHILIPPINES,13.9,122.0
+Quezon,"Quezon, PHILIPPINES",PHILIPPINES,13.9,122
 Rio San Juan,"Rio San Juan, NICARAGUA",NICARAGUA,11.2124304,-84.4111352
 Mediterranean Sea,"Mediterranean Sea, EGYPT",EGYPT,27.1203268,33.8251556
 Cyprus,"Cyprus, CYPRUS",CYPRUS,34.9823018,33.1451285
 Syracuse,"Syracuse, ITALY",ITALY,37.0646139,15.2907196
-Viscayas,"Viscayas, PHILIPPINES",PHILIPPINES,13.0,122.0
+Viscayas,"Viscayas, PHILIPPINES",PHILIPPINES,13,122
 Mindoro Occidental,"Mindoro Occidental, PHILIPPINES",PHILIPPINES,13.0000021,120.9166666
 Mediterranean Sea,"Mediterranean Sea, EGYPT ",EGYPT ,27.1203268,33.8251556
 Negros,"Negros, PHILIPPINES",PHILIPPINES,10.0206764,122.9771132
 Imperia Province,"Imperia Province, ITALY",ITALY,43.8862958,8.0267106
-Muala,"Muala, FIJI",FIJI,-18.0,178.0
+Muala,"Muala, FIJI",FIJI,-18,178
 coast,"coast, USA",USA,37.858337,-122.2447394
 Ratak,"Ratak, MARSHALL ISLANDS",MARSHALL ISLANDS,12.2485782,170.1391208
 Socotra Islands,"Socotra Islands, YEMEN ",YEMEN ,15.5,47.5
 Moluccas,"Moluccas, INDONESIA",INDONESIA,-3.118837,129.4207759
 Bocas del Toro,"Bocas del Toro, PANAMA",PANAMA,9.3040914,-82.1284388
 Provence,"Provence, FRANCE",FRANCE,43.3207927,5.368437
-Bay of Campeche,"Bay of Campeche, MEXICO",MEXICO,20.0,-92.5
+Bay of Campeche,"Bay of Campeche, MEXICO",MEXICO,20,-92.5
 Rangoon,"Rangoon, BURMA",BURMA,16.7967129,96.1609916
-Bay of Bengal,"Bay of Bengal, INDIA",INDIA,24.0,88.0
+Bay of Bengal,"Bay of Bengal, INDIA",INDIA,24,88
 Bayelsa State,"Bayelsa State, NIGERIA",NIGERIA,4.7629786,6.028898
 Norfolk Island,"Norfolk Island, AUSTRALIA",AUSTRALIA,-29.0289575,167.9587289
 Brittany,"Brittany, FRANCE",FRANCE,48.2640845,-2.9202408
 Line Islands,"Line Islands, KIRIBATI",KIRIBATI,1.8709602,-157.4351585
-Woodlark Islands,"Woodlark Islands, BRITISH NEW GUINEA",BRITISH NEW GUINEA,-5.0,140.0
+Woodlark Islands,"Woodlark Islands, BRITISH NEW GUINEA",BRITISH NEW GUINEA,-5,140
 Munxar Reef,"Munxar Reef, MALTA",MALTA,41.92975,-88.86092
 Northern Peloponnese,"Northern Peloponnese, GREECE",GREECE,38.2490934,21.760749
-Perth Colombo,"Perth Colombo, INDIAN OCEAN",INDIAN OCEAN,-10.0,70.0
+Perth Colombo,"Perth Colombo, INDIAN OCEAN",INDIAN OCEAN,-10,70
 Gujarat,"Gujarat, INDIA",INDIA,22.3850008,71.7452633
 Lukovo,"Lukovo, CROATIA",CROATIA,44.8553134,14.8927325
-Cort s,"Cort s, HONDURAS",HONDURAS,15.0,-86.5
+Cort s,"Cort s, HONDURAS",HONDURAS,15,-86.5
 Hiogo Japan,"Hiogo Japan, OCEAN",OCEAN,39.866,-74.25003
 C te d Azur,"C te d Azur, FRANCE",FRANCE,43.8,-1.3
-Maldonado coast,"Maldonado coast, URUGUAY",URUGUAY,-33.0,-56.0
+Maldonado coast,"Maldonado coast, URUGUAY",URUGUAY,-33,-56
 Andaman Islands,"Andaman Islands, INDIA",INDIA,12.6112387,92.8316541
 Misamis Oriental,"Misamis Oriental, PHILIPPINES",PHILIPPINES,8.72,124.84
 Strait of Messina,"Strait of Messina, ITALY",ITALY,38.1099034,15.5776901
@@ -717,27 +714,26 @@ Mount Lebanon,"Mount Lebanon, LEBANON",LEBANON,34.29,36.092
 Hastings Fairlight Sussex,"Hastings Fairlight Sussex, ENGLAND",ENGLAND,50.8743212,0.6425133
 Gilbert Islands,"Gilbert Islands, KIRIBATI",KIRIBATI,-1.8722724,175.5574185
 Lomaiviti Province,"Lomaiviti Province, Fiji",Fiji,-17.7990458,177.4075318
-South America,"South America, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45.0,-15.0
+South America,"South America, SOUTH ATLANTIC OCEAN",SOUTH ATLANTIC OCEAN,-45,-15
 N E,"N E, INDIA",INDIA,27.4188107,80.1206928
-Matanzas Province north coast,"Matanzas Province north coast, CUBA",CUBA,22.0,-79.5
+Matanzas Province north coast,"Matanzas Province north coast, CUBA",CUBA,22,-79.5
 Alpes Maritime,"Alpes Maritime, FRANCE",FRANCE,43.5825651,7.1230176
 Edinburgh,"Edinburgh, SCOTLAND",SCOTLAND,55.9533456,-3.1883749
-Eastern Catalona,"Eastern Catalona, SPAIN",SPAIN,40.0,-4.0
+Eastern Catalona,"Eastern Catalona, SPAIN",SPAIN,40,-4
 Mauritius,"Mauritius, MAURITIUS",MAURITIUS,-20.2759451,57.5703566
-Foveaux Strait,"Foveaux Strait, NEW ZEALAND",NEW ZEALAND,-46.5833,168.0
+Foveaux Strait,"Foveaux Strait, NEW ZEALAND",NEW ZEALAND,-46.5833,168
 Sumatra,"Sumatra, INDONESIA",INDONESIA,-0.142924,101.6241432
 Conakry Region,"Conakry Region, GUINEA",GUINEA,9.60703,-13.597
 Malaga,"Malaga, SPAIN",SPAIN,36.7213028,-4.4216366
 Bonin Islands,"Bonin Islands, JAPAN",JAPAN,24.7793713,141.3199349
-Fernando Po Island,"Fernando Po Island, EQUATORIAL GUINEA / CAMEROON",EQUATORIAL GUINEA / CAMEROON,5.0,10.0
+Fernando Po Island,"Fernando Po Island, EQUATORIAL GUINEA / CAMEROON",EQUATORIAL GUINEA / CAMEROON,5,10
 Mangaia Island,"Mangaia Island, COOK ISLANDS",COOK ISLANDS,-21.9249916,-157.9212841
 Australia USA,"Australia USA, PACIFIC OCEAN",PACIFIC OCEAN,-33.7881018,151.1797376
 Tongatapu,"Tongatapu, TONGA",TONGA,-21.1678253,-175.2738691
-Norfolk,"Norfolk, ENGLAND",ENGLAND,52.666667,1.0
+Norfolk,"Norfolk, ENGLAND",ENGLAND,52.666667,1
 Island of St Thomas,"Island of St Thomas, Coast of AFRICA",Coast of AFRICA,7.1881,21.09375
 Cumberland,"Cumberland, ENGLAND",ENGLAND,53.0968348,-0.5251732
 Sanma Province,"Sanma Province, VANUATU",VANUATU,-15.5142727,167.1770871
-,", TASMAN SEA",TASMAN SEA,-40.0,160.0
 CUBA,"CUBA, USA",USA,39.802781,-97.455872
 Paraiba,"Paraiba, BRAZIL",BRAZIL,-7.1219366,-36.7246845
 Cape Coast,"Cape Coast, GHANA",GHANA,5.107467,-1.2430793
@@ -745,24 +741,24 @@ Rivers State,"Rivers State, NIGERIA",NIGERIA,4.8416028,6.8604088
 Maharashtra,"Maharashtra, INDIA",INDIA,18.9068356,75.6741579
 St Anne,"St Anne, SEYCHELLES",SEYCHELLES,-4.6059735,55.5042448
 Sussex,"Sussex, ENGLAND",ENGLAND,50.9445139,-0.0622673
-Skagerrak,"Skagerrak, SWEDEN",SWEDEN,62.0,15.0
+Skagerrak,"Skagerrak, SWEDEN",SWEDEN,62,15
 Las Perlas archipelago,"Las Perlas archipelago, PANAMA",PANAMA,8.39087,-79.02603
-Bardestrand,"Bardestrand, ICELAND",ICELAND,65.0,-18.0
+Bardestrand,"Bardestrand, ICELAND",ICELAND,65,-18
 Southwest coast,"Southwest coast, BARBADOS",BARBADOS,13.16667,-59.53333
 Kerala,"Kerala, INDIA",INDIA,10.3528744,76.5120396
 Nice Marseilles,"Nice Marseilles, FRANCE",FRANCE,43.29695,5.38107
-Magarita or Cubagua Islands,"Magarita or Cubagua Islands, VENEZUELA",VENEZUELA,8.0,-66.0
+Magarita or Cubagua Islands,"Magarita or Cubagua Islands, VENEZUELA",VENEZUELA,8,-66
 Piraeus,"Piraeus, GREECE",GREECE,37.9431594,23.6470593
 Bocas del Toro Province,"Bocas del Toro Province, PANAMA",PANAMA,9.2425235,-82.3522241
 Gulf of Tadjoura,"Gulf of Tadjoura, DJIBOUTI",DJIBOUTI,11.7215355,42.9717959
 Cyrenaica,"Cyrenaica, LIBYA",LIBYA,32.7087595,20.9506691
 Northern Province,"Northern Province, SRI LANKA",SRI LANKA,9.28,80.2871778
-Los Roques Islands,"Los Roques Islands, VENEZUELA",VENEZUELA,8.0,-66.0
-Dodecanese Islands,"Dodecanese Islands, GREECE",GREECE,36.0,27.0
+Los Roques Islands,"Los Roques Islands, VENEZUELA",VENEZUELA,8,-66
+Dodecanese Islands,"Dodecanese Islands, GREECE",GREECE,36,27
 Malaita Province,"Malaita Province, SOLOMON ISLANDS",SOLOMON ISLANDS,-8.9833335,161.0511596
 South Korea,"South Korea, KOREA",KOREA,36.638392,127.6961188
 Island of Volos,"Island of Volos, GREECE",GREECE,39.3624833,22.9401864
-Amirante Islands,"Amirante Islands, SEYCHELLES",SEYCHELLES,-6.0,53.16667
+Amirante Islands,"Amirante Islands, SEYCHELLES",SEYCHELLES,-6,53.16667
 Toamasina Province,"Toamasina Province, MADAGASCAR",MADAGASCAR,-17.7507964,48.7524743
 Riau Province,"Riau Province, INDONESIA",INDONESIA,-1.6342492,106.0051002
 Bikini,"Bikini, MARSHALL ISLANDS",MARSHALL ISLANDS,11.6243088,165.5505464
