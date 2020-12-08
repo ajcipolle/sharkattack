@@ -107,7 +107,7 @@ ADD PRIMARY KEY ("Country", "Area");
 
 DROP TABLE IF EXISTS plot_data;
 CREATE TABLE plot_data AS
-(SELECT "Country" AS country, "Area" AS area, "Fatality Predicted (%)" AS fatility_predicted, "Fatality Actual (%)" AS fatality_actual, lat, long
+(SELECT "Country" AS country, "Area" AS area, "Fatality Predicted (%)" AS fatality_predicted, "Fatality Actual (%)" AS fatality_actual, lat, long
 FROM machine_learning_fatality 
 LEFT JOIN geo_data
 ON clean_area = "Area" AND country = "Country");
