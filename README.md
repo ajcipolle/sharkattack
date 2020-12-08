@@ -33,7 +33,7 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 ### Database
 
 1.  Open pgAdmin4 and create a new database called sharkattack
-2.  Load the schema file: [db_schema](static/data/db_schema.sql)
+2.  Load the schema file: [schema](assets/data/schema.sql)
 3.  Then load the tables in this order:
     - [our_first_table](static/data/<filename>.csv)
     - [our_second_table](static/data/<filename>.csv)
@@ -59,6 +59,12 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 ## Data Sources
 
+<<<<<<< HEAD
+- **Main Data Source**: [Shark Attacks](https://www.kaggle.com/.... This is a geographic dataset... 
+
+- **Lat/Long Coordinates by Location**: 
+=======
+>>>>>>> 062e3024a91c202e44e07e071b2daf3778b2d4fd
 
 ## Data Cleaning
 
