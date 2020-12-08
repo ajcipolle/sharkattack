@@ -6,8 +6,6 @@ d3.json("/api/v1.0/age_counts_data").then(age_counts_data => {
 
     let x = Object.keys(data_dict)
 
-    console.log(x)
-
     let y = Object.values(data_dict)
 
     // Define the x axis, y axis, and type
@@ -15,7 +13,6 @@ d3.json("/api/v1.0/age_counts_data").then(age_counts_data => {
         x: [x[1], x[5], x[0], x[3], x[2], x[4]],
         y: [y[1], y[5], y[0], y[3], y[2], y[4]],
         type: "bar",
-        // orientation: "h"
     };
 
     // Create a list
@@ -48,7 +45,6 @@ d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
         x: x,
         y: y,
         type: "bar",
-        orientation: "h"
     };
 
     // Create a list
@@ -77,11 +73,10 @@ d3.json("/api/v1.0/sex_counts_data").then(sex_counts_data => {
     let y = Object.values(data_dict)
 
     // Define the x axis, y axis, and type
-    var trace1 = {
-        x: x,
-        y: y,
+    var trace1 = {  
+        x: [x[1], x[0], x[2]],
+        y: [y[1], y[0], y[2]],
         type: "bar",
-        orientation: "h"
     };
 
     // Create a list
