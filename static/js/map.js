@@ -65,8 +65,8 @@ function chooseColor(ADMIN) {
 // and shows pop-up with prediction data
 
 // grabbing results data
-// d3.json("/api/v1.0/results").then(results => {
-// console.log(results)
+// d3.json("/api/v1.0/machine_learning_results").then(machine_learning_results => {
+// console.log(machine_learning_results)
 // grabbing fatal counts data, the next two lines can be replaced with results data api call
 d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
     console.log(fatal_counts_data)
