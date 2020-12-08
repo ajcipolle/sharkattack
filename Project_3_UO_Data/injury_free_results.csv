@@ -1,0 +1,1262 @@
+,Country,Area,Prediction,Actual
+0,AUSTRALIA,Western Australia,N,UNKNOWN
+1,USA,Florida,N,N
+2,USA,Hawaii,N,N
+3,UNKNOWN,Western Banks,N,Y
+4,AUSTRALIA,Western Australia,N,Y
+5,SOUTH AFRICA,Western Cape Province,N,N
+6,FIJI,Off Vanua Levu,N,Y
+7,SOUTH AFRICA,Western Cape Province,N,N
+8,USA,North Carolina,N,Y
+9,SOUTH AFRICA,KwaZulu-Natal,N,N
+10,AUSTRALIA,New South Wales,N,N
+11,USA,Oregon,N,N
+12,NEW ZEALAND,North Island,N,N
+13,PAPUA NEW GUINEA,Bougainville (North Solomons),N,N
+14,AUSTRALIA,South Australia,N,N
+15,SOUTH AFRICA,KwaZulu-Natal,N,N
+16,BRAZIL,Pernambuco,N,N
+17,USA,Hawaii,N,N
+18,CROATIA," Split-Dalmatia Count,",N,N
+19,PAPUA NEW GUINEA,Western Papuan Gulf,N,N
+20,USA,California,N,Y
+21,AUSTRALIA,Torres Strait,N,Y
+22,AUSTRALIA,New South Wales,N,N
+23,TONGA,Ha'api,N,N
+24,SOUTH AFRICA,Eastern Cape Province,N,N
+25,REUNION,Saint-Philippe,N,N
+26,CUBA,Guantanamo Province,N,Y
+27,USA,Texas,N,Y
+28,AUSTRALIA,Queensland,N,N
+29,USA,South Carolina,N,N
+30,CUBA,Villa Clara Province,N,Y
+31,PANAMA,Caribbean Coast,N,N
+32,SOUTH AFRICA,Eastern Cape Province,N,N
+33,USA,Florida,N,N
+34,SOUTH AFRICA,Western Cape Province,N,N
+35,USA,California,N,N
+36,SOUTH AFRICA,KwaZulu-Natal,N,Y
+37,AUSTRALIA,South Australia,N,N
+38,USA,Florida,N,N
+39,USA,Florida,N,Y
+40,EGYPT,Red Sea,N,N
+41,USA,Florida,N,N
+42,MALDIVES,Alifu Alifu Atoll,N,N
+43,USA,California,N,N
+44,NEW CALEDONIA,UNKNOWN,N,Y
+45,PHILIPPINES,Luzon Island,N,Y
+46,NEW CALEDONIA,UNKNOWN,N,N
+47,NEW CALEDONIA,UNKNOWN,N,N
+48,USA,Florida,N,N
+49,USA,Florida,N,N
+50,AUSTRALIA,New South Wales,N,UNKNOWN
+51,USA,Florida,N,N
+52,USA,North Carolina,N,N
+53,AUSTRALIA,Queensland,N,Y
+54,SOUTH AFRICA,Eastern Cape Province,N,N
+55,USA,New Jersey,N,N
+56,AUSTRALIA,New South Wales,N,N
+57,SOUTH AFRICA,KwaZulu-Natal,N,N
+58,USA,Florida,N,N
+59,USA,Florida,N,N
+60,USA,Alabama,N,N
+61,USA,Hawaii,N,N
+62,SOUTH AFRICA,KwaZulu-Natal,N,N
+63,MARSHALL ISLANDS,Ratak ,N,Y
+64,NEW CALEDONIA,UNKNOWN,N,N
+65,AUSTRALIA,Victoria,N,N
+66,USA,Florida,N,N
+67,AUSTRALIA,Queensland,N,N
+68,USA,Florida,N,N
+69,PHILIPPINES,200 nm southeast of Manila,N,Y
+70,AUSTRALIA,Queensland,N,UNKNOWN
+71,USA,Hawaii,N,N
+72,SOUTH AFRICA,Western Cape Province,N,N
+73,USA,California,N,N
+74,NEW CALEDONIA,UNKNOWN,N,N
+75,AUSTRALIA,Torres Strait,N,N
+76,NEW CALEDONIA,UNKNOWN,N,Y
+77,USA,Florida,N,N
+78,USA,Florida,N,N
+79,USA,Hawaii,N,N
+80,AUSTRALIA,Queensland,N,N
+81,USA,Florida,N,N
+82,NEW CALEDONIA,UNKNOWN,N,Y
+83,USA,Florida,N,N
+84,NEW CALEDONIA,UNKNOWN,N,N
+85,BRAZIL,Pernambuco,N,N
+86,SPAIN,Alicante,N,UNKNOWN
+87,USA,Florida,N,N
+88,USA,Hawaii,N,Y
+89,VIETNAM,Ba Ria-Vung Tau  Province,N,N
+90,SOUTH AFRICA,KwaZulu-Natal,N,Y
+91,BERMUDA,Hamilton,N,UNKNOWN
+92,AUSTRALIA,Queensland,N,Y
+93,AUSTRALIA,Queensland,N,N
+94,USA,Hawaii,N,N
+95,USA,South Carolina,N,N
+96,USA,Hawaii,N,N
+97,AUSTRALIA,Western Australia,N,N
+98,USA,California,N,N
+99,AUSTRALIA,Torres Strait ,N,Y
+100,AUSTRALIA,Western Australia,N,N
+101,USA,Delaware,N,N
+102,AUSTRALIA,Western Australia,N,N
+103,FIJI,Lomaiviti  Island Group,N,N
+104,SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+105,AUSTRALIA,Torres Strait,N,N
+106,USA,Hawaii,N,UNKNOWN
+107,USA,Florida,N,N
+108,SOUTH AFRICA,Eastern Cape Province,N,N
+109,USA,Florida,N,N
+110,BAHAMAS,Grand Bahama Island,N,N
+111,USA,California,N,N
+112,USA,Florida,N,N
+113,NEW ZEALAND,North Island,N,UNKNOWN
+114,NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+115,AUSTRALIA,New South Wales,N,N
+116,BRAZIL,Pernambuco,N,N
+117,USA,Hawaii,N,N
+118,AUSTRALIA,Torres Strait,N,N
+119,AUSTRALIA,Western Australia,N,UNKNOWN
+120,NEW CALEDONIA,UNKNOWN,N,N
+121,AUSTRALIA,South Australia,N,N
+122,USA,Florida,N,UNKNOWN
+123,PAPUA NEW GUINEA,"Abau Sub District, Central Province",N,Y
+124,USA,Florida,N,N
+125,JAMAICA,Kingston Parish,N,Y
+126,USA,Florida,N,N
+127,AUSTRALIA,Western Australia,N,Y
+128,JAPAN,Okayama Prefecture,N,Y
+129,MARSHALL ISLANDS,Alinglaplap Atoll,N,N
+130,USA,South Carolina,N,UNKNOWN
+131,CUBA,Havana Province,N,UNKNOWN
+132,SPAIN,Catalonia,N,N
+133,AUSTRALIA,New South Wales,N,N
+134,REUNION,Saint-Benoit,N,N
+135,USA,Florida,N,N
+136,SOUTH AFRICA,Eastern Cape Province,N,N
+137,BAHAMAS,New Providence District,N,N
+138,USA,Hawaii,N,N
+139,BAHAMAS,Eleuthera,N,N
+140,SOUTH AFRICA,Western Cape Province,N,N
+141,NEW CALEDONIA,UNKNOWN,N,N
+142,USA,Florida,N,N
+143,MEXICO,Tamaulipas,N,N
+144,USA,Florida,N,N
+145,USA,Florida,N,N
+146,USA,Florida,N,UNKNOWN
+147,CHILE,Los Vilos,N,Y
+148,NEW CALEDONIA,UNKNOWN,N,N
+149,COSTA RICA,Guanacaste,N,N
+150,AUSTRALIA,Westerm Australia,N,N
+151,JAMAICA,St. Catherine,N,Y
+152,USA,Florida,N,Y
+153,USA,California,N,N
+154,AUSTRALIA,Victoria,N,UNKNOWN
+155,USA,Georgia,N,N
+156,USA,Florida,N,N
+157,AUSTRALIA,Queensland,N,N
+158,USA,South Carolina,N,N
+159,AUSTRALIA,New South Wales,N,UNKNOWN
+160,USA,North Carolina,N,N
+161,SOUTH AFRICA,KwaZulu-Natal,N,N
+162,SOUTH AFRICA,KwaZulu-Natal,N,N
+163,AUSTRALIA,Western Australia,N,N
+164,SWEDEN,Skagerrak arm of the North Sea,N,UNKNOWN
+165,SOUTH AFRICA,Western Cape Province,N,N
+166,USA,Florida,N,N
+167,MOZAMBIQUE,Gaza,N,N
+168,USA,New York,N,N
+169,NEW CALEDONIA,UNKNOWN,N,N
+170,SOUTH AFRICA,Eastern Cape Province,N,N
+171,SOUTH AFRICA,Western Cape Province,N,N
+172,USA,Alabama,N,N
+173,AUSTRALIA,New South Wales,N,Y
+174,BAHAMAS,Abaco Islands,N,N
+175,JAPAN,Kochi Prefecture,N,N
+176,PALAU,Western Caroline Islands,N,N
+177,IRAN,Khuzestan Province,N,Y
+178,PAPUA NEW GUINEA,"Admiralty Islands, Manus Province",N,N
+179,AUSTRALIA,New South Wales,N,N
+180,USA,Florida,N,N
+181,USA,Florida,N,N
+182,SOUTH AFRICA,Eastern Cape Province,N,Y
+183,USA,Florida,N,N
+184,ITALY,Tyrrhenian Sea,N,N
+185,USA,Florida,N,N
+186,USA,Texas,N,N
+187,SOUTH AFRICA,Western Cape Province,N,Y
+188,SOUTH AFRICA,Eastern Cape Province,N,UNKNOWN
+189,AUSTRALIA,Queensland,N,UNKNOWN
+190,SENEGAL,Casamance,N,N
+191,SOUTH AFRICA,KwaZulu-Natal,N,N
+192,PAPUA NEW GUINEA,Central Province,N,N
+193,BRAZIL,Pernambuco,N,N
+194,NEW ZEALAND,North Island,N,N
+195,USA,Oregon,N,N
+196,AUSTRALIA,New South Wales,N,N
+197,JAPAN,Southern Japan,N,N
+198,USA,Hawaii,N,N
+199,SOUTH AFRICA,KwaZulu-Natal,N,N
+200,AUSTRALIA,Queensland,N,N
+201,AUSTRALIA,South Australia,N,N
+202,USA,California,N,N
+203,AUSTRALIA,New South Wales,N,N
+204,BRAZIL,Pernambuco,N,Y
+205,SOUTH AFRICA,Western Cape Province,N,N
+206,HONDURAS,Bay Islands,N,UNKNOWN
+207,USA,Hawaii,N,Y
+208,YEMEN,Aden,N,Y
+209,USA,South Carolina,N,UNKNOWN
+210,NEW CALEDONIA,Loyalty Islands,N,N
+211,USA,Florida,N,N
+212,AUSTRALIA,New South Wales,N,N
+213,USA,New Jersey,N,N
+214,AUSTRALIA,Northern Territory,N,N
+215,PORTUGAL,Madeira,N,Y
+216,AUSTRALIA,Queensland,N,Y
+217,AUSTRALIA,New South Wales,N,N
+218,SOUTH AFRICA,KwaZulu-Natal,N,N
+219,USA,Texas,N,N
+220,BRAZIL,Rio Grande Do Sul,N,N
+221,SOUTH AFRICA,Western Cape Province,N,N
+222,AUSTRALIA,Victoria,N,N
+223,EGYPT,South Sinai Peninsula,N,Y
+224,BERMUDA,Hamilton,N,N
+225,USA,Texas,N,N
+226,AUSTRALIA,Queensland,N,N
+227,USA,South Carolina,N,N
+228,PAPUA NEW GUINEA,Madang Province,N,N
+229,SOUTH AFRICA,Western Cape Province,N,N
+230,PHILIPPINES,Luzon Island,N,N
+231,USA,Virginia,N,N
+232,BRAZIL,Pernambuco,N,Y
+233,BAHAMAS,Andros Islands,N,N
+234,USA,Texas,N,N
+235,PHILIPPINES,Palawan,N,Y
+236,USA,Florida,N,N
+237,USA,Hawaii,N,N
+238,SOUTH AFRICA,Eastern Cape Province,N,N
+239,SOUTH AFRICA,Eastern Cape Province,N,N
+240,PAPUA NEW GUINEA,Madang Province,N,Y
+241,AUSTRALIA,Queensland,N,N
+242,SPAIN,Eastern Catalona,N,Y
+243,NEW CALEDONIA,UNKNOWN,N,Y
+244,USA,Florida,N,N
+245,NEW CALEDONIA,UNKNOWN,N,N
+246,AUSTRALIA,Victoria,N,N
+247,USA,New York,N,UNKNOWN
+248,USA,Florida,N,N
+249,NEW CALEDONIA,UNKNOWN,N,Y
+250,USA,California,N,N
+251,TANZANIA,Dar-es-Salaam ,N,N
+252,UNITED ARAB EMIRATES (UAE),Umm al Qaywayan Province,N,UNKNOWN
+253,ITALY,Tyrrhenian Sea,N,N
+254,USA,South Carolina,N,N
+255,USA,New York,N,UNKNOWN
+256,AUSTRALIA,Torres Strait,N,Y
+257,USA,Florida,N,N
+258,VENEZUELA,Anzoategui,N,N
+259,SOUTH AFRICA,Eastern Province,N,N
+260,SOUTH AFRICA,Western Cape Province,N,N
+261,USA,Florida,N,N
+262,USA,Hawaii,N,UNKNOWN
+263,USA,Hawaii,N,UNKNOWN
+264,USA,Puerto Rico,N,N
+265,AUSTRALIA,New South Wales,N,N
+266,PANAMA,San Carlos,N,N
+267,NEW CALEDONIA,UNKNOWN,N,N
+268,USA,Florida,N,N
+269,USA,Florida,N,N
+270,SOUTH AFRICA,KwaZulu-Natal,N,N
+271,USA,California,N,N
+272,NEW CALEDONIA,UNKNOWN,N,N
+273,MOZAMBIQUE,Gaza,N,Y
+274,AUSTRALIA,Queensland,N,Y
+275,USA,North Carolina,N,UNKNOWN
+276,AUSTRALIA,New South Wales,N,UNKNOWN
+277,AUSTRALIA,Torres Strait,N,N
+278,AUSTRALIA,New South Wales,N,N
+279,USA,Hawaii,N,N
+280,AUSTRALIA,New South Wales,N,N
+281,AUSTRALIA,Queensland,N,UNKNOWN
+282,USA,Oregon,N,N
+283,SOUTH AFRICA,Western Cape Province,N,N
+284,SOUTH AFRICA,Eastern Province,N,UNKNOWN
+285,SOUTH AFRICA,KwaZulu-Natal,N,N
+286,AUSTRALIA,New South Wales,N,N
+287,USA,Florida,N,N
+288,AUSTRALIA,New South Wales,N,N
+289,PAPUA NEW GUINEA,Central Province,N,Y
+290,ITALY,Ancona Province,N,Y
+291,NEW CALEDONIA,UNKNOWN,N,Y
+292,AUSTRALIA,Queensland,N,N
+293,NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+294,AUSTRALIA,New South Wales,N,UNKNOWN
+295,USA,Florida,N,N
+296,CANADA,Newfoundland,N,N
+297,AUSTRALIA,New South Wales,N,Y
+298,SENEGAL,Cap-Vert Peninsula,N,Y
+299,AUSTRALIA,Queensland,N,Y
+300,SOUTH AFRICA,Western Cape Province,N,Y
+301,ITALY,Liguria,N,N
+302,SOUTH AFRICA,Eastern Cape Province,N,N
+303,AUSTRALIA,Queensland,N,N
+304,SOMALIA,Banaadir Region,N,Y
+305,USA,Hawaii,N,UNKNOWN
+306,AUSTRALIA,Victoria,N,N
+307,PANAMA,Bocas del Toro,N,Y
+308,USA,US Virgin Islands,N,N
+309,AUSTRALIA,Queensland,N,N
+310,USA,Florida,N,N
+311,PERSIAN GULF,25 km off the coast of Iran & 483km from mouth of Persian Gulf,N,N
+312,USA,California,N,N
+313,FIJI,Vitu Levu,N,N
+314,USA,California,N,N
+315,AUSTRALIA,Queensland,N,N
+316,USA,Hawaii,N,N
+317,NEW CALEDONIA,UNKNOWN,N,Y
+318,AUSTRALIA,New South Wales,N,N
+319,USA,Hawaii,N,UNKNOWN
+320,AUSTRALIA,Queensland,N,N
+321,USA,Florida,N,N
+322,BAHAMAS,New Providence Island,N,N
+323,PANAMA,Panama Bay (Pacific Ocean),N,Y
+324,AUSTRALIA,Westerm Australia,N,N
+325,HONG KONG,Mirs Bay ,N,N
+326,NEW CALEDONIA,UNKNOWN,N,Y
+327,USA,Puerto Rico,N,Y
+328,USA,Georgia,N,N
+329,USA,Florida,N,N
+330,AUSTRALIA,New South Wales,N,N
+331,NEW ZEALAND,North Island,N,Y
+332,USA,Florida,N,N
+333,USA,Florida,N,N
+334,AUSTRALIA,Queensland,N,Y
+335,USA,Florida,N,N
+336,PAPUA NEW GUINEA,Milne Bay Province,N,Y
+337,SCOTLAND,Argyllshire,N,N
+338,USA,Hawaii,N,N
+339,MARSHALL ISLANDS,Ralik Chain,N,N
+340,AUSTRALIA,Queensland,N,N
+341,NEW CALEDONIA,UNKNOWN,N,N
+342,IRAQ,Basrah,N,N
+343,USA,Florida,N,UNKNOWN
+344,USA,South Carolina,N,UNKNOWN
+345,SOUTH AFRICA,KwaZulu-Natal,N,N
+346,SOUTH AFRICA,Eastern Province,N,N
+347,BAHAMAS,Grand Bahama Island,N,N
+348,IRAQ,Basrah,N,N
+349,USA,South Carolina,N,N
+350,AUSTRALIA,New South Wales,N,N
+351,USA,Florida,N,UNKNOWN
+352,USA,Florida,N,N
+353,AUSTRALIA,New South Wales,N,N
+354,USA,California,N,N
+355,BRAZIL,Pernambuco,N,Y
+356,NEW BRITAIN,East New Britain Province,N,N
+357,AUSTRALIA,New South Wales,N,N
+358,USA,Florida,N,N
+359,USA,Florida,N,N
+360,USA,Hawaii,N,UNKNOWN
+361,AUSTRALIA,New South Wales,N,Y
+362,NEW CALEDONIA,UNKNOWN,N,Y
+363,NEW CALEDONIA,UNKNOWN,N,N
+364,USA,Florida,N,N
+365,AUSTRALIA,New South Wales,N,Y
+366,SOUTH AFRICA,Western Cape Province,N,UNKNOWN
+367,NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+368,USA,California,N,N
+369,BAHAMAS,Abaco Islands,N,N
+370,IRAN,Shatt-al-Arab River,N,N
+371,SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+372,NEW CALEDONIA,UNKNOWN,N,N
+373,USA,Florida,N,N
+374,USA,Florida,N,N
+375,UNKNOWN,French Southern Territories,N,Y
+376,USA,Florida,N,N
+377,AUSTRALIA,Western Australia,N,UNKNOWN
+378,AUSTRALIA,South Australia,N,N
+379,SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+380,SOUTH AFRICA,KwaZulu-Natal,N,Y
+381,AUSTRALIA,New South Wales,N,N
+382,USA,Florida,N,N
+383,USA,Hawaii,N,UNKNOWN
+384,USA,Hawaii,N,N
+385,AUSTRALIA,Torres Strait,N,N
+386,AUSTRALIA,Victoria,N,Y
+387,USA,Florida,N,N
+388,AUSTRALIA,New South Wales,N,N
+389,AUSTRALIA,New South Wales,N,N
+390,AUSTRALIA,New South Wales,N,Y
+391,AUSTRALIA,Western Australia,N,Y
+392,USA,North Carolina,N,N
+393,AUSTRALIA,New South Wales,N,N
+394,PERSIAN GULF,"""Head of the Gulf""",N,N
+395,INDIA,Tamil Nadu,N,UNKNOWN
+396,USA,California,N,N
+397,AUSTRALIA,New South Wales,N,N
+398,USA,Hawaii,N,N
+399,USA,Florida,N,N
+400,USA,Florida,N,N
+401,AUSTRALIA,Western Australia,N,N
+402,PAPUA NEW GUINEA,New Britain,N,Y
+403,USA,Florida,N,N
+404,SOUTH AFRICA,Western Cape Province,N,N
+405,USA,Hawaii,N,Y
+406,USA,South Carolina,N,N
+407,USA,Florida,N,N
+408,USA,Hawaii,N,Y
+409,NEW CALEDONIA,UNKNOWN,N,N
+410,NEW CALEDONIA,UNKNOWN,N,Y
+411,USA,California,N,N
+412,AUSTRALIA,Queensland,N,Y
+413,USA,Florida,N,N
+414,SOUTH AFRICA,Western Cape Province,N,N
+415,USA,Hawaii,N,Y
+416,AUSTRALIA,Victoria,N,N
+417,NEW ZEALAND,North Island,N,Y
+418,SOUTH AFRICA,Western Cape Province,N,N
+419,MADAGASCAR,Toamasina Province,N,Y
+420,GREECE,Corfu Island,N,Y
+421,CROATIA, Split-Dalmatia County,N,N
+422,BAHAMAS,Abaco Islands,N,N
+423,AUSTRALIA,Queensland,N,N
+424,AUSTRALIA,New South Wales,N,N
+425,USA,South Carolina,N,N
+426,USA,California,N,N
+427,USA,Louisiana,N,N
+428,NEW CALEDONIA,UNKNOWN,N,N
+429,AUSTRALIA,Western Australia,N,N
+430,AUSTRALIA,Queensland,N,N
+431,USA,Florida,N,N
+432,AUSTRALIA,Queensland,N,UNKNOWN
+433,THAILAND,Hua Hin,N,N
+434,NEW CALEDONIA,UNKNOWN,N,N
+435,NEW CALEDONIA,North Province,N,Y
+436,UNITED KINGDOM,Isle of Wight,N,N
+437,AUSTRALIA,Victoria,N,N
+438,AUSTRALIA,Queensland,N,N
+439,AUSTRALIA,Western Australia,N,N
+440,AUSTRALIA,Western Australia,N,UNKNOWN
+441,USA,Florida,N,N
+442,USA,Florida,N,N
+443,AUSTRALIA,Queensland,N,N
+444,NEW CALEDONIA,UNKNOWN,N,Y
+445,NEW CALEDONIA,UNKNOWN,N,N
+446,NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+447,NEW CALEDONIA,UNKNOWN,N,Y
+448,NEW CALEDONIA,UNKNOWN,N,N
+449,CUBA,Guantanamo Province,N,N
+450,AUSTRALIA,New South Wales,N,Y
+451,NEW ZEALAND,North Island,N,Y
+452,NEW CALEDONIA,UNKNOWN,N,N
+453,LIBYA,Mediterranean Sea,N,N
+454,MID ATLANTIC OCEAN,165  miles from Bermuda,N,N
+455,SUDAN,Red Sea State,N,N
+456,BAHAMAS,Out Islands,N,N
+457,INDIA,Kerala,N,UNKNOWN
+458,MONACO,Bay of Monaco,N,Y
+459,AUSTRALIA,Queensland,N, N
+460,NEW ZEALAND,North Island,N,N
+461,USA,Florida,N,N
+462,USA,Florida,N,N
+463,BRAZIL,Alagoas,N,N
+464,PAPUA NEW GUINEA,Central Province,N,N
+465,USA,Hawaii,N,Y
+466,SOUTH AFRICA,Eastern Cape Province,N,N
+467,VANUATU,Malampa Province,N,N
+468,REUNION,Sainte-Suzanne,N,Y
+469,AUSTRALIA,Tasmania,N,N
+470,USA,Florida,N,N
+471,USA,Hawaii,N,N
+472,AUSTRALIA,Queensland,N,N
+473,USA,Florida,N,N
+474,AUSTRALIA,New South Wales,N,N
+475,UNKNOWN,Between Comores & Madagascar,N,Y
+476,USA,Florida,N,N
+477,BRAZIL,Pernambuco,N,N
+478,GUAM,Merizo,N,UNKNOWN
+479,NEW ZEALAND,"South Island, near Karitane north of Dunedin",N,N
+480,USA,Florida,N,N
+481,USA,Delaware,N,N
+482,AUSTRALIA,Victoria,N,N
+483,YEMEN,Aden,N,UNKNOWN
+484,USA,Florida,N,Y
+485,USA,Florida,N,N
+486,AUSTRALIA,New South Wales,N,Y
+487,NEW CALEDONIA,UNKNOWN,N,N
+488,AUSTRALIA,Northern Territory,N,N
+489,USA,Florida,N,N
+490,USA,Mississippi,N,Y
+491,AUSTRALIA,New South Wales,N,Y
+492,SOUTH AFRICA,KwaZulu-Natal,N,Y
+493,USA,New Jersey,N,Y
+494,BAHAMAS,Walkers Cay,N,N
+495,USA,California,N,N
+496,TRINIDAD & TOBAGO,Trinidad,N,UNKNOWN
+497,MEXICO,Veracruz,N,Y
+498,AUSTRALIA,New South Wales,N,N
+499,USA,New Jersey,N,N
+500,AUSTRALIA,Victoria,N,N
+501,USA,Texas,N,N
+502,USA,Florida,N,Y
+503,AUSTRALIA,New South Wales,N,N
+504,AUSTRALIA,Western Australia,N,N
+505,SOUTH AFRICA,KwaZulu-Natal,N,N
+506,AUSTRALIA,Western Australia,N,Y
+507,AUSTRALIA,New South Wales,N,N
+508,AUSTRALIA,Queensland,N,Y
+509,AUSTRALIA,New South Wales,N,N
+510,SOUTH AFRICA,Eastern Cape Province,N,N
+511,AUSTRALIA,New South Wales,N,N
+512,AUSTRALIA,Queensland,N,N
+513,USA,New York ,N,UNKNOWN
+514,GREECE,Attica,N,Y
+515,JAMAICA,Westmoreland Parish,N,N
+516,USA,Florida,N,N
+517,FRENCH POLYNESIA,Tuamotus,N,N
+518,USA,Florida,N,N
+519,SOUTH AFRICA,Western Cape Province,N,N
+520,AUSTRALIA,Tasmania,N,N
+521,NEW ZEALAND,North Island,N,N
+522,AUSTRALIA,New South Wales,N,N
+523,PALAU,Aulong Island,N,N
+524,AUSTRALIA,New South Wales,N,N
+525,SPAIN,Canary Islands,N,N
+526,USA,Hawaii,N,N
+527,INDONESIA,Bali,N,N
+528,USA,Florida,N,N
+529,NEW CALEDONIA,UNKNOWN,N,Y
+530,NEW CALEDONIA,UNKNOWN,N,N
+531,USA,Florida,N,N
+532,USA,Florida,N,N
+533,Fiji,Vanua Levu,N,N
+534,SOLOMON ISLANDS,Ysabel Island,N,Y
+535,USA,Florida,N,N
+536,ITALY,Sardinia,N,UNKNOWN
+537,AUSTRALIA,South Australia,N,Y
+538,USA,Florida,N,N
+539,CUBA,Havana Province,N,Y
+540,NEW CALEDONIA,UNKNOWN,N,N
+541,USA,Florida,N,N
+542,SOUTH AFRICA,KwaZulu-Natal,N,N
+543,USA,California,N,N
+544,USA,South Carolina,N,N
+545,AUSTRALIA,New South Wales,N,N
+546,AUSTRALIA,New South Wales,N,N
+547,USA,Florida,N,N
+548,AUSTRALIA,New South Wales,N,Y
+549,ECUADOR,Galapagos Islands,N,N
+550,PAPUA NEW GUINEA,Bougainville (North Solomons),N,N
+551,AUSTRALIA,New South Wales,N,N
+552,AUSTRALIA,Victoria,N,Y
+553,SOUTH AFRICA,Western Cape Province,N,N
+554,JAPAN,Ryukyu,N,Y
+555,MEXICO,Quintana Roo,N,UNKNOWN
+556,USA,Hawaii,N,N
+557,USA,Florida,N,UNKNOWN
+558,PAPUA NEW GUINEA,Madang Province,N,Y
+559,NEW ZEALAND,North Island,N,N
+560,USA,North Carolina,N,Y
+561,AUSTRALIA,Western Australia,N,N
+562,USA,North Carolina,N,N
+563,USA,Texas,N,N
+564,BAHAMAS,Andros Islands,N,N
+565,AUSTRALIA,New South Wales,N,N
+566,USA,Florida,N,N
+567,NEW CALEDONIA,UNKNOWN,N,N
+568,AUSTRALIA,Victoria,N,N
+569,HONG KONG,Mirs Bay ,N,N
+570,CANADA,Nova Scotia,N,Y
+571,NEW CALEDONIA,UNKNOWN,N,N
+572,SOUTH AFRICA,KwaZulu-Natal,N,N
+573,BANGLADESH,Ganges-Brahmaputra delta,N,Y
+574,BAHAMAS,Grand Bahama Island,N,N
+575,AUSTRALIA,Western Australia,N,N
+576,NIGERIA,Bayelsa State,N,Y
+577,MOZAMBIQUE,Gaza,N,N
+578,COSTA RICA,Guanacaste,N,N
+579,SOUTH AFRICA,KwaZulu-Natal,N,N
+580,USA,Hawaii,N,N
+581,AUSTRALIA,Victoria,N,N
+582,AUSTRALIA,New South Wales,N,N
+583,NEW CALEDONIA,UNKNOWN,N,Y
+584,BRAZIL,Fernando de Noronha,N,N
+585,SOUTH AFRICA,Western Cape Province,N,Y
+586,AUSTRALIA,Queensland,N,N
+587,AUSTRALIA,New South Wales,N,N
+588,NEW ZEALAND,North Island,N,N
+589,USA,Hawaii,N,N
+590,NEW CALEDONIA,UNKNOWN,N,N
+591,AUSTRALIA,Queensland,N,N
+592,UNKNOWN,Near the Andaman & Nicobar Islands,N,Y
+593,AUSTRALIA,Queensland,N,UNKNOWN
+594,USA,Hawaii,N,UNKNOWN
+595,SOUTH AFRICA,Eastern Cape Province,N,N
+596,NEW CALEDONIA,UNKNOWN,N,Y
+597,USA,South Carolina,N,N
+598,USA,Massachusetts,N,Y
+599,AUSTRALIA,Torres Strait,N,N
+600,AUSTRALIA,South Australia,N,UNKNOWN
+601,NEW CALEDONIA,UNKNOWN,N,Y
+602,AUSTRALIA,Queensland,N,Y
+603,USA,Florida,N,N
+604,BRAZIL,Bahia,N,UNKNOWN
+605,NEW CALEDONIA,UNKNOWN,N,N
+606,USA,Florida,N,N
+607,INDIA,Maharashtra,N,Y
+608,AUSTRALIA,South Australia,N,N
+609,USA,Florida,N,N
+610,NEW CALEDONIA,UNKNOWN,N,N
+611,USA,Florida,N,N
+612,USA,Georgia,N,Y
+613,SOUTH AFRICA,KwaZulu-Natal,N,N
+614,USA,Florida,N,N
+615,NEW CALEDONIA,UNKNOWN,N,N
+616,USA,Hawaii,N,N
+617,NEW ZEALAND,North Island,N,N
+618,USA,Florida,N,N
+619,USA,East coast,N,N
+620,USA,North Carolina,N,N
+621,COSTA RICA,Puntarenas Province,N,Y
+622,USA,Florida,N,UNKNOWN
+623,AUSTRALIA,Western Australia,N,N
+624,AUSTRALIA,Western Australia,N,N
+625,NEW CALEDONIA,UNKNOWN,N,Y
+626,JAMAICA,Kingston Parish,N,N
+627,AUSTRALIA,New South Wales,N,N
+628,SOLOMON ISLANDS,Honiara,N,Y
+629,UNITED KINGDOM,South Devon,N,N
+630,BRAZIL,Pernambuco,N,Y
+631,USA,Florida,N,N
+632,NEW CALEDONIA,South Province,N,N
+633,LIBYA,Mediterranean Sea,N,N
+634,USA,Hawaii,N,Y
+635,USA,California,N,N
+636,SOUTH AFRICA,Eastern Cape Province,N,N
+637,USA,California,N,N
+638,USA,Florida,N,N
+639,USA,California,N,N
+640,USA,Florida,N,N
+641,USA,Florida,N,N
+642,MEXICO,Guerrrero,N,UNKNOWN
+643,UNITED KINGDOM,Isle of Wight,N,UNKNOWN
+644,USA,Florida,N,N
+645,USA,Florida,N,N
+646,USA,Florida,N,N
+647,USA,Hawaii,N,N
+648,USA,Florida,N,N
+649,USA,Florida,N,N
+650,PAPUA NEW GUINEA,"Abau Subdistrict,Central Province",N,Y
+651,AUSTRALIA,Queensland,N,N
+652,USA,California,N,N
+653,AUSTRALIA,Torres Strait,N,Y
+654,USA,California,N,N
+655,PHILIPPINES,Leyte,N,Y
+656,MALTA,Munxar Reef,N,Y
+657,CROATIA,Lukovo,N,UNKNOWN
+658,MEXICO,Tabasco,N,N
+659,AUSTRALIA,South Australia,N,N
+660,UNITED KINGDOM,Isle of Wight,N,Y
+661,NEW ZEALAND,North Island,N,N
+662,USA,Florida,N,N
+663,BAHAMAS,Exuma Islands,N,UNKNOWN
+664,ENGLAND,Cornwall,N,Y
+665,AUSTRALIA,New South Wales,N,N
+666,SOUTH AFRICA,Eastern Cape Province,N,N
+667,AUSTRALIA,New South Wales,N,Y
+668,AUSTRALIA,Torres Strait,N,Y
+669,AUSTRALIA,Western Australia,N,Y
+670,EQUATORIAL GUINEA / CAMEROON,Fernando Po Island,N,Y
+671,IRAN,Shatt-al-Arab River,N,Y
+672,AUSTRALIA,New South Wales,N,N
+673,USA,California,N,N
+674,AUSTRALIA,Western Australia,N,N
+675,USA,Hawaii,N,N
+676,SOLOMON ISLANDS,Santa Isabel Province,N,N
+677,AUSTRALIA,New South Wales,N,Y
+678,AUSTRALIA,Queensland,N,N
+679,USA,Hawaii,N,N
+680,SOUTH AFRICA,Eastern Cape Province,N,N
+681,USA,Hawaii,N,N
+682,USA,Florida,N,UNKNOWN
+683,USA,Florida,N,N
+684,NEW CALEDONIA,UNKNOWN,N,Y
+685,USA,Florida,N,N
+686,USA,Georgia,N,Y
+687,SOUTH AFRICA,Western Cape Province,N,N
+688,NEW CALEDONIA,UNKNOWN,N,N
+689,NEW CALEDONIA,UNKNOWN,N,Y
+690,SOUTH AFRICA,Eastern Cape Province,N,UNKNOWN
+691,USA,New Jersey,N,Y
+692,ITALY,Marches region,N,UNKNOWN
+693,NEW CALEDONIA,UNKNOWN,N,N
+694,USA,Georgia,N,N
+695,NEW CALEDONIA,UNKNOWN,N,Y
+696,AUSTRALIA,New South Wales,N,Y
+697,USA,Massachusetts,N,N
+698,NEW CALEDONIA,UNKNOWN,N,Y
+699,AUSTRALIA,New South Wales,N,N
+700,FIJI, Lau Province,N,N
+701,USA,Florida,N,UNKNOWN
+702,USA,Florida,N,N
+703,USA,Florida,N,N
+704,AUSTRALIA,South Australia,N,N
+705,SOUTH AFRICA,Eastern Cape Province,N,N
+706,AUSTRALIA,New South Wales,N,Y
+707,REUNION,Saint-Leu,N,Y
+708,PAPUA NEW GUINEA,Central Province,N,Y
+709,SOUTH AFRICA,Western Cape Province,N,N
+710,SPAIN,Grand Canary Island,N,N
+711,NEW CALEDONIA,UNKNOWN,N,Y
+712,AUSTRALIA,New South Wales,N,N
+713,SOUTH AFRICA,Western Cape Province,N,N
+714,PHILIPPINES,Luzon,N,Y
+715,SOUTH AFRICA,KwaZulu-Natal,N,N
+716,NEW CALEDONIA,Grand Terre,N,Y
+717,AUSTRALIA,New South Wales,N,N
+718,FRANCE,Alpes Maritime,N,N
+719,NEW CALEDONIA,UNKNOWN,N,Y
+720,FIJI,Viti Levu Island,N,N
+721,USA,Florida,N,N
+722,USA,Florida,N,N
+723,REUNION,Saint-Gilles,N,Y
+724,USA,Florida,N,N
+725,USA,Florida,N,N
+726,PAPUA NEW GUINEA,Milne Bay Province,N,Y
+727,AUSTRALIA,New South Wales,N,N
+728,USA,Florida,N,UNKNOWN
+729,USA,Georgia,N,Y
+730,USA,Florida,N,N
+731,USA,California,N,N
+732,IRAQ,Basrah,N,Y
+733,EGYPT,Red Sea,N,N
+734,MOZAMBIQUE,Limpopo River,N,N
+735,JAPAN,Sea of Japan,N,UNKNOWN
+736,PHILIPPINES,Central Philippines,N,N
+737,USA,Florida,N,N
+738,JAPAN,Ehime Prefecture,N,N
+739,AUSTRALIA,Western Australia,N,N
+740,BRAZIL,Pernambuco,N,N
+741,USA,Florida,N,N
+742,USA,California,N,N
+743,USA,Florida,N,N
+744,MEXICO,Tamaulipas,N,Y
+745,REUNION,Sainte-Marie,N,N
+746,AUSTRALIA,New South Wales,N,N
+747,VIETNAM,Binh Dinh Province,N,N
+748,USA,Florida,N,N
+749,CANADA,British Colombia,N,UNKNOWN
+750,USA,Hawaii,N,N
+751,MEXICO,Baja California,N,Y
+752,REUNION,Saint Leu,N,N
+753,USA,New Jersey,N,N
+754,NEW ZEALAND,Mercury Islands,N,N
+755,AUSTRALIA,New South Wales,N,N
+756,Sierra Leone,Western Area,N,N
+757,NEW CALEDONIA,UNKNOWN,N,N
+758,AUSTRALIA,Victoria,N,Y
+759,USA,Florida,N,N
+760,SOUTH AFRICA,Western Cape Province,N,N
+761,USA,South Carolina,N,N
+762,FIJI,Moala Island,N,Y
+763,USA,Florida,N,N
+764,USA,New Jersey,N,N
+765,IRAN,Karun River,N,N
+766,USA,Florida,N,N
+767,ITALY,40 miles south of Naples ,N,N
+768,USA,Florida,N,N
+769,SOUTH AFRICA,Western Cape Province,N,N
+770,NEW CALEDONIA,South Province,N,Y
+771,SOUTH AFRICA,Eastern Cape Province,N,N
+772,USA,Florida,N,N
+773,USA,Hawaii,N,N
+774,SOUTH AFRICA,Eastern Cape Province,N,N
+775,NEW CALEDONIA,UNKNOWN,N,Y
+776,NEW CALEDONIA,UNKNOWN,N,Y
+777,USA,Florida,N,N
+778,USA,Texas,N,UNKNOWN
+779,AUSTRALIA,New South Wales,N,N
+780,USA,South Carolina,N,N
+781,USA,South Carolina,N,N
+782,USA,Florida,N,UNKNOWN
+783,USA,Florida,N,N
+784,SOUTH AFRICA,KwaZulu-Natal,N,Y
+785,NEW CALEDONIA,UNKNOWN,N,Y
+786,YEMEN,Aden,N,N
+787,AUSTRALIA,Victoria,N,N
+788,USA,New York,N,N
+789,USA,Florida,N,N
+790,AUSTRALIA,New South Wales,N,N
+791,AUSTRALIA,New South Wales,N,Y
+792,Fiji,Vanua Levu,N,Y
+793,USA,Florida,N,N
+794,SOUTH AFRICA,Eastern Cape Province,N,N
+795,AUSTRALIA,New South Wales,N,Y
+796,AUSTRALIA,Queensland,N,N
+797,AUSTRALIA,Western Australia,N,UNKNOWN
+798,USA,Connecticut,N,N
+799,INDIA,West Bengal,N,N
+800,CROATIA, Split-Dalmatia County,N,Y
+801,NICARAGUA ,Pacific coast,N,N
+802,USA,California,N,UNKNOWN
+803,NEW ZEALAND,South Island,N,N
+804,BAHAMAS,Bimini Islands,N,N
+805,AUSTRALIA,New South Wales,N,N
+806,USA,Florida,N,UNKNOWN
+807,COLUMBIA,Roncador Bank,N,N
+808,PHILIPPINES,Queaon,N,Y
+809,USA,Florida,N,N
+810,AUSTRALIA,Torres Strait,N,N
+811,AUSTRALIA,New South Wales,N,N
+812,AUSTRALIA,South Australia,N,N
+813,AUSTRALIA,New South Wales,N,N
+814,SOUTH AFRICA,Western Cape Province,N,N
+815,MEXICO,Quintana Roo,N,Y
+816,AUSTRALIA,New South Wales,N,N
+817,USA,Florida,N,N
+818,SOUTH AFRICA,Western Cape Province,N,N
+819,NEW CALEDONIA,UNKNOWN,N,N
+820,AUSTRALIA,South Australia,N,Y
+821,USA,South Carolina,N,N
+822,USA,Florida,N,N
+823,ITALY,Tyrrhenian Sea,N,Y
+824,NEW CALEDONIA,UNKNOWN,N,N
+825,NEW CALEDONIA,UNKNOWN,N,N
+826,USA,South Carolina,N,N
+827,BRAZIL,"Boi Island, Victoria",N,N
+828,USA,California,N,N
+829,NEW CALEDONIA,UNKNOWN,N,N
+830,USA,Florida,N,N
+831,BRAZIL,Pernambuco,N,N
+832,NEW ZEALAND,North Island,N,Y
+833,AUSTRALIA,New South Wales,N,N
+834,USA,Hawaii,N,N
+835,AUSTRALIA,New South Wales,N,Y
+836,NEW CALEDONIA,UNKNOWN,N,N
+837,TONGA,Vava'u,N,N
+838,NEW CALEDONIA,UNKNOWN,N,Y
+839,USA,Florida,N,N
+840,AUSTRALIA,New South Wales,N,N
+841,PAPUA NEW GUINEA,Central Province,N,Y
+842,MEXICO,Guerrero,N,N
+843,USA,Florida,N,UNKNOWN
+844,USA,South Carolina,N,Y
+845,ENGLAND,In the English Channel ,N,N
+846,USA,California,N,Y
+847,USA,Florida,N,N
+848,USA,Florida,N,N
+849,USA,Florida,N,Y
+850,USA,Florida,N,UNKNOWN
+851,NEW CALEDONIA,UNKNOWN,N,Y
+852,JAPAN,Izo Islands,N,Y
+853,USA,South Carolina,N,N
+854,AUSTRALIA,Queensland,N,Y
+855,AUSTRALIA,New South Wales,N,N
+856,AUSTRALIA,New South Wales,N,N
+857,NEW CALEDONIA,UNKNOWN,N,N
+858,USA,Massachusetts,N,N
+859,NEW CALEDONIA,UNKNOWN,N,Y
+860,AUSTRALIA,Tasmania,N,N
+861,SOUTH AFRICA,Western Cape Province,N,N
+862,SOUTH AFRICA,Western Cape Province,N,N
+863,USA,Hawaii,N,N
+864,USA,South Carolina,N,UNKNOWN
+865,USA,Massachusetts,N,Y
+866,AUSTRALIA,New South Wales,N,N
+867,NEW CALEDONIA,UNKNOWN,N,Y
+868,MEXICO,Mexico / Caribbean Sea,N,N
+869,USA,Florida,N,N
+870,DOMINICAN REPUBLIC,12 miles off the north coast,N,Y
+871,USA,Florida,N,N
+872,SOUTH AFRICA,Eastern Cape Province,N,Y
+873,USA,Hawaii,N,UNKNOWN
+874,USA,South Carolina,N,N
+875,MARSHALL ISLANDS,Ralik Archipelago,N,N
+876,USA,Florida,N,N
+877,AUSTRALIA,Queensland,N,N
+878,CUBA,Guantanamo Province,N,N
+879,AUSTRALIA,Northern Territory,N,N
+880,USA,Florida,N,N
+881,SOUTH AFRICA,KwaZulu-Natal,N,Y
+882,AUSTRALIA,New South Wales,N,Y
+883,USA,California,N,N
+884,USA,Texas,N,Y
+885,PAPUA NEW GUINEA,Madang Province,N,N
+886,USA,South Carolina,N,N
+887,MAURITIUS,Cargados Carajos Shoals (St. Brandon),N,Y
+888,USA,South Carolina,N,N
+889,NEW ZEALAND,South Island,N,N
+890,AUSTRALIA,Queensland,N,N
+891,AUSTRALIA,Queensland,N,Y
+892,SOUTH AFRICA,Western Cape Province,N,N
+893,USA,California,N,UNKNOWN
+894,NEW CALEDONIA,South Province,N,N
+895,AUSTRALIA,Queensland,N,N
+896,USA,California,N,N
+897,SOUTH AFRICA,Western Cape Province,N,UNKNOWN
+898,ITALY,Manfredonia ,N,N
+899,TONGA,Vava’u,N,N
+900,NEW CALEDONIA,UNKNOWN,N,Y
+901,UNITED ARAB EMIRATES (UAE),Dubai,N,N
+902,OKINAWA,Miyako,N,Y
+903,FRENCH POLYNESIA,Tuamotus,N,N
+904,EGYPT,South Sinai Peninsula,N,N
+905,AUSTRALIA,New South Wales,N,Y
+906,AUSTRALIA,Tasmania,N,N
+907,USA,South Carolina,N,N
+908,AUSTRALIA,New South Wales,N,N
+909,AUSTRALIA,Queensland,N,N
+910,Coast of AFRICA,Island of St. Thomas,N,Y
+911,SOUTH AFRICA,Western Cape Province,N,N
+912,IRAN,Khuzestan Province,N,Y
+913,COLUMBIA,Isla Provedencia,N,N
+914,NEW CALEDONIA,UNKNOWN,N,N
+915,SOUTH AFRICA,Eastern Cape Province,N,N
+916,REUNION,d’Étang-Salé,N,Y
+917,USA,South Carolina,N,Y
+918,NEW CALEDONIA,UNKNOWN,N,N
+919,AUSTRALIA,South Australia,N,N
+920,AUSTRALIA,Northern Territory,N,Y
+921,MOZAMBIQUE,Gaza,N,N
+922,NEW CALEDONIA,UNKNOWN,N,Y
+923,CROATIA,Istria County,N,N
+924,USA,North Carolina,N,N
+925,JAVA,Northern Java,N,Y
+926,NEW CALEDONIA,UNKNOWN,N,Y
+927,ITALY,Liguaria,N,N
+928,AUSTRALIA,South Australia,N,N
+929,SOUTH AFRICA,Transvaal,N,N
+930,SOUTH AFRICA,KwaZulu-Natal,N,N
+931,NEW CALEDONIA,UNKNOWN,N,Y
+932,AUSTRALIA,New South Wales,N,N
+933,UNKNOWN,Off South American coast,N,Y
+934,USA,California,N,N
+935,AUSTRALIA,New South Wales,N,N
+936,NEW ZEALAND,Cook islans,N,N
+937,USA,Florida,N,Y
+938,NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+939,NEW CALEDONIA,UNKNOWN,N,Y
+940,NICARAGUA,Lower San Juan River,N,Y
+941,AUSTRALIA,New South Wales,N,N
+942,NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+943,NEW ZEALAND,North Island,N,N
+944,AUSTRALIA,Queensland,N,N
+945,USA,South Carolina,N,N
+946,MEXICO,Veracruz,N,Y
+947,MOZAMBIQUE,Limpopo River,N,N
+948,AUSTRALIA,South Australia,N,Y
+949,PAPUA NEW GUINEA,"Admiralty Islands, Manus Province",N,N
+950,NEW CALEDONIA,UNKNOWN,N,N
+951,IRAN,Khuzestan Province,N,N
+952,ITALY,Adriatic Sea,N,Y
+953,USA,California,N,N
+954,FIJI,Kadavu Island Group,N,N
+955,NEW ZEALAND,Chatham Islands,N,N
+956,COMOROS,Anjouan,N,UNKNOWN
+957,CUBA,Havana Province,N,N
+958,USA,Florida,N,N
+959,AUSTRALIA,Torres Strait,N,N
+960,ITALY,Venice Province,N,N
+961,CROATIA,Istria,N,N
+962,USA,Hawaii,N,N
+963,SAN DOMINGO,60 miles north of San Domingo in the West Indies,N,Y
+964,AUSTRALIA,Queensland,N,UNKNOWN
+965,REUNION,Saint-Philippe,N,Y
+966,ICELAND,Bardestrand,N,UNKNOWN
+967,USA,Hawaii,N,N
+968,USA,Florida,N,N
+969,UNITED ARAB EMIRATES,Fujairah Emirate,N,N
+970,USA,Texas,N,N
+971,REUNION,Conservatória District,N,N
+972,USA,Florida,N,N
+973,IRAQ,Basrah,N,N
+974,AUSTRALIA,Queensland,N,N
+975,USA,Florida,N,N
+976,USA,Hawaii,N,N
+977,REUNION,Saint-Leu,N,Y
+978,VANUATU,Malampa Province,N,Y
+979,AUSTRALIA,Western Australia,N,N
+980,USA,Florida,N,N
+981,AUSTRALIA,New South Wales,N,N
+982,USA,Florida,N,N
+983,CUBA,Havana Province,N,Y
+984,NEW CALEDONIA,UNKNOWN,N,Y
+985,VANUATU,Malampa Province,N,Y
+986,NEW CALEDONIA,UNKNOWN,N,N
+987,USA,Florida,N,N
+988,AUSTRALIA,Western Australia,N,Y
+989,USA,California,N,N
+990,CAPE VERDE,Santiago Island,N,UNKNOWN
+991,FIJI,Taveuni,N,Y
+992,AUSTRALIA,South Australia,N,Y
+993,BRAZIL,Pernambuco,N,N
+994,NEW ZEALAND,North Island,N,N
+995,NEW CALEDONIA,UNKNOWN,N,N
+996,TURKEY,Antalya Province,N,N
+997,SOUTH AFRICA,Eastern Cape Province,N,N
+998,USA,Hawaii,N,N
+999,EGYPT,Gulf of Suez,N,Y
+1000,AUSTRALIA,New South Wales,N,N
+1001,AUSTRALIA,Western Australia,N,N
+1002,AUSTRALIA,Queensland ,N,Y
+1003,AUSTRALIA,Queensland,N,Y
+1004,USA,Florida,N,N
+1005,SOUTH ATLANTIC OCEAN,Off the coast of West Africa,N,Y
+1006,NEW CALEDONIA,UNKNOWN,N,Y
+1007,SOUTH AFRICA,Western Cape Province,N,N
+1008,ECUADOR,Galapagos Islands,N,N
+1009,SOUTH AFRICA,Western Cape Province,N,Y
+1010,USA,North Carolina,N,Y
+1011,AUSTRALIA,New South Wales,N,N
+1012,NEW ZEALAND,"Off the Coromandel Peninsula, North Island",N,N
+1013,AUSTRALIA,South Australia,N,N
+1014,BRAZIL,Pernambuco,N,Y
+1015,ITALY,Teramo,N,Y
+1016,AUSTRALIA,New South Wales,N,N
+1017,ITALY,Adriatic Sea,N,N
+1018,USA,New York ,N,UNKNOWN
+1019,SOUTH AFRICA,Eastern Cape Province,N,N
+1020,REUNION,Saint-Joseph,N,Y
+1021,AUSTRALIA,Queensland,N,N
+1022,AUSTRALIA,Victoria,N,Y
+1023,MOZAMBIQUE,Inhambane Province,N,N
+1024,USA,Florida,N,N
+1025,AUSTRALIA,Torres Strait,N,N
+1026,AUSTRALIA,Torres Strait ,N,N
+1027,SOUTH AFRICA,KwaZulu-Natal,N,N
+1028,USA,South Carolina,N,N
+1029,USA,Florida,N,N
+1030,NEW CALEDONIA,UNKNOWN,N,Y
+1031,USA,North Carolina,N,N
+1032,USA,Florida,N,N
+1033,AUSTRALIA,Queensland,N,N
+1034,USA,Florida,N,UNKNOWN
+1035,PAPUA NEW GUINEA,"Abau Sub District, Central Province",N,N
+1036,USA,South Carolina,N,N
+1037,USA,Florida,N,N
+1038,AUSTRALIA,Tasmania,N,UNKNOWN
+1039,AUSTRALIA,South Australia,N,Y
+1040,USA,Florida,N,N
+1041,AUSTRALIA,New South Wales,N,N
+1042,USA,California,N,N
+1043,UNITED KINGDOM,Devon,N,N
+1044,USA,Maryland,N,N
+1045,USA,Florida,N,N
+1046,MEXICO,Tamaulipas,N,Y
+1047,AUSTRALIA,Queensland,N,N
+1048,USA,Florida,N,N
+1049,USA,Florida,N,N
+1050,USA,Louisiana,N,N
+1051,BAHAMAS,Exuma Islands,N,N
+1052,GABON,Estuaire Province,N,Y
+1053,USA,Florida,N,N
+1054,ITALY,Adriatic Sea,N,Y
+1055,SOUTH AFRICA,Western Cape Province,N,Y
+1056,SOUTH AFRICA,Western Cape Province,N,N
+1057,AUSTRALIA,Western Australia,N,N
+1058,SOUTH AFRICA,Western Cape Province,N,Y
+1059,USA,Florida,N,N
+1060,AUSTRALIA,Queensland,N,N
+1061,MEXICO,Baja California Sur,N,Y
+1062,AUSTRALIA,New South Wales,N,N
+1063,SOUTH AFRICA,KwaZulu-Natal,N,N
+1064,IRAN,Karun River,N,N
+1065,USA,Florida,N,N
+1066,PAPUA NEW GUINEA,"Admiralty Islands, Manus Province",N,N
+1067,REUNION,Le Port,N,N
+1068,SPAIN,Catalonia,N,N
+1069,USA,Hawaii,N,N
+1070,USA,Puerto Rico,N,Y
+1071,SOUTH AFRICA,Western Cape Province,N,Y
+1072,JAMAICA,Westmoreland Parish,N,Y
+1073,AUSTRALIA,South Australia,N,N
+1074,AUSTRALIA,New South Wales,N,UNKNOWN
+1075,USA,Florida,N,N
+1076,SOUTH AFRICA,KwaZulu-Natal,N,N
+1077,DOMINICAN REPUBLIC,Santo Domingo,N,Y
+1078,USA,New York,N,N
+1079,AUSTRALIA,Western Australia,N,Y
+1080,NEW CALEDONIA,South Province,N,Y
+1081,SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+1082,AUSTRALIA,New South Wales,N,N
+1083,MEXICO,Guerro,N,Y
+1084,USA,California,N,N
+1085,USA,Florida,N,N
+1086,AUSTRALIA,Queensland,N,N
+1087,USA,Florida,N,UNKNOWN
+1088,USA,Florida,N,N
+1089,NEW CALEDONIA,UNKNOWN,N,Y
+1090,USA,Hawaii,N,Y
+1091,USA,California,N,N
+1092,USA,Florida,N,N
+1093,AUSTRALIA,New South Wales,N,Y
+1094,USA,California,N,N
+1095,MOZAMBIQUE,Limpopo River,N,N
+1096,REUNION,Saint-Paul,N,Y
+1097,SOUTH AFRICA,KwaZulu-Natal,N,N
+1098,BRAZIL,Pernambuco,N,N
+1099,AUSTRALIA,Victoria,N,N
+1100,CANADA,Bay of Fundy,N,N
+1101,IRAN,Karun River,N,N
+1102,NEW CALEDONIA,UNKNOWN,N,N
+1103,USA,Florida,N,N
+1104,RUSSIA,Kuril Islands in the Pacific,N,N
+1105,AUSTRALIA,Tasmania,N,N
+1106,USA,Florida,N,N
+1107,USA,California,N,N
+1108,USA,Florida,N,N
+1109,USA,Hawaii,N,N
+1110,AUSTRALIA,Queensland,N,N
+1111,ITALY,Liguria,N,N
+1112,USA,Hawaii,N,UNKNOWN
+1113,USA,Florida,N,N
+1114,ANGOLA,West Africa,N,N
+1115,SPAIN,Valencia,N,N
+1116,USA,Florida,N,N
+1117,CUBA,Matanzas Province (north coast),N,Y
+1118,BAHAMAS,40 miles off Grand Bahama Island,N,N
+1119,FIJI,Yasawa Islands,N,Y
+1120,AUSTRALIA,New South Wales,N,N
+1121,NEW ZEALAND,South Island,N,N
+1122,ITALY,Adriatic Sea,N,N
+1123,NEW ZEALAND,South Island,N,Y
+1124,AUSTRALIA,Western Australia,N,N
+1125,AUSTRALIA,Western Australia,N,Y
+1126,USA,Florida,N,N
+1127,USA,Mississippi,N,N
+1128,USA,Hawaii,N,Y
+1129,USA,Florida,N,N
+1130,USA,Florida,N,N
+1131,USA,California,N,N
+1132,AUSTRALIA,Queensland,N,Y
+1133,USA,South Carolina,N,N
+1134,AUSTRALIA,New South Wales,N,Y
+1135,USA,South Carolina,N,UNKNOWN
+1136,AUSTRALIA,Western Australia,N,N
+1137,AUSTRALIA,Queensland,N,Y
+1138,USA,Florida,N,N
+1139,BRAZIL,Pernambuco,N,Y
+1140,NEW ZEALAND,South Island,N,N
+1141,AUSTRALIA,Queensland,N,N
+1142,LIBYA,Mediterranean Sea,N,N
+1143,SPAIN,Valencia ,N,N
+1144,USA,Florida,N,N
+1145,ICELAND,Fishing Grounds,N,N
+1146,AUSTRALIA,Victoria,N,N
+1147,AUSTRALIA,Tasmania,N,N
+1148,AUSTRALIA,Queensland,N,N
+1149,NEW CALEDONIA,UNKNOWN,N,Y
+1150,NICARAGUA,Lake Nicaragua (fresh water),N,Y
+1151,MAURITIUS,Port Louis Province,N,N
+1152,SOUTH AFRICA,KwaZulu-Natal,N,N
+1153,AUSTRALIA,New South Wales,N,N
+1154,USA,California,N,N
+1155,NEW CALEDONIA,UNKNOWN,N,N
+1156,NEW ZEALAND,North Island,N,UNKNOWN
+1157,USA,California,N,N
+1158,AUSTRALIA,New South Wales,N,UNKNOWN
+1159,USA,Oregon,N,N
+1160,NEW CALEDONIA,UNKNOWN,N,N
+1161,USA,Florida,N,N
+1162,NEW CALEDONIA,Loyalty Islands,N,UNKNOWN
+1163,THAILAND,Phang nga Province,N,Y
+1164,USA,South Carolina,N,UNKNOWN
+1165,USA,Florida,N,N
+1166,SEYCHELLES,Praslin,N,Y
+1167,SOUTH AFRICA,KwaZulu-Natal,N,N
+1168,AUSTRALIA,New South Wales,N,Y
+1169,AUSTRALIA,South Australia,N,N
+1170,BAHAMAS,Cat Cay,N,N
+1171,USA,South Carolina,N,N
+1172,AUSTRALIA,Western Australia,N,N
+1173,USA,North Carolina,N,N
+1174,SOUTH AFRICA,Western Cape Province,N,N
+1175,NICARAGUA,Lake Nicaragua (fresh water),N,Y
+1176,AUSTRALIA,New South Wales,N,N
+1177,GUYANA,Essequibo,N,Y
+1178,FRENCH POLYNESIA,Central Tuamotu,N,N
+1179,USA,Florida,N,Y
+1180,AUSTRALIA,Queensland,N,N
+1181,NEW CALEDONIA,UNKNOWN,N,N
+1182,INDONESIA,Moluccas,N,Y
+1183,EGYPT,Red Sea,N,Y
+1184,AUSTRALIA,Northern Territory,N,N
+1185,AUSTRALIA,New South Wales,N,N
+1186,SPAIN,Cádiz,N,Y
+1187,USA,Florida,N,N
+1188,EL SALVADOR,La Libertad,N,Y
+1189,AUSTRALIA,Northern Territory,N,UNKNOWN
+1190,NEW CALEDONIA,UNKNOWN,N,Y
+1191,USA,Florida,N,N
+1192,USA,Florida,N,UNKNOWN
+1193,AUSTRALIA,Queensland,N,N
+1194,USA,Hawaii,N,N
+1195,AUSTRALIA,Victoria,N,N
+1196,AUSTRALIA,New South Wales,N,N
+1197,SOUTH AFRICA,Western Cape Province,N,N
+1198,GRENADA,St. Andrew Parish,N,Y
+1199,USA,South Carolina,N,N
+1200,NEW CALEDONIA,UNKNOWN,N,UNKNOWN
+1201,USA,Florida,N,UNKNOWN
+1202,SOUTH AFRICA,Eastern Cape Province,N,N
+1203,USA,Florida,N,N
+1204,AUSTRALIA,Queensland,N,UNKNOWN
+1205,USA,Florida,N,UNKNOWN
+1206,AUSTRALIA,New South Wales,N,N
+1207,USA,California,N,Y
+1208,BRAZIL,Pernambuco,N,N
+1209,SOUTH AFRICA,Western Cape Province,N,N
+1210,AUSTRALIA,South Australia,N,N
+1211,USA,Florida,N,N
+1212,SOUTH AFRICA,KwaZulu-Natal,N,N
+1213,USA,Florida,N,N
+1214,SOUTH AFRICA,Western Cape Province,N,N
+1215,USA,Florida,N,N
+1216,USA,Virginia,N,UNKNOWN
+1217,USA,Oregon,N,N
+1218,USA,Florida,N,N
+1219,USA,Florida,N,N
+1220,USA,Florida,N,N
+1221,SPAIN,Granada,N,N
+1222,NEW ZEALAND,North Island,N,N
+1223,MEXICO,Guerrero,N,Y
+1224,USA,Florida,N,N
+1225,AUSTRALIA,New South Wales,N,N
+1226,GUINEA,Conakry Region,N,Y
+1227,SOUTH AFRICA,KwaZulu-Natal,N,UNKNOWN
+1228,USA,Texas,N,N
+1229,AUSTRALIA,Queensland,N,N
+1230,USA,Massachusetts,N,N
+1231,USA,Florida,N,N
+1232,MEXICO,Veracruz,N,N
+1233,USA,Florida,N,N
+1234,GUAM,North Region,N,N
+1235,SOUTH AFRICA,Western Cape Province,N,UNKNOWN
+1236,SOUTH AFRICA,Western Cape Province,N,N
+1237,COSTA RICA,Cocos Island,N,N
+1238,AUSTRALIA,Victoria,N,N
+1239,USA,Hawaii,N,N
+1240,SOUTH AFRICA,Eastern Cape Province,N,Y
+1241,USA,South Carolina,N,N
+1242,GULF OF ADEN,Between Somalia & Yemen,N,Y
+1243,SOUTH AFRICA,Western Cape Province,N,Y
+1244,AUSTRALIA,Western Australia,N,N
+1245,USA,California,N,Y
+1246,AUSTRALIA,Queensland,N,N
+1247,AUSTRALIA,Western Australia,N,UNKNOWN
+1248,USA,Florida,N,N
+1249,UNITED KINGDOM,Devon,N,N
+1250,USA,South Carolina,N,Y
+1251,AUSTRALIA,Tasmania,N,N
+1252,AUSTRALIA,Victoria,N,Y
+1253,USA,Florida,N,UNKNOWN
+1254,USA,Florida,N,UNKNOWN
+1255,FIJI,Muala,N,N
+1256,GRENADA,St. Georges ,N,N
+1257,AUSTRALIA,New South Wales,N,N
+1258,USA,Hawaii,N,N
+1259,SOLOMON ISLANDS,Makira-Ulawa Province,N,Y
+1260,SOUTH AFRICA,Eastern Cape Province,N,Y
