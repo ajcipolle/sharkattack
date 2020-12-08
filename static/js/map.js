@@ -68,16 +68,21 @@ function chooseColor(ADMIN) {
 // d3.json("/api/v1.0/machine_learning_results").then(machine_learning_results => {
 // console.log(machine_learning_results)
 // grabbing fatal counts data, the next two lines can be replaced with results data api call
-d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
-    console.log(fatal_counts_data)
 
-    // Grabbing our GeoJSON data..
-    // d3.json("/api/v1.0/fill_blanks_data").then(fillblanks => {
 
-    // Grab the fatal counts with d3 and flask
-    // d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
-    // console.log(fatal_counts_data)
-    // Grab the geoJSON country data
+// Grabbing our GeoJSON data..
+// d3.json("/api/v1.0/fill_blanks_data").then(fillblanks => {
+
+// Grab the fatal counts with d3 and flask
+d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
+    console.log(plot_data_map)
+    let attack_area = []
+    for (let i = 0; i < plot_data_map.length; i++) {
+        let area = plot_data_map[i].area
+        attack_area.push(area)
+    };
+    console.log(attack_area)
+        // Grab the geoJSON country data
     d3.json(link).then(data => {
         console.log(data)
             // Creating a geoJSON layer with the retrieved data
@@ -124,12 +129,13 @@ d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
                 //  `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_counts_data[0].fatal}!</h4>`
                 // run a function in the pop up to match geoJSON countries and results data
                 // layer.bindPopup(popuptext(feature.properties.ADMIN, autumnsdataapipull));
-                layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_counts_data[0].fatal}!</h4>`);
+                layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${plot_data_map[0].prediction}!</h4>`);
 
             }
         }).addTo(myMap);
     });
 });
+
 
 function popuptext(country_name, data) {
     fatal_or_not = "";
