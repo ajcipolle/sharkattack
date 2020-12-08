@@ -75,8 +75,8 @@ d3.json("/api/v1.0/fatal_counts_data").then(fatal_counts_data => {
     // d3.json("/api/v1.0/fill_blanks_data").then(fillblanks => {
 
     // Grab the fatal counts with d3 and flask
-    d3.json("/api/v1.0/plot_data").then(plot_data => {
-        console.log(plot_data)
+    d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
+        console.log(plot_data_map)
             // Grab the geoJSON country data
         d3.json(link).then(data => {
             console.log(data)
