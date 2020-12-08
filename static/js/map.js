@@ -29,7 +29,7 @@ function chooseColor(ADMIN) {
             return olyblue;
         case "Mexico":
             return olygold;
-        case "China":
+        case "Chile":
             return olyred;
         case "Cuba":
             return olyred;
