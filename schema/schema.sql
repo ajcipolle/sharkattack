@@ -8,14 +8,29 @@ CREATE TABLE fill_blanks(
     ,injury VARCHAR(300)
     ,fatal VARCHAR(10)
     ,time VARCHAR(20)
-    ,species VARCHAR(200)
-);
+    ,species VARCHAR(200));
 
 -- Step 2: Import the Fill_blanks.csv to the created table
 
--- Step 3: run the rest of these queries:
+-- Step 3: run the secoond create table query
+DROP TABLE IF EXISTS geo_data;
+CREATE TABLE geo_data(
+    clean_area VARCHAR(100)
+    ,combined_area VARCHAR(100)
+	,country VARCHAR(100)
+    ,lat FLOAT8
+	,long FLOAT8);
+
+-- Step 4: Import the geo_data.csv to the created table
+
+-- Step 5: Run the machine learning jupyter notebooks
+
+-- Step 6: Run the rest of these queries:
 ALTER TABLE fill_blanks
 ADD attack_id SERIAL PRIMARY KEY;
+
+ALTER TABLE geo_data
+ADD PRIMARY KEY (clean_area, country);
 
 DROP TABLE IF EXISTS fatal_counts; 
 CREATE TABLE fatal_counts AS
@@ -26,8 +41,8 @@ WHERE fatal = 'Y') AS fatal
 WHERE fatal = 'N') AS non_fatal
 ,(SELECT COUNT(fatal) FROM fill_blanks
 WHERE fatal = 'UNKNOWN') AS unknown
-,(SELECT COUNT(fatal) FROM fill_blanks) AS total
-);
+,(SELECT COUNT(fatal) FROM fill_blanks) AS total);
+
 ALTER TABLE fatal_counts
 ADD fatal_id SERIAL PRIMARY KEY;
 
@@ -40,8 +55,8 @@ WHERE sex = 'M') AS male
 WHERE sex = 'F') AS female
 ,(SELECT COUNT(sex) FROM fill_blanks
 WHERE sex = 'UNKNOWN') AS unknown
-,(SELECT COUNT(sex) FROM fill_blanks) AS total
-);
+,(SELECT COUNT(sex) FROM fill_blanks) AS total);
+
 ALTER TABLE sex_counts
 ADD sex_id SERIAL PRIMARY KEY;
 
@@ -60,16 +75,11 @@ WHERE age IN ('56', '57', '58', '59', '60', '61', '62', '63', '64', '65', '66', 
 WHERE age IN ('76', '77', '78', '79', '80', '81', '82', '83', '84', '85', '86', '87')) AS "elderly"
 ,(SELECT COUNT(sex) FROM fill_blanks
 WHERE age = 'UNKNOWN') AS unknown
-,(SELECT COUNT(age) FROM fill_blanks) AS total
-);
+,(SELECT COUNT(age) FROM fill_blanks) AS total);
+
 ALTER TABLE age_counts
 ADD age_id SERIAL PRIMARY KEY;
 
-
--- Run the machine learning jupyter notebooks
-
-
--- Run these queries to create tables
 DROP TABLE IF EXISTS machine_learning_encoded; 
 CREATE TABLE machine_learning_encoded AS
 (SELECT "Country", "Area", 
@@ -94,5 +104,16 @@ ORDER BY "Country", "Area");
 
 ALTER TABLE machine_learning_fatality
 ADD PRIMARY KEY ("Country", "Area");
+
+DROP TABLE IF EXISTS plot_data;
+CREATE TABLE plot_data AS
+(SELECT "Country" AS country, "Area" AS area, "Fatality Predicted (%)" AS fatality_predicted, "Fatality Actual (%)" AS fatality_actual, lat, long
+FROM machine_learning_fatality 
+LEFT JOIN geo_data
+ON clean_area = "Area" AND country = "Country");
+
+ALTER TABLE plot_data
+ADD plot_data SERIAL PRIMARY KEY;
+
 
 
