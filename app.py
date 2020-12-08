@@ -142,12 +142,12 @@ def plot_data_map():
 
     for item in results:
         item_dict = {}
-        item_dict["Country"] = item[0]
-        item_dict["Area"] = item[1]
-        item_dict["Fatality Predicted (%)"] = item[2]
-        item_dict["Fatality Actual (%)"] = item[3]
-        item_dict["Latitude"] = item[4]
-        item_dict["Longitude"] = item[5]
+        item_dict["country"] = item[0]
+        item_dict["area"] = item[1]
+        item_dict["fatality_predicted"] = item[2]
+        item_dict["fatality_actual"] = item[3]
+        item_dict["latitude"] = item[4]
+        item_dict["longitude"] = item[5]
         plot_data_results.append(item_dict)
 
     return jsonify(plot_data_results)
