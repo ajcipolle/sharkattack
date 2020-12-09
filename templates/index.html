@@ -273,11 +273,11 @@ We began by running the test data through each model. <br><br>Then, to verify ac
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>Data Cleaning Process</h3>
             <p>
-              The data cleaning process for this dataset was intense; there were many inconsistencies in the data. The largest offenders being; misspellings, extra spaces at the beginning or end of the word, and detailed descriptions of the area instead of stating a location. Our plan when we were starting this project was to use a website and scrape the data. We planned on doing this by creating a loop that iterates through the area column and inputs each area before scraping the coordinates. 
-<br><br>Unfortunately, this didn't work because the site we were using recognized and blocked the chrome driver after three countries' data was scraped. After this setback, we decided to pivot because the coordinates we were pulling were not great matches due to the misspellings and the multiple returns we were receiving. We ended up using OpenCageGeocode API and used a replace_list to start the cleaning process. After that, we stripped the text of multiple variables to create a cleaner location for the API call.
+              The data cleaning process for this dataset was intense; there were many inconsistencies in the data. The largest offenders being: misspellings, extra spaces at the beginning or end of words, and detailed descriptions of the area instead of stating a location. Our plan when we were starting this project was to use a website and scrape the data. We planned on doing this by creating a loop that iterates through the area column and inputs each area before scraping the coordinates. 
+<br><br>Unfortunately, this didn't work because the site we were using recognized and blocked the chrome driver after we scraped the data for three countries. After this setback, we decided to pivot because the coordinates we were pulling were not great matches due to the misspellings and the multiple returns we were receiving. We ended up using OpenCageGeocode API and used a replace_list to start the cleaning process. After that, we stripped the text of multiple variables to create a cleaner location for the API call.
 <br><br>
-To reduce the API calls, we created a text file that the areas are written to once they are cleaned. After we had a list of the cleaned areas from the text file, we created a dictionary, so we were able to store the response from the API call as a value with the area as a key. This step helped the data stay organized and allowed me to merge the response that we got back to the primary dataset as a test check. After we joined, we were able to find the locations that didn't get a match and manually enter as many as possible (about 6). 
-<br><br>At this point, data cleaning and extraction is complete. We next dropped duplicates since some areas were mentioned much more often. We didn't need the duplicates in this situation because we were merging the geodata onto a different data set (output of machine learning, not the primary data). We left two options at the bottom of the Jupyter notebook for loading the data into the database. One is a CSV that you can manually load and one is a direct route to SQL.
+To reduce the API calls, we created a text file that the areas were written to once they were cleaned. After we had a list of the cleaned areas from the text file, we created a dictionary, so we were able to store the response from the API call as a value with the area as a key. This step helped the data stay organized and allowed us to merge the response that we got back to the primary dataset as a test check. After we joined, we were able to find the locations that didn't get a match and manually enter as many as possible (about 6). 
+<br><br>At this point, data cleaning and extraction were complete. We next dropped duplicates since some areas were mentioned much more often. We didn't need the duplicates in this situation because we were merging the geodata onto a different data set (output of machine learning, not the primary data). We left two options at the bottom of the Jupyter notebook for loading the data into the database. One is a CSV that you can manually load and one is a direct route to SQL.
 
 
               <br>
@@ -323,8 +323,8 @@ To reduce the API calls, we created a text file that the areas are written to on
           <div class="col-lg-3 col-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">60</span>
-              <p>Shark attacks in 2020</p>
+              <span data-toggle="counter-up">61</span>
+              <p>Shark attacks in 2020 so far</p>
             </div>
           </div>
 
@@ -573,7 +573,7 @@ To reduce the API calls, we created a text file that the areas are written to on
 
         <div class="section-title">
           <h2>Shark Attack Map</h2>
-          <p>Let's make a leaflet map, shall we?</p>
+          <p>Click a marker to see the predicted chance of death from an attack.<br>Warning: Do not use this site mid-attack!</p>
         </div>
       
         <hr>
