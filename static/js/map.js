@@ -76,16 +76,18 @@ function chooseColor(ADMIN) {
 // Grab the fatal counts with d3 and flask
 d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
     console.log(plot_data_map)
-    let attack_area = []
-    for (let i = 0; i < plot_data_map.length; i++) {
-        let area = plot_data_map[i].area
-        attack_area.push(area)
-    };
-    console.log(attack_area)
+        // let attack_area = []
+        // for (let i = 0; i < plot_data_map.length; i++) {
+        //     let area = plot_data_map[i].area
+        //     attack_area.push(area)
+        // };
+        // console.log(attack_area)
         // Grab the geoJSON country data
     d3.json(link).then(data => {
         console.log(data)
-            // Creating a geoJSON layer with the retrieved data
+
+
+        // Creating a geoJSON layer with the retrieved data
         L.geoJson(data, {
             // Style each feature (in this case a country)
             style: function(feature) {
@@ -129,24 +131,50 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
                 //  `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_counts_data[0].fatal}!</h4>`
                 // run a function in the pop up to match geoJSON countries and results data
                 // layer.bindPopup(popuptext(feature.properties.ADMIN, attack_area));
-                layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Fatality Prediction: ${attack_area[0].prediction}!</h4>`);
+                // layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Fatality Prediction: ${attack_area[0].fatality_predicted}!</h4>`);
 
             }
         }).addTo(myMap);
+        // Create a new marker cluster group
+        var markers = L.markerClusterGroup();
+
+        // Loop through data
+        for (var i = 0; i < plot_data_map.length; i++) {
+
+            // Set the data location property to a variable
+            var location = plot_data_map[i].area;
+
+            // Check for location property
+            if (location) {
+
+                // Add a new marker to the cluster group and bind a pop-up
+                markers.addLayer(L.marker([plot_data_map.latitude[i], plot_data_map.longitude[i]])
+                    .bindPopup(plot_data_map.fatality_predicted[i]));
+            }
+            console.log(location[0])
+
+        }
+
+        // Add our marker cluster layer to the map
+        myMap.addLayer(markers);
+
     });
+
 });
 
 
-function popuptext(country_name, data) {
-    fatal_or_not = "";
-    data.forEach((record) => {
-        if (country_name == attack_area.country) {
-            fatal_or_not = attack_area.prediction
-        }
-    })
 
-    return `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Fatality Prediction: ${fatal_or_not}!</h4>`
-}
+// function popuptext(country_name, data) {
+//     fatal_or_not = "";
+//     data.forEach((record) => {
+//         if (feature.properties.ADMIN == attack_area.country) {
+//             fatal_or_not = attack_area.fatality_predicted
+//         }
+//     })
+//     console.log(fatal_or_not)
+
+//     return `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Fatality Prediction: ${fatal_or_not}!</h4>`
+// }
 // });
 
 
