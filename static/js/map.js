@@ -136,32 +136,31 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
             }
         }).addTo(myMap);
         // Create a new marker cluster group
-        var markers = L.markerClusterGroup();
-
         // Loop through data
         for (var i = 0; i < plot_data_map.length; i++) {
-
             // Set the data location property to a variable
-            var location = plot_data_map[i].area;
-
-            // Check for location property
-            if (location) {
-                console.log(plot_data_map[0].latitude)
-
+            // var location = plot_data_map[i].area;
+            // console.log(location[0])
+            // // Check for location property
+            // if (location) {
+            console.log(plot_data_map[0].latitude)
                 // Add a new marker to the cluster group and bind a pop-up
-                markers.addLayer(L.marker([plot_data_map[i].latitude, plot_data_map[i].longitude])
-                    .bindPopup(plot_data_map[i].fatality_predicted));
-            }
-
-
+            markers = L.marker([plot_data_map[i].latitude, plot_data_map[i].longitude])
+                .bindPopup(`<h3> ${plot_data_map[i].area} <br><hr> Predicted Chance of Death: ${plot_data_map[i].fatality_predicted}% <br><hr> Actual Chance of Death: ${plot_data_map[i].fatality_actual}%</h3>`);
+            myMap.addLayer(markers);
         }
-
-        // Add our marker cluster layer to the map
-        myMap.addLayer(markers);
-
-    });
-
+    })
 });
+
+
+
+
+// Add our marker cluster layer to the map
+
+
+// });
+
+// });
 
 
 
@@ -185,4 +184,3 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
 
 // d3.json(all_results).then(data => {
 //     console.log(data);
-// });
