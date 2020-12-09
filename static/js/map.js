@@ -133,7 +133,7 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
                 // layer.bindPopup(popuptext(feature.properties.ADMIN, attack_area));
                 for (var i = 0; i < plot_data_map.length; i++) {
                     prediction = plot_data_map[i].fatality_predicted
-                    console.log(prediction)
+                        // console.log(prediction)
                     layer.bindPopup(`<h3>If you get attacked by a shark in ${feature.properties.ADMIN},</h3> <hr> <h4>we predict your chance of death is ${prediction}%. </h4>`)
                 }
 
