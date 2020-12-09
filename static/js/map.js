@@ -146,12 +146,13 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
 
             // Check for location property
             if (location) {
+                console.log(plot_data_map[0].latitude)
 
                 // Add a new marker to the cluster group and bind a pop-up
-                markers.addLayer(L.marker([plot_data_map.latitude[i], plot_data_map.longitude[i]])
-                    .bindPopup(plot_data_map.fatality_predicted[i]));
+                markers.addLayer(L.marker([plot_data_map[i].latitude, plot_data_map[i].longitude])
+                    .bindPopup(plot_data_map[i].fatality_predicted));
             }
-            console.log(location[0])
+
 
         }
 
