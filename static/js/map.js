@@ -129,7 +129,7 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
                 //  `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_counts_data[0].fatal}!</h4>`
                 // run a function in the pop up to match geoJSON countries and results data
                 // layer.bindPopup(popuptext(feature.properties.ADMIN, attack_area));
-                layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${attack_area[0].prediction}!</h4>`);
+                layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Fatality Prediction: ${attack_area[0].prediction}!</h4>`);
 
             }
         }).addTo(myMap);
@@ -145,7 +145,7 @@ function popuptext(country_name, data) {
         }
     })
 
-    return `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_or_not}!</h4>`
+    return `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Fatality Prediction: ${fatal_or_not}!</h4>`
 }
 // });
 
