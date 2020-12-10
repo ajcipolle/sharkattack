@@ -120,7 +120,7 @@
 
         <div class="section-title">
           <h2>What We Did</h2>
-          <p>We pulled a shark attack dataset from Kaggle.com and learned from it.</p>
+          <p>We pulled a <a href="https://github.com/ajcipolle/sharkattack/blob/4729b5dfad1e5d50e5bbefcc461a7712b4f812fa/data/attacks.csv">shark attack dataset</a> from <a href="https://Kaggle.com">Kaggle.com</a> and <a href=#about>learned</a> from it.</p>
         </div>
 
         <div class="row">
@@ -183,7 +183,7 @@ We began by running the test data through each model. <br><br>Then, to verify ac
               <div class="col-md-6">
                 <i class="bx bx-receipt"></i>
                 <h4>Analysis</h4>
-                <p>What we learned</p>
+                <p>One thing that was pointed out to us was how much the injury feature played a role in the results of our model when we looked at the graph of feature importance. We then ran the model without injury column as a feature. The results were drastically different. As you can see from the R^2 the accuracy went way down. The feature importance was a lot more even however. <br><br>Species was the highest but not at the margins that injury was when it was a feature. Another interesting note was that literally every prediction was N for surviving the shark attack. The best explanation for this is that by removing the injury column the model had no way of coming to a determination because none of the other columns had any information on whether the individual was harmed or not by the attack. With this in mind we chose to use the injury feature for our final analysis</p>
               </div>
               <div class="col-md-6 mt-4 mt-md-0">
                 <i class="bx bx-cube-alt"></i>
@@ -205,23 +205,23 @@ We began by running the test data through each model. <br><br>Then, to verify ac
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">Accuracy <i class="val">0.74</i></span>
+              <span class="skill">Train Accuracy <i class="val">0.822</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="74" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="82" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Recall <i class="val">0.72</i></span>
+              <span class="skill">Train Precision <i class="val">0.279</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="72" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="28" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Precision <i class="val">0.20</i></span>
+              <span class="skill">Train Recall <i class="val">0.286</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="20" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="29" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -230,23 +230,23 @@ We began by running the test data through each model. <br><br>Then, to verify ac
           <div class="col-lg-6">
 
             <div class="progress">
-              <span class="skill">New South Wales, Australia <i class="val">80%</i></span>
+              <span class="skill">Test Accuracy <i class="val">0.833</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="83" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Oregon, USA <i class="val">10%</i></span>
+              <span class="skill">Test Precision <i class="val">0.429</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="10" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Colima, Mexica <i class="val">35%</i></span>
+              <span class="skill">Test Recall <i class="val">0.428</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="35" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="43" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -273,11 +273,11 @@ We began by running the test data through each model. <br><br>Then, to verify ac
           <div class="col-lg-6 pt-4 pt-lg-0">
             <h3>Data Cleaning Process</h3>
             <p>
-              The data cleaning process for this dataset was intense; there were many inconsistencies in the data. The largest offenders being; misspellings, extra spaces at the beginning or end of the word, and detailed descriptions of the area instead of stating a location. Our plan when we were starting this project was to use a website and scrape the data. We planned on doing this by creating a loop that iterates through the area column and inputs each area before scraping the coordinates. 
-<br><br>Unfortunately, this didn't work because the site we were using recognized and blocked the chrome driver after three countries' data was scraped. After this setback, we decided to pivot because the coordinates we were pulling were not great matches due to the misspellings and the multiple returns we were receiving. We ended up using OpenCageGeocode API and used a replace_list to start the cleaning process. After that, we stripped the text of multiple variables to create a cleaner location for the API call.
+              The data cleaning process for this dataset was intense; there were many inconsistencies in the data. The largest offenders being: misspellings, extra spaces at the beginning or end of words, and detailed descriptions of the area instead of stating a location. Our plan when we were starting this project was to use a website and scrape the data. We planned on doing this by creating a loop that iterates through the area column and inputs each area before scraping the coordinates. 
+<br><br>Unfortunately, this didn't work because the site we were using recognized and blocked the chrome driver after we scraped the data for three countries. After this setback, we decided to pivot because the coordinates we were pulling were not great matches due to the misspellings and the multiple returns we were receiving. We ended up using OpenCageGeocode API and used a replace_list to start the cleaning process. After that, we stripped the text of multiple variables to create a cleaner location for the API call.
 <br><br>
-To reduce the API calls, we created a text file that the areas are written to once they are cleaned. After we had a list of the cleaned areas from the text file, we created a dictionary, so we were able to store the response from the API call as a value with the area as a key. This step helped the data stay organized and allowed me to merge the response that we got back to the primary dataset as a test check. After we joined, we were able to find the locations that didn't get a match and manually enter as many as possible (about 6). 
-<br><br>At this point, data cleaning and extraction is complete. We next dropped duplicates since some areas were mentioned much more often. We didn't need the duplicates in this situation because we were merging the geodata onto a different data set (output of machine learning, not the primary data). We left two options at the bottom of the Jupyter notebook for loading the data into the database. One is a CSV that you can manually load and one is a direct route to SQL.
+To reduce the API calls, we created a text file that the areas were written to once they were cleaned. After we had a list of the cleaned areas from the text file, we created a dictionary, so we were able to store the response from the API call as a value with the area as a key. This step helped the data stay organized and allowed us to merge the response that we got back to the primary dataset as a test check. After we joined, we were able to find the locations that didn't get a match and manually enter as many as possible (about 6). 
+<br><br>At this point, data cleaning and extraction were complete. We next dropped duplicates since some areas were mentioned much more often. We didn't need the duplicates in this situation because we were merging the geodata onto a different data set (output of machine learning, not the primary data). We left two options at the bottom of the Jupyter notebook for loading the data into the database. One is a CSV that you can manually load and one is a direct route to SQL.
 
 
               <br>
@@ -289,12 +289,12 @@ To reduce the API calls, we created a text file that the areas are written to on
               <div class="col-md-6">
                 <i class="bx bx-receipt"></i>
                 <h4>Data in</h4>
-                <p>The dataset we started with</p>
+                <p>The <a href="/sharkattack/data/attacks.csv"> dataset</a> we started with</p>
               </div>
               <div class="col-md-6 mt-4 mt-md-0">
                 <i class="bx bx-cube-alt"></i>
                 <h4>Data out</h4>
-                <p>The data set we sent to the ML model</p>
+                <p>The <a href = "/sharkattack/data/geo_data.csv"> dataset</a> we sent to the ML model</p>
               </div>
             </div>
           </div>
@@ -323,8 +323,8 @@ To reduce the API calls, we created a text file that the areas are written to on
           <div class="col-lg-3 col-6 mt-5 mt-lg-0">
             <div class="count-box">
               <i class="icofont-live-support"></i>
-              <span data-toggle="counter-up">60</span>
-              <p>Shark attacks in 2020</p>
+              <span data-toggle="counter-up">61</span>
+              <p>Shark attacks in 2020 so far</p>
             </div>
           </div>
 
@@ -419,9 +419,9 @@ To reduce the API calls, we created a text file that the areas are written to on
           <div class="col-lg-12">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Predictions</li>
-              <li data-filter=".filter-web">Models</li>
+              <li data-filter=".filter-app">Backend</li>
+              <li data-filter=".filter-card">Machine Learning</li>
+              <li data-filter=".filter-web">Predictions</li>
             </ul>
           </div>
         </div>
@@ -437,8 +437,8 @@ To reduce the API calls, we created a text file that the areas are written to on
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 1</a></h4>
-                <p>App</p>
+                <h4><a href="portfolio-details.html">Database Design</a></h4>
+                <p>Flask App calling our machine learning output</p>
               </div>
             </div>
           </div>
@@ -536,14 +536,14 @@ To reduce the API calls, we created a text file that the areas are written to on
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="../static/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="">
-                <a href="../static/img/portfolio/portfolio-8.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="../static/img/portfolio/feature_importance.jpg" class="img-fluid" alt="">
+                <a href="../static/img/portfolio/feature_importance.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Card 3</a></h4>
-                <p>Card</p>
+                <h4><a href="portfolio-details.html">Feature Importance</a></h4>
+                <p>The injury feature was vital to our final model</p>
               </div>
             </div>
           </div>
@@ -573,7 +573,7 @@ To reduce the API calls, we created a text file that the areas are written to on
 
         <div class="section-title">
           <h2>Shark Attack Map</h2>
-          <p>Let's make a leaflet map, shall we?</p>
+          <p>Click a marker to see the predicted chance of death from an attack.<br>Warning: Do not use this site mid-attack!</p>
         </div>
       
         <hr>
@@ -821,21 +821,19 @@ To reduce the API calls, we created a text file that the areas are written to on
             <h4>Useful Links</h4>
             <ul>
               <li><i class="bx bx-chevron-right"></i> <a href="https://github.com/ajcipolle/sharkattack">Git Hub Repository</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#about">About Our Process</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Machine Learning Models</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Shark Attacks</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Shark Attack Advice</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#datacleaning">About Our Process</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">Machine Learning Models</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.floridamuseum.ufl.edu/shark-attacks/">The International Shark attack file</a></li>
             </ul>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Our Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Shark Attack Dataset</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Data Cleaning</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Machine Learning</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="https://www.kaggle.com/teajay/global-shark-attacks">Shark Attack Dataset</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#datacleaning">Data Cleaning</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">Machine Learning</a></li>
               <li><i class="bx bx-chevron-right"></i> <a href="#">Database Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Front End</a></li>
             </ul>
           </div>
         </div>
