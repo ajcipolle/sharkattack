@@ -24,7 +24,7 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 1.  Clone this repo to your machine.
 2.  Open GitBash/ZSH:
     - Create a new environment using the following command:
-      `conda create --name <env> python=3.6`
+      `conda create --name <sharkattack> python=3.6`
     - Navigate to the cloned folder with the requirements.txt folder and type:
       `pip install -r requirements.txt`
 3.  Once everything is installed, use your editor of choice and activate your environment with either:
