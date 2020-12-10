@@ -32,18 +32,15 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 ### Database
 
-1.  Open pgAdmin4 and create a new database called sharkattack
-2.  Load the schema file: [schema](assets/data/schema.sql)
-3.  Then load the tables in this order:
-    - [our_first_table](static/data/<filename>.csv)
-    - [our_second_table](static/data/<filename>.csv)
+1.  Open pgAdmin4 and create a new database called "sharkattack"
+2.  Load the schema file: [schema](schema/schema.sql)
+3.  Follow the 6 steps in the schema file
 
 ### API Keys/Passwords
 
 1.  Open the [configEDIT.py](configEDIT.py):
     - Rename the file 'config.py'
-    - Open file and replace the POSTGRES_LINK and insert your Postgres password and database name:
-      `postgresql://postgres:[PASSWORD]]@localhost:5432/[sharkattack]`
+    - Open file and replace the string after PW with your Postgres password as a string
     - Save the document and close
 2.  Open the [configEDIT.js](static/js/configEDIT.js)
     - Navigate to the static -> js folder and rename the configEDIT.js file as config.js
