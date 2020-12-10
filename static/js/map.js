@@ -4,14 +4,14 @@ var myMap = L.map("mapcontainer", {
     zoom: 2
 });
 // Adding tile layer
-L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
-    attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
-    tileSize: 512,
-    maxZoom: 18,
-    zoomOffset: -1,
-    id: "mapbox/streets-v11",
-    accessToken: API_KEY
-}).addTo(myMap);
+// L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+//     attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+//     tileSize: 512,
+//     maxZoom: 18,
+//     zoomOffset: -1,
+//     id: "mapbox/streets-v11",
+//     accessToken: API_KEY
+// }).addTo(myMap);
 
 // Use this link to get the geojson data.
 var link = "../static/data/countries.geojson";
@@ -86,6 +86,15 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
     d3.json(link).then(data => {
         console.log(data)
 
+        L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
+            attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
+            tileSize: 512,
+            maxZoom: 18,
+            zoomOffset: -1,
+            id: "mapbox/streets-v11",
+            accessToken: API_KEY
+        }).addTo(myMap);
+
 
         // Creating a geoJSON layer with the retrieved data
         L.geoJson(data, {
@@ -122,9 +131,9 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
                         });
                     },
                     // When a feature (country) is clicked, it is enlarged to fit the screen
-                    click: function(event) {
-                        myMap.fitBounds(event.target.getBounds());
-                    }
+                    // click: function(event) {
+                    //     myMap.fitBounds(event.target.getBounds());
+                    // }
                 });
                 // Conditional for matching geoJSON country names (feature.properties.ADMIN) with lat longs 
                 // Giving each feature a pop-up with information pertinent to it
