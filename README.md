@@ -1,5 +1,5 @@
 # sharkattack
-![Great Whites](templates/assets/img/hero-bg.jpg)
+![Great Whites](static/img/hero-bg.jpg)
 
 We are looking at shark attacks around the world, predicting the likelyhood of a fatality based on location and other features. 
 

@@ -27,6 +27,7 @@ fill_blanks = Base.classes.fill_blanks
 age_counts = Base.classes.age_counts
 fatal_counts = Base.classes.fatal_counts
 sex_counts = Base.classes.sex_counts
+plot_data = Base.classes.plot_data
 
 # Step 4: Create routes including a root level and API call routes
 @app.route("/")
@@ -120,14 +121,36 @@ def sex_counts_data():
 
     for item in results:
         item_dict = {}
-        item_dict["male"] = item[0]
-        item_dict["female"] = item[1]
-        item_dict["unknown"] = item[2]
-        item_dict["total"] = item[3]
-        item_dict["sex_id"] = item[4]
+        item_dict["Male"] = item[0]
+        item_dict["Female"] = item[1]
+        item_dict["Unknown"] = item[2]
         sex_counts_results.append(item_dict)
 
     return jsonify(sex_counts_results)
+
+@app.route("/api/v1.0/plot_data_map")
+def plot_data_map(): 
+
+    session = Session(engine)
+
+    results = session.query(plot_data.country, plot_data.area, plot_data.fatality_predicted, plot_data.fatality_actual, 
+                            plot_data.lat, plot_data.long, plot_data.plot_id).all()
+
+    session.close()
+
+    plot_data_results = []
+
+    for item in results:
+        item_dict = {}
+        item_dict["country"] = item[0]
+        item_dict["area"] = item[1]
+        item_dict["fatality_predicted"] = item[2]
+        item_dict["fatality_actual"] = item[3]
+        item_dict["latitude"] = item[4]
+        item_dict["longitude"] = item[5]
+        plot_data_results.append(item_dict)
+
+    return jsonify(plot_data_results)
 
 # Boiler plate flask app code
 if __name__ == "__main__":
