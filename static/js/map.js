@@ -22,7 +22,7 @@ var olygold = "#F4C300"
 var olyblack = "#000000"
 var olygreen = "#009F3D"
 var olyred = "#DF0024"
-    // Function that will determine the color of a country based on the medals count? it belongs to
+    // Function that will determine the color of a country
 function chooseColor(ADMIN) {
     switch (ADMIN) {
         case "South Africa":
@@ -131,37 +131,42 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
                 //  `<h3>${feature.properties.ADMIN}</h3> <hr> <h4>fatal count: ${fatal_counts_data[0].fatal}!</h4>`
                 // run a function in the pop up to match geoJSON countries and results data
                 // layer.bindPopup(popuptext(feature.properties.ADMIN, attack_area));
-                // layer.bindPopup(`<h3>${feature.properties.ADMIN}</h3> <hr> <h4>Fatality Prediction: ${attack_area[0].fatality_predicted}!</h4>`);
+                for (var i = 0; i < plot_data_map.length; i++) {
+                    prediction = plot_data_map[i].fatality_predicted
+                        // console.log(prediction)
+                    layer.bindPopup(`<h3>If you get attacked by a shark in ${feature.properties.ADMIN},</h3> <hr> <h4>we predict your chance of death is ${prediction}%. </h4>`)
+                }
 
             }
+
         }).addTo(myMap);
         // Create a new marker cluster group
-        var markers = L.markerClusterGroup();
-
         // Loop through data
         for (var i = 0; i < plot_data_map.length; i++) {
-
             // Set the data location property to a variable
-            var location = plot_data_map[i].area;
-
-            // Check for location property
-            if (location) {
+            // var location = plot_data_map[i].area;
+            // console.log(location[0])
+            // // Check for location property
+            if (plot_data_map[0].latitude, plot_data_map[0].longitude) {
                 console.log(plot_data_map[0].latitude)
-
-                // Add a new marker to the cluster group and bind a pop-up
-                markers.addLayer(L.marker([plot_data_map[i].latitude, plot_data_map[i].longitude])
-                    .bindPopup(plot_data_map[i].fatality_predicted));
+                    // Add a new marker to the cluster group and bind a pop-up
+                markers = L.marker([plot_data_map[i].latitude, plot_data_map[i].longitude])
+                    .bindPopup(`<h3> ${plot_data_map[i].area}, ${plot_data_map[i].country} <br><hr> Predicted Chance of Death: ${plot_data_map[i].fatality_predicted}% <br><hr> Actual Death Percentage: ${plot_data_map[i].fatality_actual}%</h3>`);
+                myMap.addLayer(markers);
             }
-
-
         }
-
-        // Add our marker cluster layer to the map
-        myMap.addLayer(markers);
-
-    });
-
+    })
 });
+
+
+
+
+// Add our marker cluster layer to the map
+
+
+// });
+
+// });
 
 
 
@@ -185,4 +190,3 @@ d3.json("/api/v1.0/plot_data_map").then(plot_data_map => {
 
 // d3.json(all_results).then(data => {
 //     console.log(data);
-// });
