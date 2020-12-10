@@ -182,7 +182,7 @@ We began by running the test data through each model. <br><br>Then, to verify ac
             <div class="row icon-boxes">
               <div class="col-md-6">
                 <i class="bx bx-receipt"></i>
-                <h4>Feature Importance Analysis</h4>
+                <h4>Feature Importance</h4>
                 <p>One thing we noticed was how much the injury feature played an extremely significant role in the results of our model looking at the graph of feature importance. We then ran the model without injury column as a feature. The results were drastically different. As you can see from the R^2 the accuracy went way down. The feature importance was a lot more even however. <br><br>Species was the highest but not at the margins that injury was when it was a feature. Another interesting note was that literally every prediction was N for surviving the shark attack. The best explanation for this is that by removing the injury column the model had no way of coming to a determination because none of the other columns had any information on whether the individual was harmed or not by the attack. With this in mind we chose to use the injury feature for our final analysis</p>
               </div>
               <div class="col-md-6 mt-4 mt-md-0">
