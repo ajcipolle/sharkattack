@@ -24,7 +24,7 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 1.  Clone this repo to your machine.
 2.  Open GitBash/ZSH:
     - Create a new environment using the following command:
-      `conda create --name <sharkattack> python=3.6`
+      `conda create --name <env> python=3.6`
     - Navigate to the cloned folder with the requirements.txt folder and type:
       `pip install -r requirements.txt`
 3.  Once everything is installed, use your editor of choice and activate your environment with either:
@@ -59,15 +59,13 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 - **Main Data Source**: [Shark Attacks](https://www.kaggle.com/.... This is a geographic dataset... 
 
-- **Lat/Long Coordinates by Location**: 
+- **Lat/Long Coordinates by Location**: OpenCageGeocode API
 
 
 ## Data Cleaning
 
 - NAs replaced with "unknown"
 - Matching and grouping locations
-- ERD design:<br />
-  ![ERD](static/images/OlympicDB_ERD.jpeg)
 
 ### Considerations
 
@@ -77,23 +75,3 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 <hr>
  
-## Analysis
-
-analysis
-
-
-<hr>
-
-## Visualizations
-
-#### Model 1 - Random Forest
-
-![Random Forest](static/images/gender_summer.JPG)
-
-#### Model 2 - Random Forest
-
-![Random Forest](static/images/gender_summer.JPG)
-
-
-<hr>
-  
