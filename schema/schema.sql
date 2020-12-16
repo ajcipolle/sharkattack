@@ -1,4 +1,4 @@
--- Step 1: run the first create table query
+-- Step 1: Run the first create table query
 DROP TABLE IF EXISTS fill_blanks;
 CREATE TABLE fill_blanks(
     area VARCHAR(100)
@@ -10,9 +10,9 @@ CREATE TABLE fill_blanks(
     ,time VARCHAR(20)
     ,species VARCHAR(200));
 
--- Step 2: Import the Fill_blanks.csv to the created table
+-- Step 2: Import the cleaned raw data CSV to the created table (Project_3_UO_Data/Fill_blanks.csv)
 
--- Step 3: run the secoond create table query
+-- Step 3: Run the secoond create table query
 DROP TABLE IF EXISTS geo_data;
 CREATE TABLE geo_data(
     clean_area VARCHAR(100)
@@ -21,9 +21,9 @@ CREATE TABLE geo_data(
     ,lat FLOAT8
 	,long FLOAT8);
 
--- Step 4: Import the geo_data.csv to the created table
+-- Step 4: Import the area and country coordinates to the created table (data/geo_data.csv)
 
--- Step 5: Run the machine learning jupyter notebooks
+-- Step 5: Run the machine learning jupyter notebook (Project_3_UO_Data/model_2.pynb)
 
 -- Step 6: Run the rest of these queries:
 ALTER TABLE fill_blanks

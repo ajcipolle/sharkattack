@@ -127,24 +127,24 @@
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch">
             <div class="icon-box">
               <div class="icon"><i class="bx bxl-dribbble"></i></div>
-              <h4><a href="">Data Cleaning</a></h4>
-              <p>Autum's Data cleaning explanation</p>
+              <h4><a href="#datacleaning">Data Cleaning</a></h4>
+              <p> </p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-file"></i></div>
-              <h4><a href="">Database</a></h4>
-              <p> John's explanation of the setup of our database and the way we used it</p>
+              <h4><a href="#portfolio-flters">Database</a></h4>
+              <p>  </p>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0">
             <div class="icon-box">
               <div class="icon"><i class="bx bx-tachometer"></i></div>
-              <h4><a href="">Machine Learning Models</a></h4>
-              <p>Daniel's Random Forest classification explanation</p>
+              <h4><a href="#services">Machine Learning Models</a></h4>
+              <p> </p>
             </div>
           </div>
 
@@ -172,7 +172,7 @@ To obtain more accurate predictions, we ran several different classification mod
 
 We began by running the test data through each model. <br><br>Then, to verify accuracy we ran the training data through the models. We were genuinely surprised to see that the model was overfitting, finding that the training model had higher accuracy than the testing model. We also ran a feature importance test on the highest-scoring model, Random Forest Classification, and discovered that the injury column dominated all other features.
 
-<br><br>Through <a href="https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/">more research</a>, we discovered that the best solution was to run a cross-validation model to generate many models in order to then take the mean of each model group to see if the model stabilizes. These results were also surprising because each group’s mean scores were even higher than the scores from the original model.
+
 
 </p>
             <ul>
@@ -182,13 +182,13 @@ We began by running the test data through each model. <br><br>Then, to verify ac
             <div class="row icon-boxes">
               <div class="col-md-6">
                 <i class="bx bx-receipt"></i>
-                <h4>Analysis</h4>
-                <p>One thing that was pointed out to us was how much the injury feature played a role in the results of our model when we looked at the graph of feature importance. We then ran the model without injury column as a feature. The results were drastically different. As you can see from the R^2 the accuracy went way down. The feature importance was a lot more even however. <br><br>Species was the highest but not at the margins that injury was when it was a feature. Another interesting note was that literally every prediction was N for surviving the shark attack. The best explanation for this is that by removing the injury column the model had no way of coming to a determination because none of the other columns had any information on whether the individual was harmed or not by the attack. With this in mind we chose to use the injury feature for our final analysis</p>
+                <h4>Feature Importance</h4>
+                <p>One thing we noticed was how much the injury feature played an extremely significant role in the results of our model looking at the graph of feature importance. We then ran the model without injury column as a feature. The results were drastically different. As you can see from the R^2 the accuracy went way down. The feature importance was a lot more even however. <br><br>Species was the highest but not at the margins that injury was when it was a feature. Another interesting note was that literally every prediction was N for surviving the shark attack. The best explanation for this is that by removing the injury column the model had no way of coming to a determination because none of the other columns had any information on whether the individual was harmed or not by the attack. With this in mind we chose to use the injury feature for our final analysis</p>
               </div>
               <div class="col-md-6 mt-4 mt-md-0">
                 <i class="bx bx-cube-alt"></i>
-                <h4>Model</h4>
-                <p>Random Forest Classifidation</p>
+                <h4>Refining Our Model</h4>
+                <p><br><br>Through <a href="https://machinelearningmastery.com/repeated-k-fold-cross-validation-with-python/">more research</a>, we discovered that the best solution was to run a cross-validation model to generate many models in order to then take the mean of each model group to see if the model stabilizes. These results were also surprising because each group’s mean scores were even higher than the scores from the original model.</p>
               </div>
             </div>
           </div>
@@ -282,8 +282,8 @@ To reduce the API calls, we created a text file that the areas were written to o
 
               <br>
             <ul>
-              <li><i class="bx bx-check-double"></i> Data Cleaning Summary:</li>
-              <li><i class="bx bx-check-double"></i> Data Cleaning Tools: </li>
+              <li><i class="bx bx-check-double"></i> Data Cleaning Summary: we cleaned, normalized, and grouped our features for input to our ML models.</li>
+              <li><i class="bx bx-check-double"></i> Data Cleaning Tools: Pandas, OpenCageGeocode API, SQL, Autum's expertise.</li>
             </ul>
             <div class="row icon-boxes">
               <div class="col-md-6">
@@ -363,42 +363,42 @@ To reduce the API calls, we created a text file that the areas were written to o
             <div class="icon-box">
               <i class="icofont-computer"></i>
               <h4><a href="#">Model One</a></h4>
-              <p>Our explanation of the first model we ran without dropping NAs</p>
+              <p>We ran a machine learning model without dropping NAs.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4 mt-lg-0">
             <div class="icon-box">
               <i class="icofont-chart-bar-graph"></i>
               <h4><a href="#">Model two</a></h4>
-              <p>Our explanation of the second model we ran with filling NAs</p>
+              <p>Then, we ran a second model after filling NAs.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="icofont-image"></i>
               <h4><a href="#">Model three</a></h4>
-              <p>Our explanation of the third model we ran after combining the locations</p>
+              <p>We then combined location areas and ran a new model.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="icofont-settings"></i>
               <h4><a href="#">Model four</a></h4>
-              <p> Our explanation of the forth model we ran finding the most important features</p>
+              <p> We ran a feature importance test, an noticed the extreme weight of the injury feature.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="icofont-earth"></i>
-              <h4><a href="#">Decision Tree Classifier</a></h4>
-              <p>Maybe an other</p>
+              <h4><a href="#">Final Model</a></h4>
+              <p>We decided to keep the injury feature in our model as dropping it resulted in a prediction of 100% chance of survival everywhere.</p>
             </div>
           </div>
           <div class="col-md-6 mt-4">
             <div class="icon-box">
               <i class="icofont-tasks-alt"></i>
-              <h4><a href="#">another</a></h4>
-              <p>Maybe another</p>
+              <h4><a href="#">Next Model</a></h4>
+              <p>Next, we could run new models including more specific definitions of features.</p>
             </div>
           </div>
         </div>
@@ -420,8 +420,8 @@ To reduce the API calls, we created a text file that the areas were written to o
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
               <li data-filter=".filter-app">Backend</li>
-              <li data-filter=".filter-card">Machine Learning</li>
-              <li data-filter=".filter-web">Predictions</li>
+              <li data-filter=".filter-card">Predictions</li>
+              <li data-filter=".filter-web">Machine Learning</li>
             </ul>
           </div>
         </div>
@@ -446,14 +446,14 @@ To reduce the API calls, we created a text file that the areas were written to o
           <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.1s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="../static/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="">
-                <a href="../static/img/portfolio/portfolio-2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="../static/img/autum-3.jpg" class="img-fluid" alt="">
+                <a href="../static/img/autum-3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Model 3</a></h4>
-                <p>Model</p>
+                <h4><a href="portfolio-details.html">Data Cleaning</a></h4>
+                <p>Solving the multiple areas per country issue</p>
               </div>
             </div>
           </div>
@@ -461,14 +461,14 @@ To reduce the API calls, we created a text file that the areas were written to o
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="../static/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="">
-                <a href="../static/img/portfolio/portfolio-3.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="../static/img/autum-2.jpg" class="img-fluid" alt="">
+                <a href="../static/img/autum-2.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 2</a></h4>
-                <p>App</p>
+                <h4><a href="portfolio-details.html">Data Cleaning</a></h4>
+                <p>Python</p>
               </div>
             </div>
           </div>
@@ -476,14 +476,14 @@ To reduce the API calls, we created a text file that the areas were written to o
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="../static/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-                <a href="../static/img/portfolio/portfolio-4.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="../static/img/portfolio/victoria_prediction.jpg" class="img-fluid" alt="">
+                <a href="../static/img/portfolio/victoria_prediction.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Prediction 2</a></h4>
-                <p>Prediction</p>
+                <h4><a href="portfolio-details.html">Fatality Prediction</a></h4>
+                <p>Victoria, South Africa</p>
               </div>
             </div>
           </div>
@@ -497,8 +497,8 @@ To reduce the API calls, we created a text file that the areas were written to o
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Model 2</a></h4>
-                <p>Model</p>
+                <h4><a href="portfolio-details.html">Machine Learning</a></h4>
+                <p>Random Forest ML Diagram</p>
               </div>
             </div>
           </div>
@@ -506,14 +506,14 @@ To reduce the API calls, we created a text file that the areas were written to o
           <div class="col-lg-4 col-md-6 portfolio-item filter-app wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
-                <img src="../static/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="">
-                <a href="../static/img/portfolio/portfolio-6.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="../static/img/autum-1.jpg" class="img-fluid" alt="">
+                <a href="../static/img/autum-1.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">App 3</a></h4>
-                <p>App</p>
+                <h4><a href="portfolio-details.html">Data Cleaning</a></h4>
+                <p>Design</p>
               </div>
             </div>
           </div>
@@ -521,19 +521,34 @@ To reduce the API calls, we created a text file that the areas were written to o
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp">
             <div class="portfolio-wrap">
               <figure>
-                <img src="../static/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="">
-                <a href="../static/img/portfolio/portfolio-4.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <img src="../static/img/portfolio/Hawaii_prediction.jpg" class="img-fluid" alt="">
+                <a href="../static/img/portfolio/Hawaii_prediction.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
               </figure>
 
               <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Prediction 1</a></h4>
-                <p>Prediction</p>
+                <h4><a href="portfolio-details.html">Fatality Prediction</a></h4>
+                <p>Hawaii, USA</p>
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card wow fadeInUp" data-wow-delay="0.1s">
+            <div class="portfolio-wrap">
+              <figure>
+                <img src="../static/img/portfolio/havana_prediction.jpg" class="img-fluid" alt="">
+                <a href="../static/img/portfolio/havana_prediction.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
+                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
+              </figure>
+
+              <div class="portfolio-info">
+                <h4><a href="portfolio-details.html">Fatality Prediction</a></h4>
+                <p>Havana, Cuba</p>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
             <div class="portfolio-wrap">
               <figure>
                 <img src="../static/img/portfolio/feature_importance.jpg" class="img-fluid" alt="">
@@ -544,21 +559,6 @@ To reduce the API calls, we created a text file that the areas were written to o
               <div class="portfolio-info">
                 <h4><a href="portfolio-details.html">Feature Importance</a></h4>
                 <p>The injury feature was vital to our final model</p>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-4 col-md-6 portfolio-item filter-web wow fadeInUp" data-wow-delay="0.2s">
-            <div class="portfolio-wrap">
-              <figure>
-                <img src="../static/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="">
-                <a href="../static/img/portfolio/portfolio-9.jpg" class="link-preview venobox" data-gall="portfolioGallery" title="Preview"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" class="link-details" title="More Details"><i class="bx bx-link"></i></a>
-              </figure>
-
-              <div class="portfolio-info">
-                <h4><a href="portfolio-details.html">Model 1</a></h4>
-                <p>Model</p>
               </div>
             </div>
           </div>
@@ -594,6 +594,7 @@ To reduce the API calls, we created a text file that the areas were written to o
           <h2>Shark Attack Graphs</h2>
         </div>
       <hr>
+      <div class="row">
         <section id = "age_bar" class="graph">
           <div id="graphcontainer" style="width:50%; height:400px;">
           </div>
@@ -616,6 +617,7 @@ To reduce the API calls, we created a text file that the areas were written to o
           <div id="graphcontainer" style="width:50%; height:400px;">
           </div>
         </section>
+      </div>
       </div>
     </section>
     <section>

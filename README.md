@@ -24,7 +24,7 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 1.  Clone this repo to your machine.
 2.  Open GitBash/ZSH:
     - Create a new environment using the following command:
-      `conda create --name <sharkattack> python=3.6`
+      `conda create --name <env> python=3.6`
     - Navigate to the cloned folder with the requirements.txt folder and type:
       `pip install -r requirements.txt`
 3.  Once everything is installed, use your editor of choice and activate your environment with either:
@@ -32,18 +32,15 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 ### Database
 
-1.  Open pgAdmin4 and create a new database called sharkattack
-2.  Load the schema file: [schema](assets/data/schema.sql)
-3.  Then load the tables in this order:
-    - [our_first_table](static/data/<filename>.csv)
-    - [our_second_table](static/data/<filename>.csv)
+1.  Open pgAdmin4 and create a new database called "sharkattack"
+2.  Load the schema file: [schema](schema/schema.sql)
+3.  Follow the 6 steps in the schema file
 
 ### API Keys/Passwords
 
 1.  Open the [configEDIT.py](configEDIT.py):
     - Rename the file 'config.py'
-    - Open file and replace the POSTGRES_LINK and insert your Postgres password and database name:
-      `postgresql://postgres:[PASSWORD]]@localhost:5432/[sharkattack]`
+    - Open file and replace the string after PW with your Postgres password as a string
     - Save the document and close
 2.  Open the [configEDIT.js](static/js/configEDIT.js)
     - Navigate to the static -> js folder and rename the configEDIT.js file as config.js
@@ -62,15 +59,13 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 - **Main Data Source**: [Shark Attacks](https://www.kaggle.com/.... This is a geographic dataset... 
 
-- **Lat/Long Coordinates by Location**: 
+- **Lat/Long Coordinates by Location**: OpenCageGeocode API
 
 
 ## Data Cleaning
 
 - NAs replaced with "unknown"
 - Matching and grouping locations
-- ERD design:<br />
-  ![ERD](static/images/OlympicDB_ERD.jpeg)
 
 ### Considerations
 
@@ -80,23 +75,3 @@ We are looking at shark attacks around the world, predicting the likelyhood of a
 
 <hr>
  
-## Analysis
-
-analysis
-
-
-<hr>
-
-## Visualizations
-
-#### Model 1 - Random Forest
-
-![Random Forest](static/images/gender_summer.JPG)
-
-#### Model 2 - Random Forest
-
-![Random Forest](static/images/gender_summer.JPG)
-
-
-<hr>
-  
